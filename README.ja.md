@@ -1,9 +1,17 @@
 <p align="center">
-  <strong>ダウンロード:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">Horizon をダウンロード setup.exe</a> ·
-  <a href="https://horizonlauncher.net/en/download-horizon/">Horizon をダウンロード</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">ランチャーをインストール</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>かんたんインストール（Win+R）</strong> · <strong>通常インストール</strong>
+</p>
+
+<p align="center">コマンドをコピーし、Win+R を開いて Enter。Horizon がダウンロード・インストールされ、自動で開きます。</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>通常インストール — Horizon をダウンロード setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/en/download-horizon/">Horizon をダウンロード</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Horizon をダウンロード" src="https://img.shields.io/badge/Download_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>

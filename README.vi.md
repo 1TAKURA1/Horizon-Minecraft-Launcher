@@ -1,9 +1,17 @@
 <p align="center">
-  <strong>Tải:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">Tải Horizon setup.exe</a> ·
-  <a href="https://horizonlauncher.net/en/download-horizon/">Tải Horizon</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">Cài launcher</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>Cài nhanh (Win+R)</strong> · <strong>Cài thường</strong>
+</p>
+
+<p align="center">Copy lệnh, mở Win+R, Enter — Horizon tự tải, cài và mở.</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>Cài thường — Tải Horizon setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/en/download-horizon/">Tải Horizon</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Tải Horizon" src="https://img.shields.io/badge/Tai_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>

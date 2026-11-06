@@ -1,9 +1,17 @@
 <p align="center">
-  <strong>下载:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">下载 Horizon setup.exe</a> ·
-  <a href="https://horizonlauncher.net/en/download-horizon/">下载 Horizon</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">安装启动器</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>快速安装（Win+R）</strong> · <strong>普通安装</strong>
+</p>
+
+<p align="center">复制命令，打开 Win+R，按回车 — Horizon 会自行下载、安装并打开。</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>普通安装 — 下载 Horizon setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/en/download-horizon/">下载 Horizon</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="下载 Horizon" src="https://img.shields.io/badge/下载_Horizon-Windows安装包-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>

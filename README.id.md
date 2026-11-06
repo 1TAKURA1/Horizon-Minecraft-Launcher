@@ -1,9 +1,17 @@
 <p align="center">
-  <strong>Unduh:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">Unduh Horizon setup.exe</a> ·
-  <a href="https://horizonlauncher.net/en/download-horizon/">Unduh Horizon</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">Pasang launcher</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>Instal cepat (Win+R)</strong> · <strong>Instal biasa</strong>
+</p>
+
+<p align="center">Salin perintah, buka Win+R, Enter — Horizon unduh, terpasang, dan terbuka sendiri.</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>Instal biasa — Unduh Horizon setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/en/download-horizon/">Unduh Horizon</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Unduh Horizon" src="https://img.shields.io/badge/Unduh_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>

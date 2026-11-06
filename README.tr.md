@@ -1,9 +1,17 @@
 <p align="center">
-  <strong>Indir:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">Horizon’u indir setup.exe</a> ·
-  <a href="https://horizonlauncher.net/en/download-horizon/">Horizon’u indir</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">Başlatıcıyı kur</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>Hızlı kurulum (Win+R)</strong> · <strong>Normal kurulum</strong>
+</p>
+
+<p align="center">Komutu kopyala, Win+R aç, Enter — Horizon iner, kurulur ve kendiliğinden açılır.</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>Normal kurulum — Horizon’u indir setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/en/download-horizon/">Horizon’u indir</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Horizon’u indir" src="https://img.shields.io/badge/Horizon_indir-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>

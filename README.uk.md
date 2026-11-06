@@ -1,9 +1,17 @@
 <p align="center">
-  <strong>Завантажити:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">Завантажити Horizon setup.exe</a> ·
-  <a href="https://horizonlauncher.net/download-horizon/">Завантажити Horizon</a> ·
-  <a href="https://horizonlauncher.net/install-horizon/">Встановити лаунчер</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>Швидка установка (Win+R)</strong> · <strong>Звичайна установка</strong>
+</p>
+
+<p align="center">Скопіюй команду, відкрий Win+R і натисни Enter — Horizon завантажиться, встановиться і відкриється сам.</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>Звичайна установка — Завантажити Horizon setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/download-horizon/">Завантажити Horizon</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Завантажити Horizon" src="https://img.shields.io/badge/Завантажити_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>

@@ -1,9 +1,17 @@
 <p align="center">
-  <strong>डाउनलोड:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">Horizon डाउनलोड setup.exe</a> ·
-  <a href="https://horizonlauncher.net/en/download-horizon/">Horizon डाउनलोड</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">लॉन्चर इंस्टॉल करें</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>तेज़ इंस्टॉल (Win+R)</strong> · <strong>सामान्य इंस्टॉल</strong>
+</p>
+
+<p align="center">कमांड कॉपी करें, Win+R खोलें, Enter — Horizon डाउनलोड, इंस्टॉल और खुद खुल जाएगा।</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>सामान्य इंस्टॉल — Horizon डाउनलोड setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/en/download-horizon/">Horizon डाउनलोड</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Horizon डाउनलोड" src="https://img.shields.io/badge/Download_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>

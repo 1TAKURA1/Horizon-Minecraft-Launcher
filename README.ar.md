@@ -1,9 +1,17 @@
 <p align="center" dir="rtl">
-  <strong>تنزيل:</strong>
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">تنزيل Horizon setup.exe</a> ·
-  <a href="https://horizonlauncher.net/en/download-horizon/">تنزيل Horizon</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">تثبيت المشغّل</a> ·
-  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <strong>تثبيت سريع (Win+R)</strong> · <strong>تثبيت عادي</strong>
+</p>
+
+<p align="center" dir="rtl">انسخ الأمر، افتح Win+R، Enter — يتنزّل Horizon ويُثبَّت ويفتح وحده.</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center" dir="rtl">
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>تثبيت عادي — تنزيل Horizon setup.exe</strong></a>
+  · <a href="https://horizonlauncher.net/en/download-horizon/">تنزيل Horizon</a>
+  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
 </p>
 
 <p align="center" dir="rtl">
@@ -30,6 +38,7 @@
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="تنزيل Horizon" src="https://img.shields.io/badge/Download_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
 </p>
