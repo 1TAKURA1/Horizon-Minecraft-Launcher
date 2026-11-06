@@ -1,4 +1,17 @@
 <p align="center">
+  <strong>ダウンロード:</strong>
+  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">Horizon をダウンロード setup.exe</a> ·
+  <a href="https://horizonlauncher.net/en/download-horizon/">Horizon をダウンロード</a> ·
+  <a href="https://horizonlauncher.net/en/install-horizon/">ランチャーをインストール</a> ·
+  <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+</p>
+
+<p align="center">
+  <strong>README:</strong>
+  <a href="README.md">Русский</a> · <a href="README.en.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.es.md">Español</a> · <a href="README.pt.md">Português</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.zh.md">简体中文</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.id.md">Indonesia</a> · <a href="README.vi.md">Tiếng Việt</a>
+</p>
+
+<p align="center">
   <a href="https://horizonlauncher.net/">
     <img src="https://horizonlauncher.net/media/logo.png" width="120" height="120" alt="Horizon Minecraft launcher">
   </a>
@@ -10,12 +23,8 @@
   <b>Horizon Minecraft · Rust の Java クライアント · Windows セットアップ · より高い FPS · 無料</b>
 </p>
 
-<p align="center">🌐 [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [Español](README.es.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Polski](README.pl.md) · [Türkçe](README.tr.md) · [简体中文](README.zh.md) · **日本語** · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Indonesia](README.id.md) · [Tiếng Việt](README.vi.md)</p>
-
 <p align="center">
-  <a href="https://horizonlauncher.net/"><strong>公式サイト horizonlauncher.net</strong></a><br>
-  <a href="https://horizonlauncher.net/en/download-horizon/">Horizon をダウンロード</a> ·
-  <a href="https://horizonlauncher.net/en/install-horizon/">ランチャーをインストール</a> ·
+  <a href="https://horizonlauncher.net/"><strong>公式サイト horizonlauncher.net</strong></a> ·
   <a href="https://horizonlauncher.net/en/minecraft-rust/">Rust の Minecraft</a> ·
   <a href="https://horizonlauncher.net/en/faq/">FAQ</a>
 </p>
