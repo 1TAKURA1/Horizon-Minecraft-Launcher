@@ -187,10 +187,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ### Спосіб 2. Звичайна установка (setup.exe)
 
-Той самий інсталятор Horizon — звичайне завантаження файлу, без команди. Актуальна версія: **0.2.58**, Windows x64, ~60 MB.
+Той самий інсталятор Horizon — звичайне завантаження файлу, без команди. Актуальна версія: **0.2.58**, Windows x64, ~64 MB.
 
 **[Завантажити Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. Завантаж [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe).
 2. Запусти інсталятор Windows.

@@ -187,10 +187,10 @@ Guide complet : [https://horizonlauncher.net/en/install-horizon/](https://horizo
 
 ### Méthode 2. Installation normale (setup.exe)
 
-Le même installeur Horizon — téléchargement de fichier, sans commande. Actuel : **0.2.58**, Windows x64, ~60 MB.
+Le même installeur Horizon — téléchargement de fichier, sans commande. Actuel : **0.2.58**, Windows x64, ~64 MB.
 
 **[Télécharger Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. Téléchargez [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe).
 2. Lancez l’installeur Windows.

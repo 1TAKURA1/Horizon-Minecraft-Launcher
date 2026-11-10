@@ -187,10 +187,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ### 방법 2. 일반 설치 (setup.exe)
 
-같은 Horizon 설치 파일 — 명령 없이 파일 다운로드. 현재 **0.2.58**, Windows x64, 약 60 MB.
+같은 Horizon 설치 파일 — 명령 없이 파일 다운로드. 현재 **0.2.58**, Windows x64, 약 64 MB.
 
 **[Horizon 다운로드 — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)를 받습니다.
 2. Windows 설치 프로그램을 실행합니다.

@@ -187,10 +187,10 @@ Pełny poradnik: [https://horizonlauncher.net/en/install-horizon/](https://horiz
 
 ### Sposób 2. Zwykła instalacja (setup.exe)
 
-Ten sam instalator Horizon — zwykłe pobranie pliku, bez polecenia. Aktualnie: **0.2.58**, Windows x64, ~60 MB.
+Ten sam instalator Horizon — zwykłe pobranie pliku, bez polecenia. Aktualnie: **0.2.58**, Windows x64, ~64 MB.
 
 **[Pobierz Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. Pobierz [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe).
 2. Uruchom instalator Windows.

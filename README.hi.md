@@ -187,10 +187,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ### तरीका 2. सामान्य इंस्टॉल (setup.exe)
 
-वही Horizon इंस्टॉलर — बिना कमांड फ़ाइल डाउनलोड। वर्तमान: **0.2.58**, Windows x64, ~60 MB.
+वही Horizon इंस्टॉलर — बिना कमांड फ़ाइल डाउनलोड। वर्तमान: **0.2.58**, Windows x64, ~64 MB.
 
 **[Horizon डाउनलोड — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) डाउनलोड करें।
 2. Windows इंस्टॉलर चलाएँ।

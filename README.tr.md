@@ -187,10 +187,10 @@ Tam kılavuz: [https://horizonlauncher.net/en/install-horizon/](https://horizonl
 
 ### Yöntem 2. Normal kurulum (setup.exe)
 
-Aynı Horizon yükleyicisi — komutsuz dosya indirme. Güncel: **0.2.58**, Windows x64, ~60 MB.
+Aynı Horizon yükleyicisi — komutsuz dosya indirme. Güncel: **0.2.58**, Windows x64, ~64 MB.
 
 **[Horizon’u indir — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) indir.
 2. Windows yükleyicisini çalıştır.

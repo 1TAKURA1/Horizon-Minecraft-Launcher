@@ -187,10 +187,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ### 方法2. 通常インストール（setup.exe）
 
-同じ Horizon インストーラー — コマンドなしのファイルダウンロード。現行 **0.2.58**、Windows x64、約 60 MB。
+同じ Horizon インストーラー — コマンドなしのファイルダウンロード。現行 **0.2.58**、Windows x64、約 64 MB。
 
 **[Horizon をダウンロード — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) をダウンロード。
 2. Windows インストーラーを実行。

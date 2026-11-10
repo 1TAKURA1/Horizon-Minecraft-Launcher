@@ -187,10 +187,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ### الطريقة 2. تثبيت عادي (setup.exe)
 
-نفس مثبّت Horizon — تنزيل ملف بدون أمر. الحالي: **0.2.58**، Windows x64، نحو 60 MB.
+نفس مثبّت Horizon — تنزيل ملف بدون أمر. الحالي: **0.2.58**، Windows x64، نحو 64 MB.
 
 **[تنزيل Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. نزّل [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe).
 2. شغّل مثبّت ويندوز.

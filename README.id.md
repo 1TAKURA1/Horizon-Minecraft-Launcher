@@ -187,10 +187,10 @@ Panduan lengkap: [https://horizonlauncher.net/en/install-horizon/](https://horiz
 
 ### Metode 2. Instal biasa (setup.exe)
 
-Installer Horizon yang sama — unduhan berkas tanpa perintah. Saat ini: **0.2.58**, Windows x64, ~60 MB.
+Installer Horizon yang sama — unduhan berkas tanpa perintah. Saat ini: **0.2.58**, Windows x64, ~64 MB.
 
 **[Unduh Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. Unduh [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe).
 2. Jalankan installer Windows.

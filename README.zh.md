@@ -187,10 +187,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ### 方法 2. 普通安装（setup.exe）
 
-同一个 Horizon 安装包 — 普通文件下载，无需命令。当前：**0.2.58**，Windows x64，约 60 MB。
+同一个 Horizon 安装包 — 普通文件下载，无需命令。当前：**0.2.58**，Windows x64，约 64 MB。
 
 **[下载 Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
 
 1. 下载 [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)。
 2. 运行 Windows 安装程序。
