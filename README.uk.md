@@ -12,7 +12,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 2. **Встав.** Ctrl+V — встав команду нижче.
 3. **Enter.** Horizon завантажиться, встановиться і відкриється — далі Підготувати → Грати.
 
-<p align="center">Без прав адміністратора. Якщо Windows запитає про PowerShell — підтвердь. Команда тягне `install.ps1` лише з horizonlauncher.net.</p>
+<p align="center">Інсталятор і лаунчер запускаються від імені адміністратора (UAC) — підтвердь запит Windows. Команда тягне `install.ps1` лише з horizonlauncher.net.</p>
 
 <p align="center">
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>Звичайна установка — Завантажити Horizon setup.exe</strong></a>
@@ -192,7 +192,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 2. **Встав.** Ctrl+V — встав команду нижче.
 3. **Enter.** Horizon завантажиться, встановиться і відкриється — далі Підготувати → Грати.
 
-Без прав адміністратора. Якщо Windows запитає про PowerShell — підтвердь. Команда тягне `install.ps1` лише з horizonlauncher.net.
+Інсталятор і лаунчер запускаються від імені адміністратора (UAC) — підтвердь запит Windows. Команда тягне `install.ps1` лише з horizonlauncher.net.
 
 Повний гід: [https://horizonlauncher.net/install-horizon/](https://horizonlauncher.net/install-horizon/) · [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/)
 
@@ -213,39 +213,31 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 - Windows x64 · GPU DX12 / Vulkan · будь-яка версія Minecraft на диску
 
 
-## Возможности Horizon Minecraft (клиент Java на Rust)
+## Можливості Horizon Minecraft (клієнт Java на Rust)
 
-**Horizon** переписывает **Minecraft: Java Edition 26.3** на **Rust**: те же миры, генерация и правила, нативный рендер вместо JVM. Не мод — отдельная программа, которую ставит **лаунчер Horizon** с **[horizonlauncher.net](https://horizonlauncher.net/)**.
+**Horizon** переписує **Minecraft: Java Edition 26.3** мовою **Rust**: ті самі світи й правила, нативний рендер замість JVM. Встановлюйте **лаунчер Horizon** лише з **[horizonlauncher.net](https://horizonlauncher.net/)**.
 
-| Тема | Что ищут в Google / Bing | Страница |
-|------|---------------------------|----------|
-| Скачать лаунчер | скачать Horizon, Horizon setup exe, Win+R установка | [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/) |
-| FPS / Rust client | Minecraft на Rust, выше FPS Java, Rust Minecraft client | [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/performance/](https://horizonlauncher.net/performance/) |
-| Моды | Distant Horizons, Create, шейдеры Horizon | [https://horizonlauncher.net/distant-horizons/](https://horizonlauncher.net/distant-horizons/) · [https://horizonlauncher.net/create-mod/](https://horizonlauncher.net/create-mod/) · [https://horizonlauncher.net/shaders/](https://horizonlauncher.net/shaders/) |
-| Мультиплеер | сервера Java, LAN, друзья | [https://horizonlauncher.net/server/](https://horizonlauncher.net/server/) |
-| Юридическое | LGPL Horizon, не Mojang | [https://horizonlauncher.net/legal/](https://horizonlauncher.net/legal/) |
+| Запит | Сторінка |
+|-------|----------|
+| завантажити Horizon, setup exe, Win+R | [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/) |
+| Minecraft на Rust, вищий FPS | [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/performance/](https://horizonlauncher.net/performance/) |
+| Distant Horizons, Create, шейдери | [https://horizonlauncher.net/distant-horizons/](https://horizonlauncher.net/distant-horizons/) · [https://horizonlauncher.net/create-mod/](https://horizonlauncher.net/create-mod/) · [https://horizonlauncher.net/shaders/](https://horizonlauncher.net/shaders/) |
+| мультиплеєр | [https://horizonlauncher.net/server/](https://horizonlauncher.net/server/) |
+| LGPL | [https://horizonlauncher.net/legal/](https://horizonlauncher.net/legal/) |
 
-### Parity и производительность
+### Parity та FPS
 
-У upstream-проекта **сотни differential harnesses**: одни и те же входы прогоняют ваниль Java и Horizon Rust и сравнивают результат — генерация чанков, редстоун, сущности, сеть, освещение, сохранения. На практике это значит: **скачать Horizon** ради **стабильного FPS** и отзывчивого клиента, а не «случайного» форка.
+Сотні **differential harnesses** порівнюють ваніль Java і Horizon Rust на однакових вхідних даних — чанки, редстоун, мережа, світло, сейви.
 
-### Что есть в игре (по upstream, Windows через наш setup)
+### У грі (upstream; Windows setup на сайті)
 
-- **Одиночка и LAN**, дальняя прорисовка (**LOD** до 1024 чанков), пресеты графики.
-- **Геймпады** Xbox / PlayStation / Switch Pro — у ванильной Java этого нет.
-- **Нативные моды Horizon** (`.hnmod` / `.hmod`), а не Fabric/Forge JAR.
-- **Шейдеры API 0.2** (0.1 снят с 0.2.67+); сборка **0.2.69** на сайте.
-- **Лицензия LGPL-3.0-or-later** с релиза 0.2.69 (код Horizon; Minecraft files — ваши легальные).
+Одиночна гра та LAN, **LOD** до 1024 чанків, геймпади, нативні моди **`.hnmod`**, **shader API 0.2**, **LGPL-3.0-or-later** з 0.2.69.
 
-### Последние патчи лаунчера (0.2.69, 16 ноября 2026)
+### Останні патчі лаунчера
 
-- **0.2.69** — LGPL-3.0-or-later, правки port-pack ledger.
-- **0.2.68** — вкладки лаунчера, Prism `--prism-dir`, переводы.
-- **0.2.67** — только **shader API 0.2**.
-- **0.2.66** — тесты и парсинг игровых файлов.
-- **0.2.65** — streaming download, IPv6 hosting routes, junction AutoRun.
+**0.2.69** LGPL · **0.2.68** UI · **0.2.67** shader API 0.2 · **0.2.66–0.2.65** мережа та завантаження. [https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
-**Скачивание:** Win+R `irm https://horizonlauncher.net/install.ps1 | iex` или **[horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** — только с **horizonlauncher.net**, не с чужих GitHub Releases.
+Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
 ## Навіщо Minecraft на Rust
 
@@ -272,6 +264,15 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 **Чи потрібна Java?**  
 Для Rust-клієнта Horizon — ні.
 
+**Яка ліцензія?**  
+З **0.2.69** upstream Horizon — **LGPL-3.0-or-later**. Файли Minecraft — Mojang/Microsoft. [https://horizonlauncher.net/legal/](https://horizonlauncher.net/legal/).
+
+**Distant Horizons, Create і шейдери?**  
+Так — нативні моди (.hnmod). [Distant Horizons](https://horizonlauncher.net/distant-horizons/) · [Create](https://horizonlauncher.net/create-mod/) · [шейдери](https://horizonlauncher.net/shaders/).
+
+**Changelog 0.2.65–0.2.69?**  
+[Релізи](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · лаунчер **0.2.69** на [https://horizonlauncher.net/](https://horizonlauncher.net/).
+
 ## Усі сторінки сайту
 
 - [Головна](https://horizonlauncher.net/)
@@ -287,7 +288,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ## SEO-теги та ключові запити
 
-`завантажити Horizon` `лаунчер Horizon` `Minecraft на Rust` `Minecraft Rust Edition` `скачати Horizon` `download Horizon` `horizonlauncher.net` `Win+R Horizon` `Horizon Win+R install` `Horizon setup.exe`
+`завантажити Horizon` `лаунчер Horizon` `Minecraft на Rust` `Minecraft Rust Edition` `скачати Horizon` `download Horizon` `horizonlauncher.net` `Win+R Horizon` `швидке встановлення Horizon` `setup Horizon` `Distant Horizons Horizon` `Create mod Horizon` `шейдери Horizon` `LGPL Horizon` `Horizon Win+R` `Minecraft Java Rust`
 
 `скачать Horizon` `скачать Horizon бесплатно` `скачать Horizon Minecraft` `скачать Horizon лаунчер` `скачать Horizon Windows` `скачать Horizon Windows 10` `скачать Horizon Windows 11` `скачать Horizon x64` `скачать Horizon 64 bit` `скачать Horizon setup` `скачать Horizon exe` `скачать Horizon installer` `скачать Horizon установщик` `скачать Horizon 0.2.69` `скачать Horizon 2026` `скачать Horizon официальный` `скачать Horizon с официального сайта` `скачать Horizon horizonlauncher.net` `скачать Horizon github` `скачать Horizon launcher github` `Horizon Minecraft скачать` `Horizon Minecraft бесплатно` `Horizon Minecraft лаунчер` `Horizon Minecraft Windows` `Horizon Minecraft Rust` `Horizon Minecraft на Rust` `Horizon Minecraft Rust Edition` `лаунчер Horizon` `лаунчер Horizon скачать` `лаунчер Horizon Windows` `лаунчер Horizon Minecraft` `лаунчер Horizon Minecraft Java` `установить Horizon` `установка Horizon` `как скачать Horizon` `как установить Horizon` `как поставить Horizon` `быстрая установка Horizon` `обычная установка Horizon` `Win+R Horizon` `Horizon Win+R` `команда Win+R Horizon` `powershell Horizon` `irm install.ps1 Horizon` `install.ps1 horizonlauncher.net` `horizon-launcher-setup.exe` `Horizon setup.exe` `Minecraft на Rust` `Minecraft Rust Edition` `клиент Minecraft на Rust` `клиент Minecraft Rust` `Rust клиент Minecraft` `нативный клиент Minecraft` `Minecraft без JVM` `Minecraft без Java` `Minecraft Java на Rust` `альтернатива официальному лаунчеру Minecraft` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `скачать лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `высокий FPS Minecraft` `поднять FPS Minecraft` `Minecraft не лагает` `оптимизация Minecraft Java` `FPS Minecraft Java` `Horizon 0.2.54` `Horizon launcher` `download Horizon` `download Horizon Minecraft` `download Horizon launcher` `download Horizon Windows setup` `Horizon Minecraft launcher download` `Minecraft on Rust` `Minecraft Rust Edition download` `Rust Minecraft client` `Horizon Rust Edition` `free Horizon launcher` `Horizon github` `Horizon Minecraft GitHub` `GitHub Horizon launcher`
 

