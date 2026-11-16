@@ -325,13 +325,13 @@ Horizon **не заменяет** лицензию. Качайте с **[horizon
 [GitHub Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · патч **LGPL**, **shader API 0.2**, лаунчер **0.2.69** на [https://horizonlauncher.net/](https://horizonlauncher.net/).
 
 **Windows 7 / macOS / Linux?**  
-Setup для **Windows 10/11 x64**. Актуально: [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/).
+Установщик для **Windows 10/11 x64**. Подробнее: [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/).
 
 **Где английская версия?**  
-[https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) — Download Horizon.
+[https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) — Download Horizon, гайды и FAQ на английском.
 
 **Зачем GitHub, если есть сайт?**  
-Чтобы запросы «Horizon Minecraft GitHub» вели на **[horizonlauncher.net](https://horizonlauncher.net/)**.
+Чтобы запросы вроде «Horizon Minecraft GitHub» и «Horizon launcher github» вели на канон **[horizonlauncher.net](https://horizonlauncher.net/)**, а не на зеркала.
 
 ## Все страницы сайта (внутренние ссылки)
 
@@ -342,7 +342,7 @@ Setup для **Windows 10/11 x64**. Актуально: [https://horizonlauncher
 
 ## English — Download Horizon Minecraft launcher
 
-**Horizon** is a free **Windows Minecraft launcher** plus a **Minecraft Java client in Rust**. **Canonical:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) · **0.2.69**. Unofficial — not Mojang/Microsoft. [t.me/horizonlauncher](https://t.me/horizonlauncher).
+**Horizon** is a free **Windows Minecraft launcher** and **Minecraft Java client in Rust** (Minecraft Rust Edition). Canonical download: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**. Unofficial — not Mojang/Microsoft. News: [t.me/horizonlauncher](https://t.me/horizonlauncher).
 
 
 ## SEO-теги и ключевые запросы
@@ -353,14 +353,14 @@ Setup для **Windows 10/11 x64**. Актуально: [https://horizonlauncher
 
 ### Скачать / Win+R / setup.exe
 
-- [https://horizonlauncher.net/](https://horizonlauncher.net/)
-- [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/)
-- Win+R: `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
-- [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
-- [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
-- [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
-- [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
-- [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
+- **Сайт:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [https://horizonlauncher.net/](https://horizonlauncher.net/)
+- **Скачать:** [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/)
+- **Настройка:** `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
+- **Установщик:** [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+- **EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+- **Minecraft на Rust:** [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
+- **Telegram:** [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
+- **Карта сайта:** [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
 
 
 **Скачать:** [https://horizonlauncher.net](https://horizonlauncher.net/) · [download-horizon](https://horizonlauncher.net/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)

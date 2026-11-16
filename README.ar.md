@@ -16,7 +16,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center" dir="rtl">
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>تثبيت عادي — تنزيل Horizon setup.exe</strong></a>
-  · <a href="https://horizonlauncher.net/en/download-horizon/">تنزيل Horizon</a>
+  · <a href="https://horizonlauncher.net/ar/download-horizon/">تنزيل Horizon</a>
   · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
   · <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
@@ -46,13 +46,13 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center" dir="rtl">
   <a href="https://horizonlauncher.net/"><strong>الموقع الرسمي horizonlauncher.net</strong></a> ·
-  <a href="https://horizonlauncher.net/en/minecraft-rust/">ماينكرافت على Rust</a> ·
-  <a href="https://horizonlauncher.net/en/faq/">الأسئلة</a> ·
+  <a href="https://horizonlauncher.net/ar/minecraft-rust/">ماينكرافت على Rust</a> ·
+  <a href="https://horizonlauncher.net/ar/faq/">الأسئلة</a> ·
   <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
 
 <p align="center">
-  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
+  <a href="https://horizonlauncher.net/ar/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="تنزيل Horizon" src="https://img.shields.io/badge/Download_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
   <a href="https://t.me/horizonlauncher"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/horizonlauncher-26A5E4?style=for-the-badge"></a>
@@ -71,7 +71,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center"><em>تحديث 2026-11-16: المشغّل <strong>0.2.69</strong>، LGPL، Win+R، UAC. <a href="https://horizonlauncher.net/ar/">horizonlauncher.net</a>.</em></p>
 
-[![Horizon Minecraft](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/ar/)
+[![تنزيل Horizon Minecraft على Rust](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/ar/)
 
 
 ## فيديو وGIF لـ Horizon
@@ -136,7 +136,7 @@ Horizon **ليس** من Mojang / Microsoft. نزّله فقط من **horizonlaun
 7. [السيرفرات والمودات وFPS](#السيرفرات-والمودات-وfps)
 8. [الأسئلة الشائعة](#الأسئلة-الشائعة)
 9. [صفحات الموقع](#صفحات-الموقع)
-10. [English — Download Horizon Minecraft launcher](#english-download-horizon-minecraft-launcher)
+10. [English — تنزيل Horizon Minecraft launcher](#english-تنزيل-horizon-minecraft-launcher)
 11. [وسوم SEO وكلمات البحث](#وسوم-seo-وكلمات-البحث)
 
 ---
@@ -180,10 +180,10 @@ Horizon يُحدَّث باستمرار. كل إصدار له صفحة منفص�
 
 | | |
 |---|---|
-| تنزيل Horizon | [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) |
-| تثبيت المشغّل | [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) |
+| تنزيل Horizon | [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/) |
+| تثبيت المشغّل | [https://horizonlauncher.net/ar/install-horizon/](https://horizonlauncher.net/ar/install-horizon/) |
 | Setup `.exe` | [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) |
-| ماينكرافت على Rust | [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) |
+| ماينكرافت على Rust | [https://horizonlauncher.net/ar/minecraft-rust/](https://horizonlauncher.net/ar/minecraft-rust/) |
 | الموقع الرسمي horizonlauncher.net | [https://horizonlauncher.net](https://horizonlauncher.net) |
 
 **المتطلبات**
@@ -216,7 +216,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 المثبّت واللانشر يعملان كمسؤول (UAC) — أكّد مطالبة Windows. الأمر يجلب `install.ps1` من horizonlauncher.net فقط.
 
-الدليل الكامل: [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+الدليل الكامل: [https://horizonlauncher.net/ar/install-horizon/](https://horizonlauncher.net/ar/install-horizon/) · [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/)
 
 ### الطريقة 2. تثبيت عادي (setup.exe)
 
@@ -266,7 +266,7 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 - مشغّل ويندوز بدون JDK يدوياً؛
 - أي إصدار للعبة موجود على القرص.
 
-المزيد: [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/)
+المزيد: [https://horizonlauncher.net/ar/minecraft-rust/](https://horizonlauncher.net/ar/minecraft-rust/) · [https://horizonlauncher.net/ar/performance/](https://horizonlauncher.net/ar/performance/)
 
 ## مقارنة المشغّلات
 
@@ -312,25 +312,29 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 **سجل التغيير 0.2.65–0.2.69؟**  
 [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · اللانشر **0.2.69** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/)
 
-**Windows 7 / macOS / Linux?**  
-Setup targets **Windows 10/11 x64**. See [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/).
+**Windows 7 / macOS / Linux؟**  
+المثبّت لـ **Windows 10/11 x64** فقط. [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/).
 
-**Russian version?**  
-[https://horizonlauncher.net/](https://horizonlauncher.net/) — скачать Horizon (README.md).
+**النسخة الروسية؟**  
+[https://horizonlauncher.net/](https://horizonlauncher.net/) — README الرئيسي بالروسية.
 
-**Why GitHub if the site exists?**  
-So «Horizon launcher github» points to **[horizonlauncher.net](https://horizonlauncher.net/en/)**.
+**لماذا GitHub؟**  
+حتى تُوجَّه عبارات مثل «Horizon launcher github» إلى **[horizonlauncher.net](https://horizonlauncher.net/ar/)**.
 
 ## صفحات الموقع
 
-**AR:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/) · [https://horizonlauncher.net/ar/install-horizon/](https://horizonlauncher.net/ar/install-horizon/) · [https://horizonlauncher.net/ar/minecraft-rust/](https://horizonlauncher.net/ar/minecraft-rust/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**العربية:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/) · [https://horizonlauncher.net/ar/install-horizon/](https://horizonlauncher.net/ar/install-horizon/) · [https://horizonlauncher.net/ar/minecraft-rust/](https://horizonlauncher.net/ar/minecraft-rust/) · [https://horizonlauncher.net/gallery/](https://horizonlauncher.net/gallery/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
-**EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · **RU:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [sitemap](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
+**English:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+
+**Русский:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/)
+
+[خريطة الموقع](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
 
 
-## English — Download Horizon Minecraft launcher
+## English — تنزيل Horizon Minecraft launcher
 
-**Horizon** — free **Windows Minecraft launcher** and **Java client in Rust**. [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**.
+**Horizon** مشغّل **Minecraft لـ Windows** مجاني و**عميل Java بلغة Rust** (Minecraft Rust Edition). الصفحة الإنجليزية الرسمية: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**. غير تابع لـ Mojang/Microsoft.
 
 
 ## وسوم SEO وكلمات البحث
@@ -341,14 +345,14 @@ So «Horizon launcher github» points to **[horizonlauncher.net](https://horizon
 
 ### تنزيل / Win+R / setup.exe
 
-- [https://horizonlauncher.net/](https://horizonlauncher.net/)
-- [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
-- Win+R: `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
-- [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
-- [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
-- [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
-- [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
-- [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
+- **الموقع:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/](https://horizonlauncher.net/)
+- **تنزيل:** [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/)
+- **Win+R:** `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
+- **المثبّت:** [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+- **EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+- **Minecraft على Rust:** [https://horizonlauncher.net/ar/minecraft-rust/](https://horizonlauncher.net/ar/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
+- **Telegram:** [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
+- **خريطة الموقع:** [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
 
 
 **تنزيل:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)

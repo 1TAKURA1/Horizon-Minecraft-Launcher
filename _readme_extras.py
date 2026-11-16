@@ -6,6 +6,14 @@ from __future__ import annotations
 import re
 import unicodedata
 
+from _locale_strings import (
+  bilingual_section,
+  faq_extra,
+  mirror_block,
+  seo_footer_lines,
+  social_alt,
+)
+
 
 def github_slug(title: str) -> str:
     s = title.strip().lower()
@@ -631,8 +639,8 @@ def _ru(fmt: dict) -> dict:
         "bilingual_body": f"""**Русский:** [{paths['home']}]({paths['home']}) · [download-horizon]({paths['dl']}) · [install]({paths['inst']}) · [minecraft-rust]({paths['rust']}) · [gallery]({paths['gallery']}) · [llms.txt]({S}/llms.txt) · [Telegram](https://t.me/horizonlauncher)
 
 **English:** [{S}/en/]({S}/en/) · [download]({S}/en/download-horizon/) · [legal]({S}/en/legal/)""",
-        "mirror_body": f"""**Horizon** is a free **Windows Minecraft launcher** plus a **Minecraft Java client in Rust**. **Canonical:** [{S}/en/]({S}/en/) · [{E}]({E}) · **{L}**. Unofficial — not Mojang/Microsoft. [t.me/horizonlauncher](https://t.me/horizonlauncher).""",
-        "social": f"[![Скачать Horizon Minecraft на Rust]({S}/media/social-preview.jpg)]({S}/)",
+        "mirror_body": "",
+        "social": f"[![{social_alt('ru')}]({S}/media/social-preview.jpg)]({S}/)",
     })
     return extra
 
@@ -680,8 +688,8 @@ def _en(fmt: dict) -> dict:
         "bilingual_body": f"""**English:** [{paths['home']}]({paths['home']}) · [download]({paths['dl']}) · [install]({paths['inst']}) · [gallery]({paths['gallery']}) · [{E}]({E})
 
 **Русский:** [{S}/]({S}/) · [скачать]({S}/download-horizon/) · [minecraft-rust]({S}/minecraft-rust/)""",
-        "mirror_body": f"""**Horizon** — бесплатный **лаунчер Minecraft Windows** и **клиент Java на Rust**. **[{S}/]({S}/)** · **[{E}]({E})** · **{L}**. Не Mojang/Microsoft.""",
-        "social": f"[![Download Horizon Minecraft on Rust]({S}/media/social-preview.jpg)]({paths['home']})",
+        "mirror_body": "",
+        "social": f"[![{social_alt('en')}]({S}/media/social-preview.jpg)]({paths['home']})",
     })
 
 
@@ -713,13 +721,6 @@ def _locale(code: str, fmt: dict) -> dict:
     paths = site_paths(code, S)
     meta = _LOCALE[code]
     L = fmt["LATEST"]
-    bilingual = f"""**{code.upper()}:** [{paths['home']}]({paths['home']}) · [{paths['dl']}]({paths['dl']}) · [{paths['inst']}]({paths['inst']}) · [{paths['rust']}]({paths['rust']}) · [{E}]({E})
-
-**EN:** [{S}/en/]({S}/en/) · **RU:** [{S}/]({S}/) · [sitemap]({S}/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)"""
-    mirror_body = (
-        f"**Horizon** — free **Windows Minecraft launcher** and **Java client in Rust**. "
-        f"[{S}/en/]({S}/en/) · [{S}/en/download-horizon/]({S}/en/download-horizon/) · **[{E}]({E})** · **{L}**."
-    )
     loc_heads = {
         "toc_h": meta["toc_h"],
         "compare_h": meta["compare_h"],
@@ -739,72 +740,17 @@ def _locale(code: str, fmt: dict) -> dict:
             "servers": meta["servers"],
             "seo_kw": seo_kw,
             "seo_cta": f'{meta["seo_cta"]} [{paths["home"]}]({paths["home"]}) · [{paths["dl"]}]({paths["dl"]}) · [{E}]({E})',
-            "bilingual_body": bilingual,
-            "mirror_body": mirror_body,
-            "social": f"[![Horizon Minecraft]({S}/media/social-preview.jpg)]({paths['home']})",
+            "bilingual_body": bilingual_section(code, S, paths, E),
+            "mirror_body": "",
+            "social": f"[![{social_alt(code)}]({S}/media/social-preview.jpg)]({paths['home']})",
         },
     )
-
-
-def _faq_append(code: str, t: dict, site: str) -> None:
-    dl = f"{site}/en/download-horizon/" if code not in ("ru", "uk") else f"{site}/download-horizon/"
-    templates: dict[str, list[tuple[str, str]]] = {
-        "ru": [
-            ("Windows 7 / macOS / Linux?", f"Setup для **Windows 10/11 x64**. Актуально: [{dl}]({dl})."),
-            ("Где английская версия?", f"[{site}/en/]({site}/en/) — Download Horizon."),
-            ("Зачем GitHub, если есть сайт?", f"Чтобы запросы «Horizon Minecraft GitHub» вели на **[horizonlauncher.net]({site}/)**."),
-        ],
-        "en": [
-            ("Windows 7 / macOS / Linux?", f"Setup targets **Windows 10/11 x64**. See [{dl}]({dl})."),
-            ("Russian version?", f"[{site}/]({site}/) — скачать Horizon (README.md)."),
-            ("Why GitHub if the site exists?", f"So «Horizon launcher github» points to **[horizonlauncher.net]({site}/en/)**."),
-        ],
-        "uk": [
-            ("Windows 7 / macOS / Linux?", f"Лише **Windows 10/11 x64**. [{dl}]({dl})."),
-            ("English?", f"[{site}/en/]({site}/en/)."),
-            ("Навіщо GitHub?", f"Щоб «Horizon GitHub» вів на **[horizonlauncher.net]({site}/)**."),
-        ],
-        "es": [
-            ("¿Windows 7 / macOS / Linux?", f"Solo **Windows 10/11 x64**. [{dl}]({dl})."),
-            ("¿Versión en ruso?", f"[{site}/]({site}/)."),
-            ("¿Por qué GitHub?", f"Para que «Horizon launcher github» lleve a **[horizonlauncher.net]({site}/es/)**."),
-        ],
-        "de": [
-            ("Windows 7 / macOS / Linux?", f"Nur **Windows 10/11 x64**. [{dl}]({dl})."),
-            ("Russische Seite?", f"[{site}/]({site}/)."),
-            ("Warum GitHub?", f"«Horizon launcher github» → **[horizonlauncher.net]({site}/de/)**."),
-        ],
-        "fr": [
-            ("Windows 7 / macOS / Linux ?", f"Uniquement **Windows 10/11 x64**. [{dl}]({dl})."),
-            ("Version russe ?", f"[{site}/]({site}/)."),
-            ("Pourquoi GitHub ?", f"« Horizon launcher github » → **[horizonlauncher.net]({site}/fr/)**."),
-        ],
-        "zh": [
-            ("Windows 7 / macOS / Linux？", f"仅 **Windows 10/11 x64**。 [{dl}]({dl})"),
-            ("俄语站？", f"[{site}/]({site}/)"),
-            ("为什么 GitHub？", f"「Horizon launcher github」→ **[horizonlauncher.net]({site}/zh/)**"),
-        ],
-        "ja": [
-            ("Windows 7 / macOS / Linux？", f"**Windows 10/11 x64** のみ。[{dl}]({dl})"),
-            ("ロシア語？", f"[{site}/]({site}/)"),
-            ("GitHub の理由？", f"「Horizon launcher github」→ **[horizonlauncher.net]({site}/ja/)**"),
-        ],
-    }
-    extra = templates.get(code, templates["en"])
-    t["faq"] = list(t["faq"]) + extra
 
 
 def seo_footer_localized(t: dict, seo: str, dl: str, *, SITE: str, EXE: str, LATEST: str, TG: str) -> str:
     links = f"""### {t.get("seo_links_h", "Links")}
 
-- [{SITE}/]({SITE}/)
-- [{dl}]({dl})
-- Win+R: `powershell -NoP -c "irm {SITE}/install.ps1 | iex"`
-- [{EXE}]({EXE})
-- [{SITE}/en/]({SITE}/en/)
-- [{SITE}/minecraft-rust/]({SITE}/minecraft-rust/) · [{SITE}/en/minecraft-rust/]({SITE}/en/minecraft-rust/)
-- [{TG}]({TG})
-- [{SITE}/sitemap.xml]({SITE}/sitemap.xml)
+{t.get("seo_footer_lines", "")}
 """
     kw = t.get("seo_kw_block") or seo
     cta = t.get("seo_cta", f"[{SITE}]({SITE}) · [{EXE}]({EXE})")
@@ -821,12 +767,18 @@ def seo_footer_localized(t: dict, seo: str, dl: str, *, SITE: str, EXE: str, LAT
 """
 
 
-def apply_readme_extras(T: dict, *, SITE: str, EXE: str, REL: str, LATEST: str) -> None:
+def apply_readme_extras(T: dict, *, SITE: str, EXE: str, REL: str, LATEST: str, TG: str) -> None:
     fmt = dict(SITE=SITE, EXE=EXE, REL=REL, LATEST=LATEST)
     factories = {"ru": _ru, "en": _en}
     for code, t in T.items():
         pack = factories[code](fmt) if code in factories else _locale(code, fmt)
         t.update(pack)
-        merged = {**t, **pack}
+        paths = site_paths(code, SITE)
+        t["paths"] = paths
+        mh, mb = mirror_block(code, SITE, EXE, LATEST)
+        t["mirror_h"] = mh
+        t["mirror_body"] = mb
+        t["seo_footer_lines"] = seo_footer_lines(code, SITE, paths, EXE, TG)
+        t["faq"] = list(t["faq"]) + faq_extra(code, SITE, paths["dl"])
+        merged = {**t, **pack, "mirror_h": mh}
         t["toc"] = build_toc(merged)
-        _faq_append(code, t, SITE)
