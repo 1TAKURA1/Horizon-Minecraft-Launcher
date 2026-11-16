@@ -69,7 +69,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
 </p>
 
-<p align="center"><em>Launcher <strong>0.2.69</strong> · LGPL · Win+R · UAC · <a href="https://horizonlauncher.net/vi/">horizonlauncher.net</a></em></p>
+<p align="center"><em>Cập nhật 2026-11-16: launcher <strong>0.2.69</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/vi/">horizonlauncher.net</a>.</em></p>
 
 [![Horizon Minecraft](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/vi/)
 
@@ -127,9 +127,17 @@ Horizon **không** thuộc Mojang / Microsoft. Chỉ tải từ **horizonlaunche
 
 ## Mục lục
 
-1. [So sánh launcher](#so-sánh-launcher)
-2. [FAQ](#faq)
-3. [Trang web](#trang-web)
+1. [Horizon Minecraft là gì](#horizon-minecraft-là-gì)
+2. [Tải Horizon miễn phí (Windows)](#tải-horizon-miễn-phí-windows)
+3. [Cách cài Horizon — hai phương pháp](#cách-cài-horizon-hai-phương-pháp)
+4. [Tính năng Horizon Minecraft (client Java trên Rust)](#tính-năng-horizon-minecraft-client-java-trên-rust)
+5. [Vì sao Minecraft trên Rust](#vì-sao-minecraft-trên-rust)
+6. [So sánh launcher](#so-sánh-launcher)
+7. [Máy chủ, mod, FPS](#máy-chủ-mod-fps)
+8. [FAQ](#faq)
+9. [Trang web](#trang-web)
+10. [English — Download Horizon Minecraft launcher](#english-download-horizon-minecraft-launcher)
+11. [Thẻ SEO và từ khóa](#thẻ-seo-và-từ-khóa)
 
 ---
 
@@ -262,19 +270,24 @@ Xem thêm: [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlaunc
 
 ## So sánh launcher
 
-| | Official launcher | JVM launchers | **Horizon** |
+| | Launcher Minecraft chính thức | Prism / MultiMC | **Horizon** |
 |---|---|---|---|
-| Download | minecraft.net | GitHub | **[https://horizonlauncher.net/vi/](https://horizonlauncher.net/vi/)** |
+| Tải | minecraft.net | GitHub | **[https://horizonlauncher.net/vi/](https://horizonlauncher.net/vi/)** |
 | Client | JVM | JVM | **Rust (Minecraft Rust Edition)** |
-| Setup | vendor installer | vendor | **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** |
+| Mục tiêu | bản quyền | modpack | **FPS + client Windows native** |
+| Cài đặt | setup | setup | **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** |
 
-Canonical download: **horizonlauncher.net** only.
+Client không chính thức. Chỉ **horizonlauncher.net**.
 
 ## Máy chủ, mod, FPS
 
-- **Servers / mods / FPS / legal:** [https://horizonlauncher.net/vi/](https://horizonlauncher.net/vi/) · [https://horizonlauncher.net/vi/download-horizon/](https://horizonlauncher.net/vi/download-horizon/)
-- **Distant Horizons · Create · shaders:** [https://horizonlauncher.net/en/distant-horizons/](https://horizonlauncher.net/en/distant-horizons/) (EN guides)
-- **Releases 0.2.69:** [https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
+- **Máy chủ Minecraft Java:** [https://horizonlauncher.net/vi/server/](https://horizonlauncher.net/vi/server/)
+- **Mod** `.hnmod`: [https://horizonlauncher.net/vi/mods/](https://horizonlauncher.net/vi/mods/) · [Distant Horizons](https://horizonlauncher.net/vi/distant-horizons/) · [Create](https://horizonlauncher.net/vi/create-mod/) · [shader](https://horizonlauncher.net/vi/shaders/)
+- **Hiệu năng:** [https://horizonlauncher.net/vi/performance/](https://horizonlauncher.net/vi/performance/) · **FAQ:** [https://horizonlauncher.net/vi/faq/](https://horizonlauncher.net/vi/faq/) · **LGPL:** [https://horizonlauncher.net/vi/legal/](https://horizonlauncher.net/vi/legal/)
+
+### Tìm kiếm phổ biến
+
+`tải Horizon Minecraft` · `launcher Horizon Windows` · `Horizon 0.2.69` · [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
 ## FAQ
 
@@ -299,37 +312,46 @@ Có — mod native (.hnmod). [https://horizonlauncher.net/vi/distant-horizons/](
 **Changelog 0.2.65–0.2.69?**  
 [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · launcher **0.2.69** [https://horizonlauncher.net/vi/](https://horizonlauncher.net/vi/)
 
-**Win 7 / macOS / Linux?**  
-Official setup targets **Windows 10/11 x64**. See [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/).
+**Windows 7 / macOS / Linux?**  
+Setup targets **Windows 10/11 x64**. See [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/).
 
-**Why this GitHub README?**  
-So searches like «Horizon launcher github» lead to canonical **[horizonlauncher.net](https://horizonlauncher.net/)**.
+**Russian version?**  
+[https://horizonlauncher.net/](https://horizonlauncher.net/) — скачать Horizon (README.md).
+
+**Why GitHub if the site exists?**  
+So «Horizon launcher github» points to **[horizonlauncher.net](https://horizonlauncher.net/en/)**.
 
 ## Trang web
 
-**VI / local:** [https://horizonlauncher.net/vi/](https://horizonlauncher.net/vi/) · [https://horizonlauncher.net/vi/download-horizon/](https://horizonlauncher.net/vi/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**VI:** [https://horizonlauncher.net/vi/](https://horizonlauncher.net/vi/) · [https://horizonlauncher.net/vi/download-horizon/](https://horizonlauncher.net/vi/download-horizon/) · [https://horizonlauncher.net/vi/install-horizon/](https://horizonlauncher.net/vi/install-horizon/) · [https://horizonlauncher.net/vi/minecraft-rust/](https://horizonlauncher.net/vi/minecraft-rust/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
 **EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · **RU:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [sitemap](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
 
 
+## English — Download Horizon Minecraft launcher
+
+**Horizon** — free **Windows Minecraft launcher** and **Java client in Rust**. [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**.
+
 
 ## Thẻ SEO và từ khóa
 
-`download Horizon` `Horizon 0.2.69` `horizonlauncher.net` `Minecraft Rust Edition` `horizon-launcher-setup.exe` `Win+R Horizon` `LGPL Horizon`
+`tải Horizon` `launcher Horizon` `Minecraft trên Rust` `Horizon 0.2.69` `horizonlauncher.net`
 
-### Download / Win+R / setup.exe
+`tải Horizon` `launcher Horizon` `Minecraft Rust` `Minecraft Rust Edition` `FPS Minecraft` `horizonlauncher.net` `Win+R Horizon` `cài nhanh Horizon` `setup Horizon` `tải Horizon` `Distant Horizons Horizon` `mod Create Horizon`
 
-- Site: [https://horizonlauncher.net/](https://horizonlauncher.net/)
-- Download: [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+### Tải / Win+R / setup.exe
+
+- [https://horizonlauncher.net/](https://horizonlauncher.net/)
+- [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
 - Win+R: `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
-- Setup: [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
-- EN: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
-- Minecraft on Rust: [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
-- Telegram: [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
-- Sitemap: [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
+- [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+- [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
+- [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
+- [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
+- [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
 
 
-**Horizon:** [https://horizonlauncher.net/vi/](https://horizonlauncher.net/vi/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**Tải:** [https://horizonlauncher.net/vi/](https://horizonlauncher.net/vi/) · [https://horizonlauncher.net/vi/download-horizon/](https://horizonlauncher.net/vi/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
 
 </div>

