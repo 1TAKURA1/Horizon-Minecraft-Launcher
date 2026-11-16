@@ -71,6 +71,53 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 Horizon **не** принадлежит Mojang / Microsoft. Это сторонний клиент Minecraft Java. Лицензию игры вы получаете как обычно; здесь — лаунчер и Rust-клиент.
 
+## Скриншоты и видео — Horizon Minecraft на Rust
+
+Клиент **рисует сам** (без JVM). Полные ролики: [галерея](https://horizonlauncher.net/gallery/) · [watch](https://horizonlauncher.net/watch/overview/).
+
+<p align="center">
+  <a href="https://horizonlauncher.net/performance/"><img src="https://horizonlauncher.net/media/shots/fps-1292.webp" width="280" alt="Horizon 1292 FPS Minecraft Java Rust client"></a>
+  <a href="https://horizonlauncher.net/performance/"><img src="https://horizonlauncher.net/media/shots/bench.webp" width="280" alt="Horizon FPS benchmark скачать"></a>
+  <a href="https://horizonlauncher.net/launcher/"><img src="https://horizonlauncher.net/media/shots/launcher.webp" width="280" alt="Horizon launcher Windows скачать"></a>
+</p>
+<p align="center">
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/survival-hq.webp" width="280" alt="Horizon survival Minecraft"></a>
+  <a href="https://horizonlauncher.net/minecraft-rust/"><img src="https://horizonlauncher.net/media/shots/nether-hq.webp" width="280" alt="Horizon Nether Rust client"></a>
+  <a href="https://horizonlauncher.net/performance/"><img src="https://horizonlauncher.net/media/shots/night-hq.webp" width="280" alt="Horizon night FPS"></a>
+</p>
+<p align="center">
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/plains.webp" width="280" alt="Horizon plains world"></a>
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/sunset-hq.webp" width="280" alt="Horizon sunset shaders"></a>
+  <a href="https://horizonlauncher.net/"><img src="https://horizonlauncher.net/media/shots/underwater-hq.webp" width="280" alt="Horizon underwater"></a>
+</p>
+<p align="center">
+  <a href="https://horizonlauncher.net/launcher/"><img src="https://horizonlauncher.net/media/shots/settings.webp" width="280" alt="Horizon graphics settings"></a>
+  <a href="https://horizonlauncher.net/download-horizon/"><img src="https://horizonlauncher.net/media/shots/patch-notes.webp" width="280" alt="Horizon patch notes 0.2.69"></a>
+  <a href="https://horizonlauncher.net/media/mod-spotlight/reels/runaway.mp4"><img src="media/fly.gif" width="280" alt="Скачать Horizon — 4K flythrough"></a>
+</p>
+
+## Возможности (по upstream Horizon — для SEO «скачать Horizon Minecraft»)
+
+**Minecraft: Java Edition 26.3**, переписанный на **Rust**: одни миры и правила, **выше FPS**, нативный клиент Windows. Мы ведём на канонический сайт, не на чужие зеркала.
+
+| Запрос | Куда на horizonlauncher.net |
+|--------|------------------------------|
+| скачать Horizon / setup exe / Win+R | [download-horizon](https://horizonlauncher.net/download-horizon/) · [install.ps1](https://horizonlauncher.net/install.ps1) |
+| Minecraft на Rust / Rust Edition | [minecraft-rust](https://horizonlauncher.net/minecraft-rust/) |
+| высокий FPS / оптимизация Java | [performance](https://horizonlauncher.net/performance/) |
+| Distant Horizons мод | [distant-horizons](https://horizonlauncher.net/distant-horizons/) |
+| Create мод | [create-mod](https://horizonlauncher.net/create-mod/) |
+| шейдеры / shader API 0.2 | [shaders](https://horizonlauncher.net/shaders/) |
+| LGPL лицензия 0.2.69 | [legal](https://horizonlauncher.net/legal/) |
+| сервера Java multiplayer | [server](https://horizonlauncher.net/server/) |
+| моды .hnmod | [mods](https://horizonlauncher.net/mods/) |
+
+**Parity:** у проекта-Horizon сотни **differential harnesses** — сравнение ванили Java и клиента Rust на одинаковых входах (чанки, редстоун, сеть, свет, сохранения). Для игрока это **лаунчер Minecraft без лагов JVM** и плавнее кадр.
+
+**В игре (upstream):** LOD до 1024 чанков, геймпады Xbox/PlayStation/Switch, зум/миникарта опционально, нативные моды **без Fabric JAR**, shader **API 0.2** (с 0.2.67), лицензия кода **LGPL-3.0-or-later** с **0.2.69**.
+
+**Патчи лаунчера 0.2.65–0.2.69:** LGPL, UI лаунчера, shader API 0.2, streaming download, IPv6 hosting — [релизы GitHub](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases).
+
 ---
 
 ## Содержание
@@ -188,11 +235,16 @@ Horizon **не заменяет** лицензию. Это другой клие
 ## Сервера, моды, FPS
 
 - **Сервера Minecraft Java.** Как клиент заходит на сервера — на [странице серверов](https://horizonlauncher.net/server/) и [EN server](https://horizonlauncher.net/en/server/).
-- **Моды.** Состояние моддинга и Fabric/Java-экосистемы относительно Rust-клиента: [моды](https://horizonlauncher.net/mods/) · [EN mods](https://horizonlauncher.net/en/mods/).
+- **Моды.** Нативные `.hnmod` / `.hmod`, не Forge/Fabric JAR: [моды](https://horizonlauncher.net/mods/) · [EN mods](https://horizonlauncher.net/en/mods/) · [Distant Horizons](https://horizonlauncher.net/distant-horizons/) · [Create](https://horizonlauncher.net/create-mod/) · [шейдеры](https://horizonlauncher.net/shaders/).
 - **FPS.** Зачем Rust бьёт ваниль по кадрам: [производительность](https://horizonlauncher.net/performance/).
 - **FAQ.** Частые вопросы «не запускается / где скачать / это вирус?»: [faq](https://horizonlauncher.net/faq/).
+- **Лицензия LGPL** с 0.2.69 (код Horizon): [legal](https://horizonlauncher.net/legal/).
 
-Коротко: вы ищете **лаунчер Minecraft Windows с большим FPS** — ставите Horizon с **horizonlauncher.net**, а не пиратские «оптимизированные клиенты» с рекламой.
+Коротко: вы ищете **лаунчер Minecraft Windows с большим FPS** — **скачать Horizon** только с **horizonlauncher.net**, Win+R или **horizon-launcher-setup.exe**, не пиратские «оптимизированные клиенты».
+
+### Топ запросов, которые закрывает этот пост
+
+`скачать Horizon Minecraft` · `лаунчер Horizon Windows 11` · `Minecraft Rust Edition скачать` · `клиент Minecraft на Rust` · `Horizon launcher github` · `download Horizon setup` · `Win+R Horizon install` · `выше FPS Minecraft Java` · `альтернатива официальному лаунчеру` · `Horizon 0.2.69` · `LGPL Horizon` · `Distant Horizons Horizon` · `Create Horizon mod` · `Horizon shaders API 0.2` · `Prism Launcher альтернатива FPS`
 
 ---
 
@@ -237,6 +289,10 @@ Horizon **не заменяет** лицензию. Это другой клие
 - [FAQ](https://horizonlauncher.net/faq/)
 - [Производительность / FPS](https://horizonlauncher.net/performance/)
 - [Legal](https://horizonlauncher.net/legal/)
+- [Distant Horizons](https://horizonlauncher.net/distant-horizons/)
+- [Create mod](https://horizonlauncher.net/create-mod/)
+- [Шейдеры](https://horizonlauncher.net/shaders/)
+- [Галерея / видео](https://horizonlauncher.net/gallery/)
 - [Windows setup exe](https://horizonlauncher.net/horizon-launcher-setup.exe)
 - [Sitemap](https://horizonlauncher.net/sitemap.xml)
 - [llms.txt](https://horizonlauncher.net/llms.txt)
@@ -292,4 +348,6 @@ Install: download `horizon-launcher-setup.exe` from [horizonlauncher.net](https:
 
 `github Horizon Minecraft` `Horizon launcher github` `Minecraft Rust github` `скачать Horizon github` `Horizon Minecraft GitHub README`
 
-**Скачать:** [horizonlauncher.net](https://horizonlauncher.net/) · [download-horizon](https://horizonlauncher.net/download-horizon/) · [setup exe](https://horizonlauncher.net/horizon-launcher-setup.exe) · [EN download](https://horizonlauncher.net/en/download-horizon/)
+`Distant Horizons Horizon скачать` `Create mod Horizon Minecraft` `Horizon Wisdom shaders` `shader API 0.2 Horizon` `LGPL-3.0 Horizon` `Minecraft Java 26.3 Rust client` `нативный клиент Minecraft без JVM` `лаунчер Minecraft без лагов` `Horizon vs Prism FPS` `Horizon vs MultiMC` `скачать лаунчер Minecraft Rust Edition Windows` `horizonlauncher.net официальный` `Horizon Win+R powershell` `irm install.ps1 Horizon` `Horizon administrator UAC`
+
+**Скачать:** [horizonlauncher.net](https://horizonlauncher.net/) · [download-horizon](https://horizonlauncher.net/download-horizon/) · [setup exe](https://horizonlauncher.net/horizon-launcher-setup.exe) · [EN download](https://horizonlauncher.net/en/download-horizon/) · [distant-horizons](https://horizonlauncher.net/distant-horizons/) · [create-mod](https://horizonlauncher.net/create-mod/) · [shaders](https://horizonlauncher.net/shaders/) · [gallery](https://horizonlauncher.net/gallery/)
