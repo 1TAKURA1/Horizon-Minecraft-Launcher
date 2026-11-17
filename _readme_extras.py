@@ -105,7 +105,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Усі сторінки сайту",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Завантажити / Win+R / setup.exe",
-        "maint": "Оновлено 2026-11-16: лаунчер <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Оновлено 2026-11-17: лаунчер <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Офіційний Minecraft Launcher",
             "c2": "Prism / MultiMC",
@@ -138,7 +138,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Páginas del sitio",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Descargar / Win+R / setup.exe",
-        "maint": "Actualizado 2026-11-16: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Actualizado 2026-11-17: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Launcher oficial de Minecraft",
             "c2": "Prism / MultiMC",
@@ -171,7 +171,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Páginas do site",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Baixar / Win+R / setup.exe",
-        "maint": "Atualizado 2026-11-16: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Atualizado 2026-11-17: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Launcher oficial Minecraft",
             "c2": "Prism / MultiMC",
@@ -204,7 +204,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Seiten der Website",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Download / Win+R / setup.exe",
-        "maint": "Stand 2026-11-16: Launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Stand 2026-11-17: Launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Offizieller Minecraft Launcher",
             "c2": "Prism / MultiMC",
@@ -237,7 +237,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Pages du site",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Télécharger / Win+R / setup.exe",
-        "maint": "Mis à jour 2026-11-16 : launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Mis à jour 2026-11-17 : launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Launcher Minecraft officiel",
             "c2": "Prism / MultiMC",
@@ -270,7 +270,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Pagine del sito",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Scarica / Win+R / setup.exe",
-        "maint": "Aggiornato 2026-11-16: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Aggiornato 2026-11-17: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Launcher Minecraft ufficiale",
             "c2": "Prism / MultiMC",
@@ -303,7 +303,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Strony serwisu",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Pobierz / Win+R / setup.exe",
-        "maint": "Aktualizacja 2026-11-16: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Aktualizacja 2026-11-17: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Oficjalny launcher Minecraft",
             "c2": "Prism / MultiMC",
@@ -336,7 +336,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Site sayfaları",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "İndir / Win+R / setup.exe",
-        "maint": "Güncelleme 2026-11-16: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Güncelleme 2026-11-17: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Resmi Minecraft Launcher",
             "c2": "Prism / MultiMC",
@@ -369,7 +369,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "网站页面链接",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "下载 / Win+R / setup.exe",
-        "maint": "更新 2026-11-16：启动器 <strong>{L}</strong>，LGPL，Win+R，UAC。",
+        "maint": "更新 2026-11-17：启动器 <strong>{L}</strong>，LGPL，Win+R，UAC。",
         "compare_rows": {
             "c1": "官方 Minecraft 启动器",
             "c2": "Prism / MultiMC",
@@ -402,7 +402,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "サイト内リンク",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "ダウンロード / Win+R / setup.exe",
-        "maint": "更新 2026-11-16：ランチャー <strong>{L}</strong>、LGPL、Win+R、UAC。",
+        "maint": "更新 2026-11-17：ランチャー <strong>{L}</strong>、LGPL、Win+R、UAC。",
         "compare_rows": {
             "c1": "公式 Minecraft ランチャー",
             "c2": "Prism / MultiMC",
@@ -435,7 +435,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "사이트 페이지",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "다운로드 / Win+R / setup.exe",
-        "maint": "업데이트 2026-11-16: 런처 <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "업데이트 2026-11-17: 런처 <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "공식 Minecraft 런처",
             "c2": "Prism / MultiMC",
@@ -468,7 +468,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "صفحات الموقع",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "تنزيل / Win+R / setup.exe",
-        "maint": "تحديث 2026-11-16: المشغّل <strong>{L}</strong>، LGPL، Win+R، UAC.",
+        "maint": "تحديث 2026-11-17: المشغّل <strong>{L}</strong>، LGPL، Win+R، UAC.",
         "compare_rows": {
             "c1": "مشغّل Minecraft الرسمي",
             "c2": "Prism / MultiMC",
@@ -501,7 +501,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "साइट पेज",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "डाउनलोड / Win+R / setup.exe",
-        "maint": "अपडेट 2026-11-16: लॉन्चर <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "अपडेट 2026-11-17: लॉन्चर <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "आधिकारिक Minecraft Launcher",
             "c2": "Prism / MultiMC",
@@ -534,7 +534,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Halaman situs",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Unduh / Win+R / setup.exe",
-        "maint": "Diperbarui 2026-11-16: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Diperbarui 2026-11-17: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Launcher Minecraft resmi",
             "c2": "Prism / MultiMC",
@@ -567,7 +567,7 @@ _LOCALE: dict[str, dict] = {
         "bilingual_h": "Trang web",
         "mirror_h": "English — Download Horizon Minecraft launcher",
         "seo_links_h": "Tải / Win+R / setup.exe",
-        "maint": "Cập nhật 2026-11-16: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
+        "maint": "Cập nhật 2026-11-17: launcher <strong>{L}</strong>, LGPL, Win+R, UAC.",
         "compare_rows": {
             "c1": "Launcher Minecraft chính thức",
             "c2": "Prism / MultiMC",
@@ -608,7 +608,7 @@ def _ru(fmt: dict) -> dict:
         "seo_links_h": "Скачать / Win+R / setup.exe",
     }
     extra = _pack_locale(loc, paths, fmt, {
-        "maint": f"Обновлено 2026-11-16: лаунчер <strong>{L}</strong>, LGPL, Win+R, UAC. Скачивание только с <a href=\"{S}/\">horizonlauncher.net</a>.",
+        "maint": f"Обновлено 2026-11-17: лаунчер <strong>{L}</strong>, LGPL, Win+R, UAC. Скачивание только с <a href=\"{S}/\">horizonlauncher.net</a>.",
         "compare_rows": {
             "c1": "Официальный Minecraft Launcher",
             "c2": "Prism / MultiMC / другие Java-лаунчеры",
@@ -657,7 +657,7 @@ def _en(fmt: dict) -> dict:
         "seo_links_h": "Download / Win+R / setup.exe",
     }
     return _pack_locale(loc, paths, fmt, {
-        "maint": f"Updated 2026-11-16: launcher <strong>{L}</strong>, LGPL, Win+R, UAC. Download only from <a href=\"{paths['home']}\">horizonlauncher.net</a>.",
+        "maint": f"Updated 2026-11-17: launcher <strong>{L}</strong>, LGPL, Win+R, UAC. Download only from <a href=\"{paths['home']}\">horizonlauncher.net</a>.",
         "compare_rows": {
             "c1": "Official Minecraft Launcher",
             "c2": "Prism / MultiMC / JVM launchers",

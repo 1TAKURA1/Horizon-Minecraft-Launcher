@@ -18,7 +18,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Так — нативні моди (.hnmod). [Distant Horizons]({SITE}/distant-horizons/) · [Create]({SITE}/create-mod/) · [шейдери]({SITE}/shaders/).",
             ),
             (
-                "Changelog 0.2.65–0.2.69?",
+                "Changelog 0.2.65–0.2.70?",
                 f"[Релізи]({REL}) · лаунчер **{LATEST}** на [{SITE}/]({SITE}/).",
             ),
         ],
@@ -32,7 +32,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Sí — mods nativos (.hnmod). [{SITE}/es/distant-horizons/]({SITE}/es/distant-horizons/) · [Create]({SITE}/es/create-mod/) · [shaders]({SITE}/es/shaders/).",
             ),
             (
-                "¿Changelog 0.2.65–0.2.69?",
+                "¿Changelog 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · launcher **{LATEST}** en [{SITE}/es/]({SITE}/es/).",
             ),
         ],
@@ -46,7 +46,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Sim — mods nativos (.hnmod). [{SITE}/pt/distant-horizons/]({SITE}/pt/distant-horizons/) · [Create]({SITE}/pt/create-mod/) · [shaders]({SITE}/pt/shaders/).",
             ),
             (
-                "Changelog 0.2.65–0.2.69?",
+                "Changelog 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · launcher **{LATEST}** em [{SITE}/pt/]({SITE}/pt/).",
             ),
         ],
@@ -60,7 +60,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Ja — native Mods (.hnmod). [{SITE}/de/distant-horizons/]({SITE}/de/distant-horizons/) · [Create]({SITE}/de/create-mod/) · [Shader]({SITE}/de/shaders/).",
             ),
             (
-                "Changelog 0.2.65–0.2.69?",
+                "Changelog 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · Launcher **{LATEST}** auf [{SITE}/de/]({SITE}/de/).",
             ),
         ],
@@ -74,7 +74,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Oui — mods natifs (.hnmod). [{SITE}/fr/distant-horizons/]({SITE}/fr/distant-horizons/) · [Create]({SITE}/fr/create-mod/) · [shaders]({SITE}/fr/shaders/).",
             ),
             (
-                "Changelog 0.2.65–0.2.69 ?",
+                "Changelog 0.2.65–0.2.70 ?",
                 f"[Releases]({REL}) · launcher **{LATEST}** sur [{SITE}/fr/]({SITE}/fr/).",
             ),
         ],
@@ -88,7 +88,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Sì — mod nativi (.hnmod). [{SITE}/it/distant-horizons/]({SITE}/it/distant-horizons/) · [Create]({SITE}/it/create-mod/) · [shader]({SITE}/it/shaders/).",
             ),
             (
-                "Changelog 0.2.65–0.2.69?",
+                "Changelog 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · launcher **{LATEST}** su [{SITE}/it/]({SITE}/it/).",
             ),
         ],
@@ -102,7 +102,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Tak — natywne mody (.hnmod). [{SITE}/pl/distant-horizons/]({SITE}/pl/distant-horizons/) · [Create]({SITE}/pl/create-mod/) · [shadery]({SITE}/pl/shaders/).",
             ),
             (
-                "Changelog 0.2.65–0.2.69?",
+                "Changelog 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · launcher **{LATEST}** na [{SITE}/pl/]({SITE}/pl/).",
             ),
         ],
@@ -116,7 +116,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Evet — yerel modlar (.hnmod). [{SITE}/tr/distant-horizons/]({SITE}/tr/distant-horizons/) · [Create]({SITE}/tr/create-mod/) · [shader]({SITE}/tr/shaders/).",
             ),
             (
-                "Changelog 0.2.65–0.2.69?",
+                "Changelog 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · launcher **{LATEST}** [{SITE}/tr/]({SITE}/tr/).",
             ),
         ],
@@ -130,7 +130,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"支持 — 原生模组 (.hnmod)。[{SITE}/zh/distant-horizons/]({SITE}/zh/distant-horizons/) · [Create]({SITE}/zh/create-mod/) · [光影]({SITE}/zh/shaders/)",
             ),
             (
-                "0.2.65–0.2.69 更新？",
+                "0.2.65–0.2.70 更新？",
                 f"[Releases]({REL}) · 启动器 **{LATEST}** [{SITE}/zh/]({SITE}/zh/)",
             ),
         ],
@@ -144,7 +144,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"対応 — ネイティブ Mod (.hnmod)。[{SITE}/ja/distant-horizons/]({SITE}/ja/distant-horizons/) · [Create]({SITE}/ja/create-mod/) · [シェーダー]({SITE}/ja/shaders/)",
             ),
             (
-                "チェンジログ 0.2.65–0.2.69？",
+                "チェンジログ 0.2.65–0.2.70？",
                 f"[Releases]({REL}) · ランチャー **{LATEST}** [{SITE}/ja/]({SITE}/ja/)",
             ),
         ],
@@ -158,7 +158,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"지원 — 네이티브 모드 (.hnmod). [{SITE}/ko/distant-horizons/]({SITE}/ko/distant-horizons/) · [Create]({SITE}/ko/create-mod/) · [셰이더]({SITE}/ko/shaders/)",
             ),
             (
-                "변경 로그 0.2.65–0.2.69?",
+                "변경 로그 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · 런처 **{LATEST}** [{SITE}/ko/]({SITE}/ko/)",
             ),
         ],
@@ -172,7 +172,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"نعم — مودات أصلية (.hnmod). [{SITE}/ar/distant-horizons/]({SITE}/ar/distant-horizons/) · [Create]({SITE}/ar/create-mod/) · [شيدر]({SITE}/ar/shaders/)",
             ),
             (
-                "سجل التغيير 0.2.65–0.2.69؟",
+                "سجل التغيير 0.2.65–0.2.70؟",
                 f"[Releases]({REL}) · اللانشر **{LATEST}** [{SITE}/ar/]({SITE}/ar/)",
             ),
         ],
@@ -186,7 +186,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"हाँ — नेटिव मॉड (.hnmod)। [{SITE}/hi/distant-horizons/]({SITE}/hi/distant-horizons/) · [Create]({SITE}/hi/create-mod/) · [शेडर]({SITE}/hi/shaders/)",
             ),
             (
-                "चेंजलॉग 0.2.65–0.2.69?",
+                "चेंजलॉग 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · लॉन्चर **{LATEST}** [{SITE}/hi/]({SITE}/hi/)",
             ),
         ],
@@ -200,7 +200,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Ya — mod native (.hnmod). [{SITE}/id/distant-horizons/]({SITE}/id/distant-horizons/) · [Create]({SITE}/id/create-mod/) · [shader]({SITE}/id/shaders/)",
             ),
             (
-                "Changelog 0.2.65–0.2.69?",
+                "Changelog 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · launcher **{LATEST}** [{SITE}/id/]({SITE}/id/)",
             ),
         ],
@@ -214,7 +214,7 @@ def faq_extra(lang: str, *, SITE: str, EXE: str, REL: str, LATEST: str) -> list[
                 f"Có — mod native (.hnmod). [{SITE}/vi/distant-horizons/]({SITE}/vi/distant-horizons/) · [Create]({SITE}/vi/create-mod/) · [shader]({SITE}/vi/shaders/)",
             ),
             (
-                "Changelog 0.2.65–0.2.69?",
+                "Changelog 0.2.65–0.2.70?",
                 f"[Releases]({REL}) · launcher **{LATEST}** [{SITE}/vi/]({SITE}/vi/)",
             ),
         ],
@@ -376,7 +376,7 @@ def feat_body(lang: str) -> str:
 
 ### Останні патчі лаунчера
 
-**0.2.69** LGPL · **0.2.68** UI · **0.2.67** shader API 0.2 · **0.2.66–0.2.65** мережа та завантаження. [{REL}]({REL})
+**0.2.70** Play/shaders · **0.2.69** LGPL · **0.2.68** UI · **0.2.67** shader API 0.2 · **0.2.66–0.2.65** мережа та завантаження. [{REL}]({REL})
 
 Win+R: `irm {SITE}/install.ps1 | iex` · **[horizon-launcher-setup.exe]({EXE})**
 """.strip()
@@ -404,7 +404,7 @@ Un jugador y LAN, **LOD** lejano, mandos, mods nativos **`.hnmod`**, **shader AP
 
 ### Parches recientes del launcher
 
-**0.2.69** LGPL · **0.2.68** UI · **0.2.67** shader API 0.2. Notas: [{REL}]({REL})
+**0.2.70** Play/shaders · **0.2.69** LGPL · **0.2.68** UI · **0.2.67** shader API 0.2. Notas: [{REL}]({REL})
 
 Win+R: `irm {SITE}/install.ps1 | iex` · **[horizon-launcher-setup.exe]({EXE})**
 """.strip()
