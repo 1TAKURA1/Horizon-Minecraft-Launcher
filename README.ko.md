@@ -1,23 +1,57 @@
-<p align="center">
-  <strong>빠른 설치 (Win+R)</strong>
-</p>
+<h2 align="center">Install Horizon</h2>
 
-<p align="center">Win+R → 명령 붙여넣기 → 런처가 설치되고 열립니다.</p>
+<p align="center"><b>The website always has the newest build. Win+R is the current install path. GitHub hosts this release’s launcher.</b></p>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ① Website — always latest
+
+**horizonlauncher.net** always serves the current launcher. Use the site for updates, not stale mirrors.
+
+**[Open the site and download](https://horizonlauncher.net/ko/)**  
+[setup.exe from the site](https://horizonlauncher.net/horizon-launcher-setup.exe)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ② Win+R — current method
+
+Fastest path: the command downloads, installs, and opens the launcher.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ③ GitHub — this release
+
+The same Windows setup **0.2.70** as a file on this release. Anything newer than the tag is on the site.
+
+**[Download launcher from GitHub](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe)**  
+[Release 0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><strong>② Win+R — current method</strong> — copy the command, Win+R, Enter</p>
 
 ```bat
 powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 ```
 
-1. **Win+R.** Windows와 R — 실행 창이 열립니다.
-2. **붙여넣기.** Ctrl+V — 아래 명령을 붙입니다.
-3. **Enter.** Horizon이 설치되고 열립니다. 그다음 준비 → 플레이.
+<ol>
+<li><strong>Win+R</strong> — Windows + R, the Run box.</li>
+<li><strong>Ctrl+V</strong> — paste the command.</li>
+<li><strong>Enter</strong> — it downloads, installs, opens. Confirm UAC.</li>
+</ol>
 
 <p align="center">설치 프로그램과 런처는 관리자(UAC)로 실행됩니다 — Windows 확인을 허용하세요. 명령은 horizonlauncher.net의 `install.ps1`만 받습니다.</p>
 
 <p align="center">
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>일반 설치 — Horizon 다운로드 setup.exe</strong></a>
-  · <a href="https://horizonlauncher.net/ko/download-horizon/">Horizon 다운로드</a>
-  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <a href="https://horizonlauncher.net/ko/"><strong>Open the site and download</strong></a>
+  · <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">setup.exe from the site</a>
+  · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe">Download launcher from GitHub</a>
   · <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
 
@@ -52,9 +86,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-always_latest-c45c26?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/ko/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Horizon 다운로드" src="https://img.shields.io/badge/Horizon_다운로드-Windows_setup-1a120c?style=for-the-badge"></a>
-  <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe"><img alt="GitHub setup" src="https://img.shields.io/badge/GitHub-setup.exe-2ea44f?style=for-the-badge"></a>
   <a href="https://t.me/horizonlauncher"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/horizonlauncher-26A5E4?style=for-the-badge"></a>
 </p>
 

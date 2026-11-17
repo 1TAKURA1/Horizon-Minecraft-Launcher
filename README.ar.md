@@ -1,23 +1,57 @@
-<p align="center" dir="rtl">
-  <strong>تثبيت سريع (Win+R)</strong>
-</p>
+<h2 align="center" dir="rtl">Install Horizon</h2>
 
-<p align="center" dir="rtl">Win+R → الصق الأمر → يُثبَّت المشغّل ويفتح.</p>
+<p align="center" dir="rtl"><b>The website always has the newest build. Win+R is the current install path. GitHub hosts this release’s launcher.</b></p>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ① Website — always latest
+
+**horizonlauncher.net** always serves the current launcher. Use the site for updates, not stale mirrors.
+
+**[Open the site and download](https://horizonlauncher.net/ar/)**  
+[setup.exe from the site](https://horizonlauncher.net/horizon-launcher-setup.exe)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ② Win+R — current method
+
+Fastest path: the command downloads, installs, and opens the launcher.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ③ GitHub — this release
+
+The same Windows setup **0.2.70** as a file on this release. Anything newer than the tag is on the site.
+
+**[Download launcher from GitHub](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe)**  
+[Release 0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)
+
+</td>
+</tr>
+</table>
+
+<p align="center" dir="rtl"><strong>② Win+R — current method</strong> — copy the command, Win+R, Enter</p>
 
 ```bat
 powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 ```
 
-1. **Win+R.** Windows و R — تفتح نافذة التشغيل.
-2. **لصق.** Ctrl+V — الصق الأمر أدناه.
-3. **Enter.** Horizon يتنزّل ويُثبَّت ويفتح — ثم إعداد → تشغيل.
+<ol>
+<li><strong>Win+R</strong> — Windows + R, the Run box.</li>
+<li><strong>Ctrl+V</strong> — paste the command.</li>
+<li><strong>Enter</strong> — it downloads, installs, opens. Confirm UAC.</li>
+</ol>
 
 <p align="center" dir="rtl">المثبّت واللانشر يعملان كمسؤول (UAC) — أكّد مطالبة Windows. الأمر يجلب `install.ps1` من horizonlauncher.net فقط.</p>
 
 <p align="center" dir="rtl">
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>تثبيت عادي — تنزيل Horizon setup.exe</strong></a>
-  · <a href="https://horizonlauncher.net/ar/download-horizon/">تنزيل Horizon</a>
-  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <a href="https://horizonlauncher.net/ar/"><strong>Open the site and download</strong></a>
+  · <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">setup.exe from the site</a>
+  · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe">Download launcher from GitHub</a>
   · <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
 
@@ -52,9 +86,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-always_latest-c45c26?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/ar/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="تنزيل Horizon" src="https://img.shields.io/badge/Download_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
-  <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe"><img alt="GitHub setup" src="https://img.shields.io/badge/GitHub-setup.exe-2ea44f?style=for-the-badge"></a>
   <a href="https://t.me/horizonlauncher"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/horizonlauncher-26A5E4?style=for-the-badge"></a>
 </p>
 

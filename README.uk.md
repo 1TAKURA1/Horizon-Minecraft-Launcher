@@ -1,23 +1,57 @@
-<p align="center">
-  <strong>Швидка установка (Win+R)</strong>
-</p>
+<h2 align="center">Встановлення Horizon</h2>
 
-<p align="center">Win+R → встав команду → лаунчер ставиться і відкривається сам.</p>
+<p align="center"><b>Сайт — завжди найсвіжіша версія. Win+R — актуальний спосіб. GitHub — лаунчер цього релізу.</b></p>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ① Сайт — завжди актуальна
+
+На **horizonlauncher.net** завжди свіжий лаунчер. Оновлення бери з сайту.
+
+**[Відкрити сайт і завантажити](https://horizonlauncher.net/)**  
+[setup.exe з сайту](https://horizonlauncher.net/horizon-launcher-setup.exe)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ② Win+R — актуальний спосіб
+
+Найшвидший шлях: команда сама завантажить, поставить і відкриє лаунчер.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ③ GitHub — лаунчер релізу
+
+Той самий Windows setup **0.2.70** у цьому релізі. Новіше за тег — завжди на сайті.
+
+**[Завантажити лаунчер з GitHub](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe)**  
+[Реліз 0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><strong>② Win+R — актуальний спосіб</strong> — скопіюй команду, Win+R, Enter</p>
 
 ```bat
 powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 ```
 
-1. **Win+R.** Затисни Windows і R — з’явиться вікно «Виконати».
-2. **Встав.** Ctrl+V — встав команду нижче.
-3. **Enter.** Horizon завантажиться, встановиться і відкриється — далі Підготувати → Грати.
+<ol>
+<li><strong>Win+R</strong> — Windows + R, вікно «Виконати».</li>
+<li><strong>Ctrl+V</strong> — встав команду.</li>
+<li><strong>Enter</strong> — завантажиться, встановиться, відкриється. Підтвердь UAC.</li>
+</ol>
 
 <p align="center">Інсталятор і лаунчер запускаються від імені адміністратора (UAC) — підтвердь запит Windows. Команда тягне `install.ps1` лише з horizonlauncher.net.</p>
 
 <p align="center">
-  <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><strong>Звичайна установка — Завантажити Horizon setup.exe</strong></a>
-  · <a href="https://horizonlauncher.net/download-horizon/">Завантажити Horizon</a>
-  · <a href="https://horizonlauncher.net/">horizonlauncher.net</a>
+  <a href="https://horizonlauncher.net/"><strong>Відкрити сайт і завантажити</strong></a>
+  · <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">setup.exe з сайту</a>
+  · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe">Завантажити лаунчер з GitHub</a>
   · <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
 
@@ -52,9 +86,10 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 </p>
 
 <p align="center">
+  <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-always_latest-c45c26?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/download-horizon/"><img alt="Win+R" src="https://img.shields.io/badge/Win+R-install.ps1-1a120c?style=for-the-badge"></a>
   <a href="https://horizonlauncher.net/horizon-launcher-setup.exe"><img alt="Завантажити Horizon" src="https://img.shields.io/badge/Завантажити_Horizon-Windows_setup-1a120c?style=for-the-badge"></a>
-  <a href="https://horizonlauncher.net/"><img alt="horizonlauncher.net" src="https://img.shields.io/badge/Site-horizonlauncher.net-c45c26?style=for-the-badge"></a>
+  <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe"><img alt="GitHub setup" src="https://img.shields.io/badge/GitHub-setup.exe-2ea44f?style=for-the-badge"></a>
   <a href="https://t.me/horizonlauncher"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-t.me/horizonlauncher-26A5E4?style=for-the-badge"></a>
 </p>
 
