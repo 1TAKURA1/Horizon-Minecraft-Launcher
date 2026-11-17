@@ -55,6 +55,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   · <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
 
+
 <p align="center">
   <strong>최신 업데이트:</strong>
   <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70">0.2.70</a>

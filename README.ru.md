@@ -55,6 +55,65 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
   · <a href="https://t.me/horizonlauncher">Telegram</a>
 </p>
 
+<hr/>
+<h2 align="center">Install Horizon</h2>
+
+<p align="center"><b>The website always has the newest build. Win+R is the current install path. GitHub hosts this release’s launcher.</b></p>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ① Website — always latest
+
+**horizonlauncher.net** always serves the current launcher. Use the site for updates, not stale mirrors.
+
+**[Open the site and download](https://horizonlauncher.net/en/)**  
+[setup.exe from the site](https://horizonlauncher.net/horizon-launcher-setup.exe)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ② Win+R — current method
+
+Fastest path: the command downloads, installs, and opens the launcher.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ③ GitHub — this release
+
+The same Windows setup **0.2.70** as a file on this release. Anything newer than the tag is on the site.
+
+**[Download launcher from GitHub](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe)**  
+[Release 0.2.70](https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><strong>② Win+R — current method</strong> — copy the command, Win+R, Enter</p>
+
+```bat
+powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
+```
+
+<ol>
+<li><strong>Win+R</strong> — Windows + R, the Run box.</li>
+<li><strong>Ctrl+V</strong> — paste the command.</li>
+<li><strong>Enter</strong> — it downloads, installs, opens. Confirm UAC.</li>
+</ol>
+
+<p align="center">The installer and launcher run as administrator (UAC) — confirm the Windows prompt. The command fetches `install.ps1` only from horizonlauncher.net.</p>
+
+<p align="center">
+  <a href="https://horizonlauncher.net/en/"><strong>Open the site and download</strong></a>
+  · <a href="https://horizonlauncher.net/horizon-launcher-setup.exe">setup.exe from the site</a>
+  · <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/download/0.2.70/horizon-launcher-setup.exe">Download launcher from GitHub</a>
+  · <a href="https://t.me/horizonlauncher">Telegram</a>
+</p>
+
+
 <p align="center">
   <strong>Последнее обновление:</strong>
   <a href="https://github.com/1TAKURA1/Horizon-Minecraft-Launcher/releases/tag/0.2.70">0.2.70</a>
