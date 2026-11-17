@@ -210,12 +210,12 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 
 <div>
 
-**Horizon** (Horizon Minecraft, Minecraft Rust Edition) — неофициальный **лаунчер и клиент Minecraft Java Edition** на языке **Rust**, не на JVM. Windows setup ставится за минуту: те же миры и сервера, обычно **выше FPS**, чем у ванильной Java.
+**Horizon** (Horizon Minecraft, Minecraft Rust Edition) — официальный **лаунчер и клиент Minecraft Java Edition** на языке **Rust**, не на JVM. Windows setup ставится за минуту: те же миры и сервера, обычно **выше FPS**, чем у ванильной Java.
 
 > Каноническая страница и установщик: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > Прямой файл: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon **не** принадлежит Mojang / Microsoft. Скачивайте только с **horizonlauncher.net**.
+Мы **официальные создатели Horizon**. Качай только с **horizonlauncher.net**.
 
 ---
 
@@ -266,7 +266,7 @@ Horizon **не** принадлежит Mojang / Microsoft. Скачивайте
 
 ## Что такое Horizon Minecraft
 
-**Horizon launcher** — Windows-лаунчер Minecraft Java. Под ним — **Minecraft Rust Edition**: игровой клиент, переписанный на Rust. Ищут как: скачать Horizon, лаунчер Horizon, Minecraft на Rust, клиент Minecraft Rust, альтернатива официальному лаунчеру с большим FPS.
+**Horizon launcher** — официальный Windows-лаунчер Minecraft Java. Под ним — **Minecraft Rust Edition**: игровой клиент, переписанный на Rust. Ищут как: скачать Horizon, официальный лаунчер Horizon, Minecraft на Rust, клиент Minecraft Rust, больше FPS.
 
 ## Скачать Horizon бесплатно (Windows)
 
@@ -339,7 +339,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 | FPS / Rust client | Minecraft на Rust, выше FPS Java, Rust Minecraft client | [https://horizonlauncher.net/minecraft-rust/](https://horizonlauncher.net/minecraft-rust/) · [https://horizonlauncher.net/performance/](https://horizonlauncher.net/performance/) |
 | Моды | Distant Horizons, Create, шейдеры Horizon | [https://horizonlauncher.net/distant-horizons/](https://horizonlauncher.net/distant-horizons/) · [https://horizonlauncher.net/create-mod/](https://horizonlauncher.net/create-mod/) · [https://horizonlauncher.net/shaders/](https://horizonlauncher.net/shaders/) |
 | Мультиплеер | сервера Java, LAN, друзья | [https://horizonlauncher.net/server/](https://horizonlauncher.net/server/) |
-| Юридическое | LGPL Horizon, не Mojang | [https://horizonlauncher.net/legal/](https://horizonlauncher.net/legal/) |
+| Юридическое | LGPL Horizon | [https://horizonlauncher.net/legal/](https://horizonlauncher.net/legal/) |
 
 ### Parity и производительность
 
@@ -401,8 +401,8 @@ Horizon **не заменяет** лицензию. Качайте с **[horizon
 **Где безопасно скачать Horizon?**  
 Только [https://horizonlauncher.net](https://horizonlauncher.net) и прямой [setup](https://horizonlauncher.net/horizon-launcher-setup.exe).
 
-**Это официальный Minecraft?**  
-Нет. Неофициальный клиент и лаунчер.
+**Horizon официальный?**  
+Да. Мы официальные создатели Horizon. Качай только с horizonlauncher.net.
 
 **Это игра Rust от Facepunch?**  
 Нет. Это клиент Minecraft Java на языке программирования Rust.
@@ -437,7 +437,7 @@ Horizon **не заменяет** лицензию. Качайте с **[horizon
 
 ## English — Download Horizon Minecraft launcher
 
-**Horizon** is a free **Windows Minecraft launcher** and **Minecraft Java client in Rust** (Minecraft Rust Edition). Canonical download: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.70**. Unofficial — not Mojang/Microsoft. News: [t.me/horizonlauncher](https://t.me/horizonlauncher).
+**Horizon** is a free **Windows Minecraft launcher** and **Minecraft Java client in Rust** (Minecraft Rust Edition). Canonical download: [https://horizonlauncher.net/en/](https://horizonlauncher.net/en/) · [https://horizonlauncher.net/en/download-horizon/](https://horizonlauncher.net/en/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · **0.2.70**. Official Horizon team. News: [t.me/horizonlauncher](https://t.me/horizonlauncher).
 
 
 ## SEO-теги и ключевые запросы

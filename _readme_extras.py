@@ -669,7 +669,7 @@ def _en(fmt: dict) -> dict:
             "v1": "license & vanilla",
             "v2": "modpacks",
             "native": "native Windows client",
-            "foot": "Unofficial — use a legitimate Java license. Download only **horizonlauncher.net**.",
+            "foot": "Official Horizon — download only **horizonlauncher.net**.",
         },
         "servers": {
             "serv": "Minecraft Java servers",

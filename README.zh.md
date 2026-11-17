@@ -157,7 +157,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 > 规范页面与安装包： **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > 直链文件: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon **不属于** Mojang / Microsoft。请只从 **horizonlauncher.net** 下载。
+我们是 **Horizon 官方团队**。请只从 **horizonlauncher.net** 下载。
 
 ---
 

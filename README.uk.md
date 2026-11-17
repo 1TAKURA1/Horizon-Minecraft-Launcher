@@ -157,7 +157,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 > Канонічна сторінка та інсталятор: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > Прямий файл: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon **не** належить Mojang / Microsoft. Завантажуйте лише з **horizonlauncher.net**.
+Ми **офіційні автори Horizon**. Завантажуйте лише з **horizonlauncher.net**.
 
 ---
 

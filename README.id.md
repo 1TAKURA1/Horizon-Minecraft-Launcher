@@ -157,7 +157,7 @@ MP4 lengkap di situs: [4K fly](https://horizonlauncher.net/media/mod-spotlight/r
 > Halaman kanonik dan installer: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > Berkas langsung: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon **bukan** milik Mojang / Microsoft. Unduh hanya dari **horizonlauncher.net**.
+Kami **tim resmi Horizon**. Unduh hanya dari **horizonlauncher.net**.
 
 ---
 

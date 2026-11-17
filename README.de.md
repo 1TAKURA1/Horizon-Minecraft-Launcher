@@ -157,7 +157,7 @@ Volle MP4-Dateien auf der Website: [4K fly](https://horizonlauncher.net/media/mo
 > Kanonische Seite und Installer: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > Direkt-Datei: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon gehört **nicht** Mojang / Microsoft. Nur von **horizonlauncher.net** laden.
+Wir sind das **offizielle Horizon-Team**. Nur von **horizonlauncher.net** laden.
 
 ---
 

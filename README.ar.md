@@ -157,7 +157,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 > الصفحة المعتمدة وملف التثبيت: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > الملف المباشر: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon **ليس** من Mojang / Microsoft. نزّله فقط من **horizonlauncher.net**.
+نحن **الفريق الرسمي لـ Horizon**. نزّله فقط من **horizonlauncher.net**.
 
 ---
 

@@ -157,7 +157,7 @@ MP4 complets sur le site: [4K fly](https://horizonlauncher.net/media/mod-spotlig
 > Page canonique et installeur : **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > Fichier direct: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon n’appartient **pas** à Mojang / Microsoft. Téléchargez uniquement sur **horizonlauncher.net**.
+Nous sommes l’**équipe officielle Horizon**. Téléchargez uniquement sur **horizonlauncher.net**.
 
 ---
 

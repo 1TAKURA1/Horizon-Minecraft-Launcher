@@ -152,12 +152,12 @@ Full MP4 files on the site: [4K fly](https://horizonlauncher.net/media/mod-spotl
 
 <div>
 
-**Horizon** is an unofficial **Minecraft Java Edition launcher and client** written in **Rust**, not the JVM. Install the Windows setup in a minute: same worlds and servers, typically **higher FPS** than vanilla Java.
+**Horizon** is the official **Minecraft Java Edition launcher and client** written in **Rust**, not the JVM. Install the Windows setup in a minute: same worlds and servers, typically **higher FPS** than vanilla Java.
 
 > Canonical page and installer: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > Direct file: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon is **not** Mojang / Microsoft. Download only from **horizonlauncher.net**.
+We are the **official Horizon team**. Download only from **horizonlauncher.net**.
 
 ---
 
@@ -281,7 +281,7 @@ The same Horizon installer — a normal file download, no command. Current: **0.
 | Performance | Minecraft on Rust, higher FPS Java, Rust Minecraft client | [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlauncher.net/en/minecraft-rust/) · [https://horizonlauncher.net/en/performance/](https://horizonlauncher.net/en/performance/) |
 | Mods | Distant Horizons, Create, Horizon shaders | [https://horizonlauncher.net/en/distant-horizons/](https://horizonlauncher.net/en/distant-horizons/) · [https://horizonlauncher.net/en/create-mod/](https://horizonlauncher.net/en/create-mod/) · [https://horizonlauncher.net/en/shaders/](https://horizonlauncher.net/en/shaders/) |
 | Multiplayer | Java servers, LAN | [https://horizonlauncher.net/en/server/](https://horizonlauncher.net/en/server/) |
-| Legal | LGPL, unofficial | [https://horizonlauncher.net/en/legal/](https://horizonlauncher.net/en/legal/) |
+| Legal | LGPL | [https://horizonlauncher.net/en/legal/](https://horizonlauncher.net/en/legal/) |
 
 ### Parity and FPS
 
@@ -317,7 +317,7 @@ Read more: [https://horizonlauncher.net/en/minecraft-rust/](https://horizonlaunc
 | Focus | license & vanilla | modpacks | **FPS + native Windows client** |
 | Install | setup | setup | **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** |
 
-Unofficial — use a legitimate Java license. Download only **horizonlauncher.net**.
+Official Horizon — download only **horizonlauncher.net**.
 
 ## Servers, mods, FPS
 
@@ -334,8 +334,8 @@ Unofficial — use a legitimate Java license. Download only **horizonlauncher.ne
 **Where do I download Horizon safely?**  
 Only [https://horizonlauncher.net](https://horizonlauncher.net) and the [setup](https://horizonlauncher.net/horizon-launcher-setup.exe).
 
-**Is this official Minecraft?**  
-No. Unofficial client and launcher.
+**Is Horizon official?**  
+Yes. We are the official Horizon team. Download only from horizonlauncher.net.
 
 **Is this Facepunch’s Rust?**  
 No. It is a Minecraft Java client written in the Rust language.
@@ -370,7 +370,7 @@ So searches like «Horizon launcher github» point to canonical **[horizonlaunch
 
 ## Русский — скачать Horizon Minecraft launcher
 
-**Horizon** — бесплатный **лаунчер Minecraft для Windows** и **клиент Java на Rust** (Minecraft Rust Edition). Канон: [https://horizonlauncher.net/](https://horizonlauncher.net/) · [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · версия **0.2.70**. Не официальный продукт Mojang/Microsoft.
+**Horizon** — бесплатный **лаунчер Minecraft для Windows** и **клиент Java на Rust** (Minecraft Rust Edition). Канон: [https://horizonlauncher.net/](https://horizonlauncher.net/) · [https://horizonlauncher.net/download-horizon/](https://horizonlauncher.net/download-horizon/) · **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)** · версия **0.2.70**. Официальный Horizon. Качай с horizonlauncher.net.
 
 
 ## SEO tags and search queries

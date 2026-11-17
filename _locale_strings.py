@@ -261,7 +261,7 @@ def mirror_block(code: str, site: str, exe: str, latest: str) -> tuple[str, str]
       "Русский — скачать Horizon Minecraft launcher",
       f"**Horizon** — бесплатный **лаунчер Minecraft для Windows** и **клиент Java на Rust** "
       f"(Minecraft Rust Edition). Канон: [{ru_home}]({ru_home}) · [{ru_dl}]({ru_dl}) · **[{exe}]({exe})** · версия **{latest}**. "
-      f"Не официальный продукт Mojang/Microsoft.",
+      f"Официальный Horizon. Качай с horizonlauncher.net.",
     )
 
   if code == "ru":
@@ -269,7 +269,7 @@ def mirror_block(code: str, site: str, exe: str, latest: str) -> tuple[str, str]
       "English — Download Horizon Minecraft launcher",
       f"**Horizon** is a free **Windows Minecraft launcher** and **Minecraft Java client in Rust** "
       f"(Minecraft Rust Edition). Canonical download: [{en_home}]({en_home}) · [{en_dl}]({en_dl}) · **[{exe}]({exe})** · **{latest}**. "
-      f"Unofficial — not Mojang/Microsoft. News: [t.me/horizonlauncher](https://t.me/horizonlauncher).",
+      f"Official Horizon team. News: [t.me/horizonlauncher](https://t.me/horizonlauncher).",
     )
 
   titles = {

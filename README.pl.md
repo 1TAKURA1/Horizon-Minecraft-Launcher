@@ -157,7 +157,7 @@ Pełne MP4 na stronie: [4K fly](https://horizonlauncher.net/media/mod-spotlight/
 > Kanoniczna strona i instalator: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > Plik bezpośredni: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon **nie** należy do Mojang / Microsoft. Pobieraj tylko z **horizonlauncher.net**.
+Jesteśmy **oficjalnym zespołem Horizon**. Pobieraj tylko z **horizonlauncher.net**.
 
 ---
 

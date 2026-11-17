@@ -157,7 +157,7 @@ Sitedeki tam MP4 dosyaları: [4K fly](https://horizonlauncher.net/media/mod-spot
 > Asıl sayfa ve kurulum dosyası: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > Doğrudan dosya: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon Mojang / Microsoft’a **ait değildir**. Yalnızca **horizonlauncher.net** üzerinden indirin.
+**Resmi Horizon ekibiyiz**. Yalnızca **horizonlauncher.net** üzerinden indirin.
 
 ---
 

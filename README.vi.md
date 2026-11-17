@@ -157,7 +157,7 @@ MP4 đầy đủ trên site: [4K fly](https://horizonlauncher.net/media/mod-spot
 > Trang chuẩn và bộ cài: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > File trực tiếp: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon **không** thuộc Mojang / Microsoft. Chỉ tải từ **horizonlauncher.net**.
+Chúng tôi là **đội ngũ chính thức của Horizon**. Chỉ tải từ **horizonlauncher.net**.
 
 ---
 

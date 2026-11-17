@@ -157,7 +157,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 > मुख्य पेज और इंस्टॉलर: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > सीधी फ़ाइल: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon Mojang / Microsoft का **नहीं** है। सिर्फ़ **horizonlauncher.net** से डाउनलोड करें।
+हम **Horizon की आधिकारिक टीम** हैं। सिर्फ़ **horizonlauncher.net** से डाउनलोड करें।
 
 ---
 

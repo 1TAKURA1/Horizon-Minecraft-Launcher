@@ -157,7 +157,7 @@ powershell -NoP -c "irm https://horizonlauncher.net/install.ps1 | iex"
 > 正規ページとインストーラー: **[https://horizonlauncher.net/](https://horizonlauncher.net/)**  
 > 直接ファイル: **[https://horizonlauncher.net/horizon-launcher-setup.exe](https://horizonlauncher.net/horizon-launcher-setup.exe)**
 
-Horizon は Mojang / Microsoft の製品では **ありません**。**horizonlauncher.net** からのみ入手してください。
+私たちは **Horizon 公式チーム**です。**horizonlauncher.net** からのみ入手してください。
 
 ---
 
